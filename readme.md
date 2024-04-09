@@ -1,6 +1,6 @@
-# TechiDaily
+# Activate Lock Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://activate-lock.techidaily.com](https://activate-lock.techidaily.com)
 
 ## Publish
 
