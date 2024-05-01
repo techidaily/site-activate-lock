@@ -481,3 +481,4 @@ Luckily, Wondershare [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.co
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Motorola Edge 40 | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-infinix-hot-40-pro-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Infinix Hot 40 Pro.</u></a></li>
 </ul></div>
+

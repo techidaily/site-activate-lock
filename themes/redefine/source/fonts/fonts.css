@@ -1,22 +1,3 @@
-/* noto-sans-sc-regular - chinese-simplified */
-@font-face {
-  font-family: "Noto Sans SC";
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: local("Noto Sans SC"),
-    url("./noto-sans-sc-v26-chinese-simplified-regular.woff2")
-      format("woff2");
-}
-/* noto-sans-sc-700 - chinese-simplified */
-@font-face {
-  font-family: "Noto Sans SC";
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: local("Noto Sans SC"),
-    url("./noto-sans-sc-v26-chinese-simplified-700.woff2") format("woff2");
-}
 
 /* ubuntu-mono-regular - latin */
 @font-face {

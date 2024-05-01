@@ -445,3 +445,4 @@ As we have seen, different methods of how to fix iCloud lock are available to ch
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-infinix-smart-8-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Infinix Smart 8</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-infinix-smart-8-hd-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Infinix Smart 8 HD Lock Screen Password</u></a></li>
 </ul></div>
+

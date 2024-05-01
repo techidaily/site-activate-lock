@@ -232,9 +232,9 @@ $home-banner-icons-container-background-color-dark = rgba(197, 197, 197, 0.3)
 
 if hexo-config('global.fonts.chinese.enable') {
   $temp-chinese-font-family = hexo-config('global.fonts.chinese.family')
-  $chinese-font-family = $temp-chinese-font-family ? $temp-chinese-font-family : 'Noto Sans SC'
+  $chinese-font-family = $temp-chinese-font-family ? $temp-chinese-font-family : 'sans-serif'
 } else {
-  $chinese-font-family = 'Noto Sans SC', sans-serif
+  $chinese-font-family = sans-serif
 }
 
 if hexo-config('global.fonts.english.enable') {
@@ -244,7 +244,7 @@ if hexo-config('global.fonts.english.enable') {
   $english-font-family = 'Satoshi-Variable', sans-serif
 }
 
-$default-font-family = Satoshi-Variable, Noto Sans SC, -apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial
+$default-font-family = Satoshi-Variable, -apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial
 $default-font-size = 16px
 $temp-default-article-font-size = hexo-config('articles.style.font_size')
 $temp-default-line-height = hexo-config('articles.style.line_height')

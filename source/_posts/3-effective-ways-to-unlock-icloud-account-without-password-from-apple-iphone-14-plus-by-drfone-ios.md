@@ -513,3 +513,4 @@ Some of the methods that have been listed above require little skills and time t
 <li><a href="https://techidaily.com/is-your-infinix-smart-8-plus-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Infinix Smart 8 Plus working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Pattern Lock if Forgotten? 6 Ways</u></a></li>
 </ul></div>
+

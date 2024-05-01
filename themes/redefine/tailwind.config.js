@@ -36,11 +36,10 @@ module.exports = {
         xxlarge: "48px",
       },
       fontFamily: {
-        chinese: ["Noto Sans SC", "sans-serif"],
+        chinese: ["sans-serif"],
         english: ["Satoshi-Variable", "sans-serif"],
         default: [
           "Satoshi-Variable",
-          "Noto Sans SC",
           "system-ui",
           "sans-serif",
         ],
