@@ -490,3 +490,4 @@ You can feel free to choose the most suitable method for you, but my recommendat
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-infinix-hot-40i-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Infinix Hot 40i Wont Charge | Dr.fone</u></a></li>
 </ul></div>
 
+

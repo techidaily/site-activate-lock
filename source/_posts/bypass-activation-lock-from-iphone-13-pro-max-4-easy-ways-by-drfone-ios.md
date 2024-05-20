@@ -490,3 +490,4 @@ If you are an iPhone 5 to iPhone X user, [Dr.Fone - Screen Unlock (iOS)](https:/
 <li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h265-video-on-samsung-galaxy-xcover-6-pro-tactical-edition-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Samsung Galaxy XCover 6 Pro Tactical Edition?</u></a></li>
 </ul></div>
 
+

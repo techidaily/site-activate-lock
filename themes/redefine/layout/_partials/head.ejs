@@ -1,9 +1,9 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="keywords" content="<%= page.keyword || page.keywords || config.keywords || 'Hexo Theme Redefine' %>">
+    <meta name="keywords" content="<%= encodePercent(page.keyword) || encodePercent(page.keywords) || encodePercent(config.keywords) || 'Hexo Theme Redefine' %>">
     <% if (!theme.global.open_graph) { %>
-        <meta name="description" content="<%= page.description || config.description || 'Hexo Theme Redefine' %>">
+        <meta name="description" content="<%= encodePercent(page.description) || encodePercent(config.description) || 'Hexo Theme Redefine' %>">
     <% }%>
     <meta name="author" content="<%= theme.info.author || config.author || 'Redefine Team' %>">
     <!-- preconnect -->
@@ -41,7 +41,7 @@
         content="<%= theme.google_site_verification %>"
     />
     <% } %>
-  
+
     <!--- Icon Part-->
     <link rel="icon" type="image/png" href="<%= url_for(theme.defaults.favicon) %>" sizes="192x192">
     <link rel="apple-touch-icon" sizes="180x180" href="<%= url_for(theme.defaults.favicon) %>">
@@ -123,7 +123,7 @@
 
 
     <%- export_config() %>
-    
+
     <!--- Fontawesome Part-->
     <%- renderCSS('fontawesome/fontawesome.min.css') %>
     <%- renderCSS('fontawesome/brands.min.css') %>
@@ -142,4 +142,3 @@
         <%- renderCSS('fontawesome/sharp-solid.min.css') %>
     <% } %>
 </head>
-

@@ -462,3 +462,4 @@ This article has introduced you to a detailed discussion over how to unlock Appl
 <li><a href="https://techidaily.com/xiaomi-redmi-note-12-pro-4g-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi Redmi Note 12 Pro 4G can’t play AVCHD .mts video</u></a></li>
 </ul></div>
 
+

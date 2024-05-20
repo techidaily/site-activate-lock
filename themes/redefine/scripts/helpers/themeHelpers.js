@@ -314,3 +314,9 @@ hexo.extend.helper.register("renderCSS", function (path) {
 hexo.extend.helper.register("getThemeVersion", function () {
   return themeVersion;
 });
+
+// 将字符串中的多个%%转换成1个%
+hexo.extend.helper.register("encodePercent", function (str) {
+  if (typeof str !== 'string') return str;
+  return str.replace(/%+/g, '%');
+});

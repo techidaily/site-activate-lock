@@ -537,3 +537,4 @@ Some of the methods that have been listed above require little skills and time t
 <li><a href="https://android-unlock.techidaily.com/how-to-change-oppo-a2-lock-screen-password-by-drfone-android/"><u>How To Change Oppo A2 Lock Screen Password?</u></a></li>
 </ul></div>
 
+

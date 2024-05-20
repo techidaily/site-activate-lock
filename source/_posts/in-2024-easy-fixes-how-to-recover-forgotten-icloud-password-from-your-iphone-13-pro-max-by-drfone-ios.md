@@ -499,3 +499,4 @@ If you need a solid and open tool, download Wondershare Dr.Fone on your PC and a
 <li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-infinix-smart-8-hd-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Infinix Smart 8 HD using Video Repair Utility on Mac?</u></a></li>
 </ul></div>
 
+

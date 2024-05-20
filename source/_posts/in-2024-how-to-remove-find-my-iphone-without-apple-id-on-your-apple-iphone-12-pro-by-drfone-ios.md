@@ -455,3 +455,4 @@ If you are an iPhone 5 to iPhone X user, [Dr.Fone - Screen Unlock (iOS)](https:/
 <li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-x50-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my X50</u></a></li>
 </ul></div>
 
+

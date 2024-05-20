@@ -497,3 +497,4 @@ It’s time to regain control over your Apple iPhone 12 Pro Max, unlocking new p
 <li><a href="https://techidaily.com/is-your-lava-yuva-2-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Lava Yuva 2 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
 
+

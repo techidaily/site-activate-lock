@@ -596,3 +596,4 @@ From the methods mentioned above, we can comfortably conclude that it's easy to 
 <li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mkv-files-on-galaxy-a05s-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do you play MKV files on Galaxy A05s?</u></a></li>
 </ul></div>
 
+

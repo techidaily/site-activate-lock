@@ -391,3 +391,4 @@ Getting suck on the activation lock screen can be frustrating. Therefore, this *
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-xiaomi-redmi-12-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Xiaomi Redmi 12 5G Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
 
+

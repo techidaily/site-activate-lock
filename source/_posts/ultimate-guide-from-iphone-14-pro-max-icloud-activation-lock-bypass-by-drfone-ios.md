@@ -411,3 +411,4 @@ Getting suck on the activation lock screen can be frustrating. Therefore, this *
 <li><a href="https://techidaily.com/how-to-soft-reset-xiaomi-redmi-note-12-pro-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Xiaomi Redmi Note 12 Pro 5G phone? | Dr.fone</u></a></li>
 </ul></div>
 
+

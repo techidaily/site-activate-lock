@@ -480,3 +480,4 @@ If you are an iPhone 5 to iPhone X user, [Dr.Fone - Screen Unlock (iOS)](https:/
 <li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-itel-p55-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Itel P55 Back to Operation | Dr.fone</u></a></li>
 </ul></div>
 
+

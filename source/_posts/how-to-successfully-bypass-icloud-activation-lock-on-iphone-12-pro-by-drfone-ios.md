@@ -513,3 +513,4 @@ Some of the methods that have been listed above require little skills and time t
 <li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-smart-8-pro-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Infinix Smart 8 Pro</u></a></li>
 </ul></div>
 
+

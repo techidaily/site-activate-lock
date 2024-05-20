@@ -669,3 +669,4 @@ Activation locks can help users secure their phones from unwanted people. Howeve
 <li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-infinix-smart-8-by-drfone-android/"><u>Universal Unlock Pattern for Infinix Smart 8</u></a></li>
 </ul></div>
 
+

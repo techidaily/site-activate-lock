@@ -19,7 +19,7 @@
             && (masonryTypes.includes(page.type) || masonryTitles.includes(page.title))
     )
     %>
-    
+
     <% if (isLoadFriendsLink) { %>
         <%- partial('_widgets/friends-link') %>
     <% } else if (isLoadShuoshuo) { %>
@@ -32,7 +32,7 @@
             <%- partial('_partials/ads/adv-auto-link') %>
             <%- page.content %>
         <% } else { %>
-            <h1><%- page.title %></h1>
+            <h1><%- encodePercent(page.title) %></h1>
         <% } %>
     </div>
     <%- partial('_partials/ads/adv-ass-posts') %>

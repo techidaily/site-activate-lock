@@ -469,3 +469,4 @@ If you are an iPhone 5 to iPhone X user, [Dr.Fone - Screen Unlock (iOS)](https:/
 <li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-itel-a70-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Itel A70</u></a></li>
 </ul></div>
 
+

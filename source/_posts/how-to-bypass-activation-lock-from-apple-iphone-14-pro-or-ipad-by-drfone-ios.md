@@ -362,3 +362,4 @@ You can feel free to choose the most suitable method for you, but my recommendat
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Honor Magic V2 | Dr.fone</u></a></li>
 </ul></div>
 
+

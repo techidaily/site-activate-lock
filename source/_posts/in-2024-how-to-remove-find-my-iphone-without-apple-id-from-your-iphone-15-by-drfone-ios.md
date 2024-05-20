@@ -479,3 +479,4 @@ Activation locks can help users secure their phones from unwanted people. Howeve
 <li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-12-mini-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 12 mini Without iTunes? | Dr.fone</u></a></li>
 </ul></div>
 
+

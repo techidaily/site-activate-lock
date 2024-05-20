@@ -464,3 +464,4 @@ Luckily, Wondershare [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.co
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-6s-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 6s to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

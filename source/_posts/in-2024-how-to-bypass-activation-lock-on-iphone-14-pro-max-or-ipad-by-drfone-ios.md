@@ -381,3 +381,4 @@ Getting suck on the activation lock screen can be frustrating. Therefore, this *
 <li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-realme-gt-5-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Realme GT 5 Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
 
+

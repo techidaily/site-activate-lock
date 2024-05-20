@@ -1,5 +1,5 @@
 <div class="mb-4">
-    <h1 class="page-title-header"><%= page.title %></h1>
+    <h1 class="page-title-header"><%= encodePercent(page.title) %></h1>
     <ul class="flex flex-col mb-4 gap-6">
         <%
         const newessays = theme.essays.sort((a, b) => {
