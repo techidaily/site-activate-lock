@@ -112,10 +112,10 @@ sitemap:
 ## 执行 hexo clean && hexo deploy 。
 ## 如果提交失败
 ## cd .deploy_git
-## git push -u https://$GITHUB_DEPLOY_TOKEN@github.com/techidaily/site-activate-lock.git HEAD:gh-pages --force
+## git push -u git@github.com:techidaily/site-activate-lock.git HEAD:gh-pages --force
 deploy:
   type: git
   repo:  
-    url: https://github.com/techidaily/site-activate-lock.git
+    url: git@github.com:techidaily/site-activate-lock.git
     branch: gh-pages
-    token: $GITHUB_DEPLOY_TOKEN
+    
