@@ -303,7 +303,7 @@ articles:
     max_depth: 3 # TOC depth
     number: false # Whether to add number to TOC automatically
     expand: true # Whether to expand TOC
-    init_open: true # Open toc by default
+    init_open: false # Open toc by default
   # Whether to enable copyright notice
   copyright:
     enable: true # Whether to enable
