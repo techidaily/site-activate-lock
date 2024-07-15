@@ -1,7 +1,7 @@
 ---
 title: What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 14 Pro
-date: 2024-04-08T06:22:47.102Z
-updated: 2024-04-09T06:22:47.102Z
+date: 2024-07-14T22:45:44.374Z
+updated: 2024-07-15T22:45:44.374Z
 tags: 
   - unlock
   - bypass activation lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 14 Pro
 excerpt: This article describes What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 14 Pro
 keywords: mac activation lock,bypass icloud by checkra1n,check icloud activation lock status,how to remove activation lock without previous owner,how to remove apple iphone from icloud,apple watch activation lock,how to remove icloud from iphone,remove icloud activation lock,what is two factor authentication for icloud,how to unlock icloud account,ipod activation lock,iphone 14 icloud bypass,bypass activation lock on ipad,bypass iphone 15 icloud activation lock,how to fix icloud lock,icloud dns bypass,iphone 13 icloud bypass,unlock icloud activation,top icloud activation lock bypass tools,your iphone could not be activated because the activation server cannot be reached,ipad icloud unlock,bypass iphone icloud activation lock,how to unlock icloud locked iphone,forgot icloud password,ipad 3 ipad 2 icloud bypass,unlock icloud lock,bypass ios 17,icloud bypass tools,iphone 14 pro icloud bypass
-thumbnail: https://www.lifewire.com/thmb/xSHtE9tL82nCUVR18o4SkLJaAw8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-962954554-5c338fc146e0fb0001346aec.jpg
+thumbnail: https://thmb.techidaily.com/fff656b551e024a92bec77f08e34169fdbb7972daf3e003aecf76e9fd40fed20.jpg
 ---
 
 ## What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 14 Pro
@@ -46,6 +46,9 @@ If you haven't set up two-factor authentication yet on your iCloud, here are the
 
 **Step 1**: On your Apple iPhone 14 Pro/iPad, go to **Settings** and tap your Apple ID profile at the top.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![setup icloud 2 factor authentication iphone](https://images.wondershare.com/drfone/article/2023/01/setup-icloud-two-factor-authentication.jpg)
 
 **Step 2**: Tap **Password & Security** and turn On **Two-Factor Authentication**.
@@ -128,6 +131,9 @@ After step 3, there are two possible outcomes for GSM and CDMA iPhone devices.
 - If the Apple iPhone 14 Pro is CDMA, you won't be able to use the Apple iPhone 14 Pro device for phone calls, cellular data, and iCloud of your new Apple ID.
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 Turning on your iCloud's two-factor authentication is necessary for today's high-tech society. It ensures your information is always secure and minimizes the risk of getting hacked or having your account stolen. Once two-factor is active on your Apple ID, Apple provides you with a two-week window to deactivate it if you change your mind.
@@ -239,7 +245,7 @@ Using the Terminal app and entering many unfamiliar commands may be intimidating
 
 ## Part 3: Easy Tool for iCloud Activation Lock
 
-### [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock
 
 It is possible to bypass the iCloud activation lock with a tool called Dr.Fone - Screen Unlock. This powerful tool can bypass the iCloud activation lock on any iOS device, regardless of the version of iOS.
 
@@ -299,6 +305,9 @@ What if you have purchased an iPhone and wish to start using it right away; you 
 
 ## Part 1: Basic knowledge about iCloud activation lock
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What is the iCloud activation lock?
 
 An activation lock has been developed to stop others from using your Apple iPhone 14 Pro, iPad, iPod, or Apple Watch if it is stolen or lost. Your Apple iPhone 14 Pro should be iPhone 4S, 5, 5C, 5S, SE, 6, 6S, or 6S + to have the services of the iCloud activation lock. For phones on iOS 7 and above versions, the activation lock is auto-enabled once the Apple iPhone 14 Pro is switched on.
@@ -331,6 +340,9 @@ Apple ID and password, the Apple iPhone 14 Pro device is still linked to an earl
 
 Once this is done, and your device prompts you for 'Set up our iPhone/iPad/iPod’ as you turn it on, then you know your device is ready for use.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![set up our iphone/ipad/ipod](https://images.wondershare.com/drfone/article/2016/08/14719307661722.jpg)
 
 However, some sellers might try jailbreaking, which might hamper the warranty of your device, which is why you must unlock iCloud activation from a reputed company.
@@ -341,7 +353,10 @@ The most reliable way to unlock iCloud is to use a tool like [Dr.Fone - Screen U
 
 
 
-### [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Dr.Fone - Screen Unlock
 
 Unlock iCloud activation lock in a few minutes
 
@@ -394,3 +409,74 @@ When the program unlocks iCloud, a successful message window will appear. Here, 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-7-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone 7</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-se-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From iPhone SE?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-iphone-se-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your iPhone SE</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-twitter-video-dimensions-a-quick-guide-to-getting-it-right/"><u>In 2024, Twitter Video Dimensions A Quick Guide to Getting It Right</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-14-pro-max-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 14 Pro Max i Do? Get Answers here</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/1719574110556-printing-woes-config-error-help-needed/"><u>Printing Woes: Config Error, Help Needed!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-7-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your Apple iPhone 7?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-apple-iphone-7-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or Apple iPhone 7 without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-non-appearance-of-tiny-vid-content-for-2024/"><u>Cured  Non-Appearance of Tiny Vid Content for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-7-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone 7</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/expert-techniques-for-removing-audio-disturbances/"><u>Expert Techniques for Removing Audio Disturbances</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-7-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or Apple iPhone 7?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-apple-iphone-7-by-drfone-ios/"><u>How to Bypass iCloud Lock on Apple iPhone 7</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/apple-iphone-7-icloud-activation-lock-bypass-by-drfone-ios/"><u>Apple iPhone 7 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-apple-iphone-7-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your Apple iPhone 7 and iPad</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-narakeet-review-convenient-text-to-speech-voice-maker/"><u>Updated Narakeet Review Convenient Text to Speech Voice Maker</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pewdiepies-paycheck-profile-a-glimpse-into-his-earnings-for-2024/"><u>PewDiePie’s Paycheck Profile – A Glimpse Into His Earnings for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/android-movie-maker-showdown-which-one-is-right-for-you-for-2024/"><u>Android Movie Maker Showdown Which One Is Right for You for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-iphone-se-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your iPhone SE and iPad?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-discovering-new-ways-to-use-bandicam-a-deep-dive/"><u>2024 Approved  Discovering New Ways to Use Bandicam – A Deep Dive</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-apple-iphone-7-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on Apple iPhone 7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-7-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 7 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-7-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 On Apple iPhone 7</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-sound-innovators-choice-the-best-free-audio-mixer-platforms-ranked/"><u>In 2024, Sound Innovators Choice The Best FREE Audio Mixer Platforms Ranked!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-se-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From iPhone SE You Should Try Out</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-7-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 7</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-7-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 7</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-apple-iphone-7-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On Apple iPhone 7?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-se-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your iPhone SE</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-apple-iphone-7-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About Apple iPhone 7 Activation Lock</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-get-to-know-vrecorder-the-perfect-installation-process/"><u>[New] Get to Know VRecorder  The Perfect Installation Process</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-apple-iphone-7-smoothly-by-drfone-ios/"><u>How To Remove iCloud On Apple iPhone 7 Smoothly</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-apple-iphone-7-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the Apple iPhone 7 Without Previous Owner?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-se-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your iPhone SE</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-iphone-7-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on Apple iPhone 7 or iPad?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-apple-iphone-7ipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked Apple iPhone 7/iPad/iPod</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-frozen-frontier-showcasing-2022s-olympic-peaks-and-precision-riders/"><u>[New] Frozen Frontier  Showcasing 2022'S Olympic Peaks and Precision Riders</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-7-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and Apple iPhone 7 without Apple Account</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/inquiry-youtubes-payment-scheme-for-creators/"><u>Inquiry  YouTube's Payment Scheme for Creators</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-7-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone 7</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-apple-iphone-7-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your Apple iPhone 7</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-7ipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on Apple iPhone 7/iPad/iPod</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-on-apple-iphone-7-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud on Apple iPhone 7 Safe and Legal</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-add-filter-to-video-in-premiere-pro-for-2024/"><u>Updated How to Add Filter to Video in Premiere Pro for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-7-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 7</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-virtual-reality-use-in-healthcare-for-2024/"><u>[Updated] Virtual Reality Use in Healthcare for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-apple-iphone-7-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on Apple iPhone 7 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-7-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On Apple iPhone 7 If Youve Tried Everything</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-steady-your-screen-the-key-to-slowdown-in-youtube-videos-48-chars/"><u>[Updated] Steady Your Screen  The Key to Slowdown in YouTube Videos (48 Chars)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-effortless-link-upload-on-instagrams-social-sphere-for-2024/"><u>[New] Effortless Link Upload on Instagram's Social Sphere for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-7-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On Apple iPhone 7 Online</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-plan-for-streaming-google-meet-on-youtube/"><u>2024 Approved  The Ultimate Plan for Streaming Google Meet on YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-capturing-tv-screen-scenes-with-ease-your-ultimate-guide/"><u>[New] Capturing TV Screen Scenes with Ease - Your Ultimate Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-google-pixel-8-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Google Pixel 8 Pro to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/free-split-screen-video-creators-web-based-and-desktop-options/"><u>Free Split Screen Video Creators Web-Based and Desktop Options</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-7-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 7 from iCloud</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-make-amazing-slow-motion-video-on-android-easily/"><u>[Updated] How to Make Amazing Slow Motion Video on Android Easily</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-iphone-se-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from iPhone SE</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-apple-iphone-7-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On Apple iPhone 7 - 4 Easy Ways</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-maximizing-impact-on-insta-story-with-multiple-images/"><u>[New] In 2024, Maximizing Impact on Insta Story with Multiple Images</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-premier-updates-facebooks-latest-gems-unearthed/"><u>2024 Approved  Premier Updates  Facebook's Latest Gems Unearthed</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-7windowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your Apple iPhone 7/Windows/Mac</u></a></li>
+</ul></div>

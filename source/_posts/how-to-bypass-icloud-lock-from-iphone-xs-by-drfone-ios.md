@@ -1,7 +1,7 @@
 ---
 title: How to Bypass iCloud Lock from iPhone XS
-date: 2024-05-19T06:52:25.620Z
-updated: 2024-05-20T06:52:25.620Z
+date: 2024-07-14T21:00:29.091Z
+updated: 2024-07-15T21:00:29.091Z
 tags: 
   - unlock
   - bypass activation lock
@@ -11,20 +11,23 @@ categories:
 description: This article describes How to Bypass iCloud Lock from iPhone XS
 excerpt: This article describes How to Bypass iCloud Lock from iPhone XS
 keywords: how to fix icloud lock,bypass icloud by checkra1n,factory reset ipad without icloud password,iphone imei icloud unlock,how to bypass icloud activation lock screen on ios 17,your iphone could not be activated because the activation server cannot be reached,mac activation lock,remove iphone activation lock,forgot icloud password,jailbreak icloud locked iphone,how to unlock apple id disabled activation lock,icloud unlocker download,iphone 13 icloud bypass,bypass icloud activation,bypass activation lock on ipad,top icloud activation lock bypass tools,bypass iphone 15 icloud activation lock,how to unlock icloud locked iphone,icloud unlock online,ipad icloud unlock,iphone 14 icloud bypass,what is two factor authentication for icloud,ipod activation lock,how to remove find my iphone activation lock without apple id
-thumbnail: https://www.lifewire.com/thmb/LMVFwXh09U0pTH87SpUAPwMzqjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Instagram_Login-5c004ff2c9e77c000104174d.png
+thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860270c85ff4fd48c9e5e5afe1.png
 ---
 
 ## How to Bypass iCloud Lock on Apple iPhone XS
 
 The iCloud Activation Lock works by automatically locking out anyone with the Apple iPhone XS in question. This is usually possible the moment the user activates the "Find My iPhone" security feature. Both the iCloud Activation Lock and the "Find My iPhone" features work hand in hand to ensure that whoever has the phone cannot access anything from the phone. The moment the Find My iPhone feature is activated; the iCloud Activation Lock is automatically activated.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How To Bypass iCloud Activation Lock on Apple iPhone XS (Fast Solution)
 
 Though Apple maintains that the iCloud activation lock is one of their most robust security features, it is a fact that this security feature can be unlocked and bypassed as easily as it was activated. One of the main methods on how to bypass iCloud lock on Apple iPhone XS with the latest iOS version is by using the [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) method. It also works for the latest iPhone.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Delete iCloud Account and activation lock
 
@@ -44,19 +47,19 @@ The following is a detailed step-by-step guide on how to bypass iCloud lock usin
 
 2: Select Unlock Apple ID.
 
-![drfone unlock Apple ID ](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+![drfone unlock Apple ID](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 3: Click on the “Remove Active Lock” option.
 
-![Bypass iCloud Activation Lock on Apple iPhone XS ](https://images.wondershare.com/drfone/drfone/remove-activation-lock-1.jpg)
+![Bypass iCloud Activation Lock on Apple iPhone XS](https://images.wondershare.com/drfone/drfone/remove-activation-lock-1.jpg)
 
 4: Jailbreak your Apple iPhone XS.
 
-![jailbreak on Apple iPhone XS ](https://images.wondershare.com/drfone/drfone/remove-activation-lock-2.jpg)
+![jailbreak on Apple iPhone XS](https://images.wondershare.com/drfone/drfone/remove-activation-lock-2.jpg)
 
 5: Start to unlock.
 
-![start to unlock ](https://images.wondershare.com/drfone/guide/bypass-activation-lock-8.png)
+![start to unlock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-8.png)
 
 6: The unlocking process takes about 2-3 days. Once the iCloud lock has been bypassed, you will get an email informing you of the bypass.
 
@@ -140,6 +143,9 @@ Bypassing the Activation Lock on Apple iPhone XS is easy if you know the Apple I
 - **Step 3.** When asked to join a Wi-Fi network, tap on the “I” icon close to your Wi-Fi name.
 - **Step 4.** Click the “Configure DNS” option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dns bypass](https://images.wondershare.com/drfone/article/2022/10/iphone-5-5s-5c-icloud-bypass-2.jpg)
 
 - **Step 5.** Tap “Manual” and enter the DNS IP address closest to your area:
@@ -202,11 +208,11 @@ If they can unlock the activation lock, you'll get a notification regarding your
 
 It's not always necessary that the previous user will help. What if the owner doesn't recollect the account details? In addition, a few sellers leave the activation lock on intentionally to charge you extra cash. Luckily, you can free unlock your Apple iPhone XS through third-party software. It is the most straightforward method to perform the **Apple iPhone XS iCloud bypass** and the number one choice of users.
 
-Wondershare [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)is one of the most remarkable iCloud activation lock bypass programs. It is strongly suggested because of its adaptability with various iPhone versions. You needn't bother with any technical abilities to use it. Moreover, this amazing software functions best on iOS/iPadOS 12.0-16.6.
+Wondershare [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is one of the most remarkable iCloud activation lock bypass programs. It is strongly suggested because of its adaptability with various iPhone versions. You needn't bother with any technical abilities to use it. Moreover, this amazing software functions best on iOS/iPadOS 12.0-16.6.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone iCloud Activation Lock without Password in Minutes
 
@@ -284,6 +290,9 @@ The first thing you can do is to [ask the previous owner](https://drfone.wonders
 
 However, it is the least suggested and least effective method. It is because asking someone about their account details is unethical. The iCloud account has a lot of personal information about the user. Therefore, no one will be willing to hand you the account credentials unless they are your close relatives.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2. Ask the previous owner to bypass it (iCloud) remotely
 
 The best **Apple iPhone XS bypass** method is connecting with the past user and having them erase the Apple iPhone XS from their Apple ID. The previous user can enter their password on the Activation Lock screen or access iCloud. The following are the steps that the past user ought to follow:
@@ -297,6 +306,9 @@ The best **Apple iPhone XS bypass** method is connecting with the past user and 
 
 DNS represents the domain name and is a supportive method for bypassing the Apple iPhone XS activation lock. It controls the DNS server and redirects the authentication way of your phone. It assists you with the Apple iPhone XS iCloud bypass using these steps:
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![dns bypass](https://images.wondershare.com/drfone/article/2022/10/iphone-se-icloud-bypass-1.jpg)
 
 **Step 1.** Go to the Wi-Fi settings and click Configure IP. Then choose Manual and click "Add Server."
@@ -318,7 +330,7 @@ DNS represents the domain name and is a supportive method for bypassing the Appl
 
 The downside of this strategy is that it is short-term. When you reboot your iOS gadget, the activation lock comes back up, and you'll need to do it again. That can get irritating and wasteful.
 
-### Method 4. [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Method 4. Dr.Fone - Screen Unlock (iOS)
 
 As one of the most well-known and proficient [iCloud Activation bypass software for iOS](https://drfone.wondershare.com/icloud/mac-activation-lock.html), Dr.Fone - Screen Unlock is the best way to **bypass Apple iPhone XS** Activation Lock.
 
@@ -363,6 +375,9 @@ When you switch off Find My feature on your iDevice, the Activation Lock is natu
 
 - Tap iCloud > Find My \[iDevice\], then switch it off.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![disable find my](https://images.wondershare.com/drfone/article/2022/10/iphone-se-icloud-bypass-3.jpg)
 
 ## Conclusion
@@ -386,3 +401,60 @@ Getting suck on the activation lock screen can be frustrating. Therefore, this *
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-iphone-15-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your iPhone 15</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-magic-vs-2-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Honor Magic Vs 2 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-premier-gif-application-selection-for-iphone-users/"><u>In 2024, Premier GIF Application Selection for iPhone Users</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-iphone-15-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On iPhone 15?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-how-to-add-audio-in-after-effects/"><u>New 2024 Approved How to Add Audio in After Effects</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-iphone-15-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from iPhone 15 or iPad?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/exploring-the-leading-10-cost-effective-podcast-production-applications-for-2024/"><u>Exploring the Leading 10 Cost-Effective Podcast Production Applications for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boosting-detail-with-videoleaps-in-camera-zooming/"><u>Boosting Detail with VideoLeap's In-Camera Zooming</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-iphone-15-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your iPhone 15</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-iphone-15ipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked iPhone 15/iPad/iPod</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-iphone-15-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your iPhone 15 and iPad?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/intro-to-role-customization-for-discopundits/"><u>Intro to Role Customization for DiscoPundits</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-15-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone 15 iCloud Lock</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-iphone-15-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or iPhone 15 Stuck On Activation Lock?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/djis-minis-and-air-2-elevate-mixes-with-free-custom-luts/"><u>DJI's Minis & Air 2  Elevate Mixes with Free, Custom LUTS</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-15-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone 15 Safe and Legal</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-15-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your iPhone 15</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-from-iphone-15-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even From iPhone 15 If Youve Tried Everything</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-15-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 15</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-15-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 15</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-unlocking-steam-gameplay-footage-secrets/"><u>[New] In 2024, Unlocking Steam Gameplay Footage Secrets</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-15-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On iPhone 15?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-iphone-15-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass iPhone 15 Activation Lock</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-15-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On iPhone 15</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-iphone-15-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on iPhone 15</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-broadcast-your-music-mp3-conversion-and-upload-on-youtube-for-2024/"><u>[New] Broadcast Your Music  MP3 Conversion and Upload on YouTube for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-15-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 15 You Should Try Out</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-iphone-15-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from iPhone 15</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-15-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 15 Without Previous Owner?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-iphone-15-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For iPhone 15?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-15-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 15</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-15-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your iPhone 15?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-15-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and iPhone 15 The Right Way</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-dissecting-the-power-and-usability-of-adobes-audio-editor-adobe-audition/"><u>New 2024 Approved Dissecting the Power and Usability of Adobes Audio Editor (Adobe Audition)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-iphone-15-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix iPhone 15 Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-iphone-15-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On iPhone 15 Smoothly</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-iphone-15-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On iPhone 15</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-iphone-15-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing iPhone 15 iCloud Activation Lock</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-olympic-sprint-spotlight-year-2022/"><u>[New] Olympic Sprint Spotlight  Year 2022</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-amplify-your-storytelling-integrating-captions-in-a-triple-threat-on-ig/"><u>In 2024, Amplify Your Storytelling - Integrating Captions in a Triple Threat on IG</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-iphone-15-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On iPhone 15 Online</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-iphone-15-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to iPhone 15 iCloud Bypass</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-craft-perfection-transforming-your-vhs-graphics-online/"><u>[New] Craft Perfection  Transforming Your VHS Graphics Online</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-8-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 8</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-iphone-15-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked iPhone 15</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-iphone-15-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From iPhone 15 - 4 Easy Ways</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-15-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 15</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-iphone-15-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and iPhone 15</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-15-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 15 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-iphone-15-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 15 Activation Lock</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-elevate-your-hp-experience-with-these-4-screen-record-methods/"><u>[Updated] In 2024, Elevate Your HP Experience with These 4 Screen Record Methods</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-iphone-15-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or iPhone 15 from iCloud</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-iphone-15windowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your iPhone 15/Windows/Mac</u></a></li>
+</ul></div>

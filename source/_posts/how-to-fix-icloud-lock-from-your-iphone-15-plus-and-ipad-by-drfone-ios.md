@@ -1,7 +1,7 @@
 ---
 title: How to fix iCloud lock from your iPhone 15 Plus and iPad
-date: 2024-04-08T06:25:37.803Z
-updated: 2024-04-09T06:25:37.803Z
+date: 2024-07-14T23:12:51.141Z
+updated: 2024-07-15T23:12:51.141Z
 tags: 
   - unlock
   - bypass activation lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to fix iCloud lock from your iPhone 15 Plus and iPad
 excerpt: This article describes How to fix iCloud lock from your iPhone 15 Plus and iPad
 keywords: bypass icloud by checkra1n,bypass iphone 15 icloud activation lock,checkra1n error 31,how to remove activation lock without apple id,how to unlock apple id disabled activation lock,iphone 13 icloud bypass,how to remove find my iphone activation lock without apple id,forgot icloud password,ipad icloud unlock,remove icloud activation lock,how to remove apple iphone from icloud,bypass iphone icloud activation lock,imei icloud unlock,how to unlock icloud locked iphone,apple watch activation lock,mac activation lock,bypass activation lock on ipad,iphone 14 pro icloud bypass,how to remove icloud from iphone,ipod activation lock,iphone imei icloud unlock,unlock icloud lock,check icloud activation lock status,remove iphone activation lock,bypass icloud activation,unlock icloud activation,how to bypass icloud activation lock screen on ios 17,factory reset ipad without icloud password,ipad stuck on activation lock,how to remove icloud account,icloud bypass tools,bypass ios 17
-thumbnail: https://www.lifewire.com/thmb/bUgwWBmVwo2R1WJT-qkM52ppdCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-pro-pencil-56a533763df78cf77286e0e0.png
+thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99199e876bd020898984fe0d1.png
 ---
 
 ## How to fix iCloud lock on your Apple iPhone 15 Plus and iPad
@@ -20,6 +20,9 @@ There’s no sad thing like working your entire life just to get yourself the la
 
 With the how-to-fix iCloud lock method at hand, you no longer have to worry or get stressed when purchasing an iPhone or an iPad for your own pleasure or comfort. In this article, I’m going to lay down three of the most basic and simple steps on how to fix iCloud lock in a matter of minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 1: Fix iCloud lock via Apple
 
 In the recent past, Apple has tried to bar its users from unlocking iCloud storage perhaps due to the increased cases of theft and privacy breach. It, however, seems too late for the company to stop this iCloud lock fix process as they nowadays help their users in unlocking the iCloud lock. The following is one of the most commonly used iCloud lock fix methods offered by Apple as a company.
@@ -74,7 +77,7 @@ If you aren’t able to fix iCloud lock with the provided methods above, we woul
 
 
 
-### [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock
 
 Fix the "iPhone Is Disabled Connect to iTunes" Error In 5 Minutes
 
@@ -85,7 +88,7 @@ Fix the "iPhone Is Disabled Connect to iTunes" Error In 5 Minutes
 
 **3,238,377** people have downloaded it
 
-### How to fix iCloud Lock using Dr.Fone – [Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### How to fix iCloud Lock using Dr.Fone – Screen Unlock (iOS)
 
 #### **Step 1:** Allow the Program to Start
 
@@ -211,7 +214,10 @@ Other regions: 78.100.17.60
 
 ![dns bypass](https://images.wondershare.com/drfone/article/2022/10/iphone-xs-xr-x-icloud-bypass-5.jpg)
 
-### 5\. Use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 5\. Use Dr.Fone - Screen Unlock (iOS)
 
 You can't remove the Apple iPhone 15 Plus activation lock without Mac ID credentials. If you use an activation bypass program to bypass the lock, you will effectively unlock it. Therefore, if your device is in any circumstances above, you want an expert tool.
 
@@ -240,7 +246,7 @@ As one of the most well-known tools, Dr.Fone would be the best answer for **App
 
 **Step 6:** Once the Apple iPhone 15 Plus device has been processed under the DFU Mode, the computer’s screen will start displaying the removal of the iCloud Activation Lock. When it’s done, click Done in the next window.
 
-![ process done](https://images.wondershare.com/drfone/guide/bypass-activation-lock-16.png)
+![process done](https://images.wondershare.com/drfone/guide/bypass-activation-lock-16.png)
 
 
 ## Part 2: FAQs
@@ -277,7 +283,7 @@ In this article, we will be looking at **how to delete/remove/unlock the iCloud 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3vsQWFTA1UY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Solution 1: How to Unlock My iCloud Password with Dr.Fone? \[Quick Fix\]
 
@@ -289,7 +295,7 @@ Let's get to know how to use Dr.Fone - Screen Unlock (iOS)!
 
 
 
-### [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock
 
 Remove iCloud Account without Password in Minutes
 
@@ -332,6 +338,9 @@ As soon as your device boots into DFU mode, the program will automatically detec
 
 Lastly, when the firmware version is successfully downloaded, you need to hit on the “Unlock Now” button to get started with removing the iCloud account lock.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![remove the icloud account lock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 Wait for the process to complete. “Completely unlocked”, the iCloud account lock will no longer be there on your device.
@@ -375,6 +384,9 @@ If your iCloud account is on a Windows computer, and you want to remove it, here
 
 The iCloud account is a great way for Apple users to sync their phone data, but you may need to remove your iCloud account for personal reasons. This is normal, but if you forgot your iCloud account's password, how can you remove the iCloud account without a password on your Apple iPhone 15 Plus?
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Steps to delete iCloud account on iPhone/iPad
 
 In case you [forgot the Apple iPhone 15 Plus password](https://drfone.wondershare.com/reset-iphone/factory-reset-iphone-without-passcode.html) and want to remove the iCloud account without a password, here’s how to do it in simple steps.
@@ -397,6 +409,9 @@ If the above steps fail, you need to [bypass iCloud activation](https://drfone.w
 
 **Note:** _To be honest, this method cannot ensure a 100% success rate, but you can still give it a try anyway._
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Steps to unlock your iCloud account online
 
 - **Step 1.** Go to the [Official](https://appleiphoneunlock.uk/network/Special%20Services/Activation%20Lock?aff=wondershare) iPhone unlock and click “iCloud Unlock” on the window's left side.
@@ -430,3 +445,63 @@ So, here you unlock your iCloud account. iCloud activation lock can be easily by
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-14-plus-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 14 Plus Without Previous Owner?</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-moto-g14-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Moto G14 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-iphone-14-plus-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing iPhone 14 Plus iCloud Activation Lock</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-iphone-14-plus-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or iPhone 14 Plus from iCloud</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-iphone-14-plus-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On iPhone 14 Plus</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On iPhone 14 Plus?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-iphone-14-plus-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your iPhone 14 Plus</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unlock-facebook-ad-success-with-these-3-adapted-writing-techniques/"><u>[New] 2024 Approved  Unlock Facebook Ad Success with These 3 Adapted Writing Techniques</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-iphone-14-plus-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or iPhone 14 Plus without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-14-plus-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone 14 Plus iCloud Lock</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-iphone-14-plusipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on iPhone 14 Plus/iPad/iPod</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-iphone-14-plus-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On iPhone 14 Plus Online</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-iphone-14-plus-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and iPhone 14 Plus without Apple Account</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-14-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password On iPhone 14 Plus</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-vivo-y78t-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Vivo Y78t? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-best-asmr-youtube-channels/"><u>[New] 2024 Approved  The Best ASMR YouTube Channels</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-itel-a60s-frp-by-drfone-android/"><u>How Can We Bypass Itel A60s FRP?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-smart-7frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Smart 7FRP Lock</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-time-lapse-like-a-pro-advanced-techniques-in-final-cut-pro/"><u>Updated 2024 Approved Time Lapse Like a Pro Advanced Techniques in Final Cut Pro</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-iphone-14-plus-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your iPhone 14 Plus</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/fixed-video-short-display-for-you/"><u>Fixed Video Short Display for You</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-iphone-14-plus-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and iPhone 14 Plus</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-14-plus-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 14 Plus</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-streamline-your-sound-top-8-apps-for-efficient-audio-recordings/"><u>Updated 2024 Approved Streamline Your Sound Top 8 Apps for Efficient Audio Recordings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/find-your-custom-box-top-10-online-stores-offering-tailored-packaging-for-2024/"><u>Find Your Custom Box  Top 10 Online Stores Offering Tailored Packaging for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-iphone-14-plus-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to iPhone 14 Plus iCloud Bypass</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on iPhone 14 Plus</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-which-10-best-video-editing-online-makers-is-worth-your-attention-for-2024/"><u>New Which 10 Best Video Editing Online Makers Is Worth Your Attention for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fresh-start-strategy-budget-channels-to-purchase/"><u>[New] In 2024, Fresh Start Strategy  Budget Channels to Purchase</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-iphone-14-plus-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your iPhone 14 Plus</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-iphone-14-pluswindowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your iPhone 14 Plus/Windows/Mac</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your iPhone 14 Plus?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-iphone-14-plus-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On iPhone 14 Plus</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/into-the-virtual-vortex-mastering-techniques-of-gameplay-recording-for-2024/"><u>Into the Virtual Vortex  Mastering Techniques of Gameplay Recording for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-opengl-error-3-nvidia-solutions-win1011/"><u>Eliminating OpenGL Error 3: Nvidia Solutions (Win10/11)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-14-plus-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your iPhone 14 Plus</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-iphone-14-plus-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass iPhone 14 Plus Activation Lock</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-you-can-get-paid-for-videos/"><u>[New] How You Can Get Paid for Videos</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-iphone-14-plus-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On iPhone 14 Plus Smoothly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-sectionalviewpoint-investigation/"><u>[New] 2024 Approved  SectionalViewpoint Investigation</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-a59-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-14-plus-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your iPhone 14 Plus</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-iphone-14-plus-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or iPhone 14 Plus Stuck On Activation Lock?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-iphone-14-plusipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked iPhone 14 Plus/iPad/iPod</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-14-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 14 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-choosing-the-right-tool-for-your-youtube-to-avi-desire-for-2024/"><u>[Updated] Choosing the Right Tool for Your YouTube-to-AVI Desire for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-8-economical-video-call-applications-cross-system-compatibility/"><u>[New] Top 8 Economical Video Call Applications  Cross-System Compatibility</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-what-if-i-accidentally-refreshed-tiktok/"><u>2024 Approved  What If I Accidentally Refreshed TikTok?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on iPhone 14 Plus</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-discovering-the-best-in-android-gaming-kinemaster-edition/"><u>2024 Approved  Discovering the Best in Android Gaming  KineMaster Edition</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-unleash-your-creativity-best-video-editing-tools-for-mac/"><u>Updated In 2024, Unleash Your Creativity Best Video Editing Tools for Mac</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-iphone-14-plus-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your iPhone 14 Plus and iPad</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/streamlining-sound-conversion-implementing-lame-into-audacity-for-2024/"><u>Streamlining Sound Conversion Implementing Lame Into Audacity for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo T2x 5G | Dr.fone</u></a></li>
+</ul></div>
