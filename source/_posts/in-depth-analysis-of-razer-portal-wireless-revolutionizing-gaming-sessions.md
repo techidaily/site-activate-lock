@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of Razer Portal - Wireless Revolutionizing Gaming Sessions
-date: 2024-08-09T10:08:29.042Z
-updated: 2024-08-10T10:08:29.042Z
+date: 2024-09-06T20:37:10.710Z
+updated: 2024-09-07T20:37:10.710Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Analysis of Razer Portal - Wireless Revolutionizing Gaming Sessions
@@ -9,17 +9,26 @@ excerpt: This Article Describes In-Depth Analysis of Razer Portal - Wireless Rev
 thumbnail: https://www.lifewire.com/thmb/sBeQgyIEwj2JjaMu9Bb8uM7B30g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Razer-Portal-Wifi-Router-1-6f84b25e1021414695a5bf7bf1ab1759.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Revolutionize Your Office Space with Modern Chic Designs - Flexispot's Theodore Standing Desk Revealed
 
 4.2
 
 ## Flexispot Theodore Standing Desk
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/j-bZzQrKEa5BwuAv26jY6OgzXS8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_HeroSquare-a880730a5c574fbc9dfef59383e4aee6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Rebecca Isaacs
 
  What We Like
@@ -39,13 +48,22 @@ Lifewire / Rebecca Isaacs
 
 4.2
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Flexispot Theodore Standing Desk
 
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/DtKuV5cnXF6F_hZWcmPDMzPTFDY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_HeroSquare-a880730a5c574fbc9dfef59383e4aee6.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Rebecca Isaacs
 
 [View On Flexispot.com](https://www.flexispot.com/height-adjustable-desks/theodore-standing-desk-ud1b)
@@ -70,6 +88,12 @@ Lifewire / Rebecca Isaacs
 
  Cue the Flexispot Theodore Standing Desk. The Flexispot was the answer to everything I needed in my workspace: classy; modern; and completely adjustable. After a week of testing, it’s safe to say I’ve never been so madly in love with a piece of furniture.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Design: Mixing the old with the new
 
  This standing desk’s design and aesthetic gave me an executive feel when I set it up. First things first—it’s really heavy, clocking in at around 100 pounds if the packaging is to be believed. I can’t recommend handling the box by yourself, and, had I tried that myself, I would have probably been squished trying to haul it up two flights of stairs.
@@ -92,13 +116,22 @@ Lifewire / Rebecca Isaacs
 
  The Theodore Standing Desk also turned out to be the perfect place to store my[Jabra Talk 45 Headset](https://www.lifewire.com/jabra-talk-45-review-5070286#:~:text=A%20great%2C%20feature%2Dpacked%20Bluetooth,with%20its%20voice%20command%20features.) and[Microsoft RVF Arc Touch Mouse](https://www.lifewire.com/microsoft-rvf-arc-touch-mouse-review-4799143) so I wouldn’t keep losing them around the house. The desk’s drawer is about three inches deep, so it could also easily store important papers. And, since the desk space is so large, I could easily fit two 17-inch laptops on there and have extra space to hold my cell phone, planner, and a desk lamp with room to spare.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/frfVa5g5ngg9vZAugmed_f2jsho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_03-b929f6838e464f14ad5615d440449658.jpg)
 
 Lifewire / Rebecca Isaacs
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Controls: Tap a button
 
  If I got tired of sitting, usually with a cat on my lap, I could easily convert this into a standing desk thanks to two buttons that raise and lower the desk through motorized controls. While it was a little noisy, the noise doesn’t seem atypical for any standing desk models on the market. I stopped the desk when it rose to conform to my height of 5 feet, 8 inches, but the desk can go up to nearly 50 inches for people who need the extra height.
@@ -112,22 +145,25 @@ Lifewire / Rebecca Isaacs
 Lifewire / Rebecca Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Price: A steal at the price
 
  At around $500, before desk accessories like a[standing desk mat](https://www.lifewire.com/best-standing-desk-mats-4155870) , the Flexispot Theodore is very reasonably priced. Keep in mind that you’re not paying for real wood, which factors into the price tag, but a wood veneer finish. Fancier, more modern-looking standings desks can run close to $1,000\.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/u2023DggV3o9Pw8Y6CDkCOuqu3U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_05-595174532f3846fcb2093e11b083b32f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Rebecca Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## FlexiSpot Theodore vs. Rain Design iLevel 2 Laptop Stand
 
  Let’s say that perhaps a standing desk you’re thinking about investing in a[standing desk converter](https://www.lifewire.com/best-standing-desks-5118383) like the Rain Design iLevel 2 Laptop Stand. At around $51, it seems like it would be a no-brainer to go for the cost-effective option here.
@@ -149,7 +185,10 @@ Lifewire / Rebecca Isaacs
 * [Ergohead Standing Desk Mat](https://www.lifewire.com/ergohead-standing-desk-mat-review-4775317)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Specs
 

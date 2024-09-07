@@ -1,7 +1,7 @@
 ---
 title: "Unstuck the QR Code Scanner on Your iPhone: 10 Effective Remedies"
-date: 2024-08-02T08:58:04.305Z
-updated: 2024-08-03T08:58:04.305Z
+date: 2024-09-06T20:37:10.783Z
+updated: 2024-09-07T20:37:10.783Z
 tags:
   - iphone
   - apple
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/3376b29faa2d3197bcfcb2a2edc1961849ab55544
 
  However, your QR code scanner may sometimes fail to recognize or read the codes correctly. This can be frustrating, especially when you urgently need to access the content within the code. Before you give up, here are some fixes you can try to get your QR code scanner to work again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Check if the QR Code Scanner Is Enabled
 
  Usually, pointing your iPhone's camera at the QR code does the trick. However, if that doesn't work, there's a chance you accidentally disabled QR code scanning in your Camera app. Here's how to enable the QR code scanner:
@@ -29,21 +26,18 @@ thumbnail: https://thmb.techidaily.com/3376b29faa2d3197bcfcb2a2edc1961849ab55544
 2. Scroll down and tap**Camera** .
 3. Toggle on**Scan QR Codes** .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1208.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![IPhone Camera Settings with Scan QR Codes Toggled On](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1209.jpeg)
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Ensure Your Camera Is in Photo Mode
 
  The QR code scanner on your iPhone only works when the camera is set to Photo mode. If you've mistakenly switched to Video, Portrait, Pano, or any other camera mode, the QR code scanner might not work as expected. So, swipe left or right in the Camera app to switch back to Photo mode. Then, point the camera at the QR code and try to scan it again.
@@ -53,22 +47,49 @@ Close
  For a quick and successful scan, make sure the QR code is positioned within the frame of your camera. Avoid scanning at steep angles, and try to keep the QR code parallel to your device. Also, ensure the QR code isn't wrinkled, obscured, or damaged in any way, as this can prevent a successful scan.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Move Into Better Lighting
 
 ![Person scanning QR Code on a parcel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/person-scanning-qr-code-on-a-parcel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Good lighting is essential for any camera function, and the QR code scanner is no exception. A well-lit environment makes it easier for the camera to recognize and read the QR code. If you're in a dimly lit room or area, move to a brighter spot or shine some light on the QR code to improve visibility.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Clean Your Camera Lens
 
  A smudged or dirty camera lens can make it difficult for the camera to read the QR code. So, if you are still having trouble scanning the QR code, gently wipe your camera lens with a soft, lint-free cloth to ensure it's clean. Avoid using harsh or abrasive materials that might scratch the lens. If necessary, slightly dampen the cloth with water to remove stubborn smudges.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Relaunch the Camera App
 
  Sometimes, software glitches can cause your QR code scanner to malfunction. The quickest fix for this is to simply close the Camera app and relaunch it. To do this, swipe up from the bottom of the screen, then swipe up on the Camera app to close it. Wait for a few seconds, then reopen the**Camera** app and try to scan the QR code again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Add Code Scanner to Control Center
 
  If you're still having trouble using the Camera app to scan the QR code, you can add Apple's built-in Code Scanner directly to the Control Center for easy access. This built-in feature works separately from the Camera app and can sometimes bypass issues that you might encounter while using the Camera app.
@@ -83,20 +104,17 @@ Here's how to add the Code Scanner to the Control Center:
 
  When scanning in a dark or dimly lit area, tap the**Flashlight** icon at the bottom of the screen to [turn on your iPhone's camera flash](https://www.makeuseof.com/how-to-turn-on-camera-flash-iphone/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iPhone Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1211.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![iPhone Control Center Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1212.jpeg)
 
 ![iPhone Control Center With Code Scanner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1213.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![iPhone QR Code Scanner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1221.jpeg)
 
@@ -108,20 +126,46 @@ Close
 
  However, iPhones don't have a restart option, so you'll have to manually turn off your device and then turn it back on. Fortunately, you can [manually perform a restart even if your iPhone's buttons are broken](http://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. Update Your iPhone
 
  Apple periodically releases software updates, including bug fixes that can clear any operating system glitches. An outdated iOS version may be causing issues with your QR code scanner, and an update will fix this.
 
  To [update your iPhone](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) , go to**Settings > General > Software Update** to see if there is any available update. If there's a new iOS version available, tap**Download and Install** . Ensure you connect to a strong Wi-Fi network and that your iPhone is sufficiently charged before starting the update.
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10\. Check Out Third-Party QR Code Scanners
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![using iPhone to scan a QR code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/using-iphone-to-scan-a-qr-code.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If your iPhone's built-in QR code scanner still doesn't work after trying all these fixes, you should consider downloading a third-party QR code reader from the App Store. Many options, both free and paid, offer a wider range of capabilities compared to the built-in QR scanner.
 
  Popular iOS third-party QR code reader apps include [QR Code & Barcode Scanner](https://apps.apple.com/us/app/qr-code-barcode-scanner/id1048473097) by TeaCapps,[Scan Shot](https://apps.apple.com/us/app/scan-shot-document-scanner-pdf/id1575194801) by Scanner App PDF Tool, and [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) by INSTIG.
