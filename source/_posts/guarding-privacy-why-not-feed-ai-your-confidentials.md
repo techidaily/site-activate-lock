@@ -1,7 +1,7 @@
 ---
 title: "Guarding Privacy: Why Not Feed AI Your Confidentials"
-date: 2024-09-14T16:49:05.187Z
-updated: 2024-09-17T17:01:53.338Z
+date: 2024-09-21T16:30:19.310Z
+updated: 2024-09-22T16:21:26.138Z
 tags:
   - chatgpt
   - open-ai
@@ -40,11 +40,25 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 
  The chat will disappear from the sidebar immediately. To access it, you'll need to head to the ChatGPT settings menu, which we'll cover below.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to View Your Hidden ChatGPT Chats on the Web
 
  Whether you want to access a hidden chat or wish to unarchive a conversation, you can follow the steps below:
 
 ![Accessing ChatGPT settings on the web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/accessing-chatgpt-settings-on-the-web.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Click on your OpenAI account name in the bottom-left corner of the ChatGPT page.
 2. Select**Settings** from the context menu.
@@ -54,19 +68,6 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 ![Unarchiving conversation in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/unarchiving-conversation-in-chatgpt-web.png)
 
  Do remember that anyone can access your hidden ChatGPT conversations by heading to the same menu, as they're not locked behind a password.
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Hide ChatGPT Chats on Your iPhone
 
@@ -81,37 +82,17 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 
 ![Long-pressing a conversation from the ChatGPT sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/long-pressing-a-conversation-from-the-chatgpt-sidebar.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Archive confirmation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archive-confirmation-in-the-chatgpt-app.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
  If you don't see the**Archive** option, make sure your app is updated. Once you archive a chat, you won't be able to find it by searching for it from the sidebar.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to View Your Hidden Chats in the ChatGPT App
@@ -124,6 +105,13 @@ Close
 4. If you choose the latter, you'll be prompted to confirm. Tap**Unarchive** again.
 
 ![ChatGPT app sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-sidebar.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![ChatGPT app settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-settings-menu.png)
 
@@ -152,19 +140,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-elevate-your-posts-with-4-effective-video-loop-techniques-for-2024/"><u>[New] Elevate Your Posts with 4 Effective Video Loop Techniques for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-fast-track-speeding-up-vimeo-videos/"><u>[New] Fast Track Speeding Up Vimeo Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/aspect-ratio-conversion-techniques-online-for-2024/"><u>Aspect Ratio Conversion Techniques Online for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/canon-powershot-g9-x-mark-ii-review/"><u>Canon PowerShot G9 X Mark II Review</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-iphone-15-plus-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from iPhone 15 Plus Safe and Legal</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enterprise-applications-of-chatgpt-explained/"><u>Enterprise Applications of ChatGPT Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-secret-arsenal-5-features-underutilized-by-most-users/"><u>GPT's Secret Arsenal: 5 Features Underutilized by Most Users</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-iphone-8-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing iPhone 8 iCloud Activation Lock</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-7ipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on Apple iPhone 7/iPad/iPod</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On iPhone 12 Pro Max</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-from-apple-iphone-7-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock From Apple iPhone 7?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/interactive-link-integration-for-instagram-users-for-2024/"><u>Interactive Link Integration for Instagram Users for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/prevent-overuse-facebook-advises-youngsters-for-insta-break/"><u>Prevent Overuse: Facebook Advises Youngsters for Insta Break</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-choosing-the-right-format-boosting-your-youtube-videos-performance/"><u>[New] Choosing the Right Format – Boosting Your YouTube Videos’ Performance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-evening-stories-visualized-evaluations-for-2024/"><u>[New] Evening Stories Visualized Evaluations for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-explore-unexpectedly-great-meme-pages-on-facebook-for-2024/"><u>[Updated] Explore Unexpectedly Great Meme Pages on Facebook for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-iphone-se-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From iPhone SE Online</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-resolving-sound-problems-in-realtek-audio-interfaces-fixed/"><u>Guide to Resolving Sound Problems in Realtek Audio Interfaces [Fixed]</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-iphone-se-2020-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your iPhone SE (2020) and iPad</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-iphone-15-plus-smoothly-by-drfone-ios/"><u>How To Remove iCloud From iPhone 15 Plus Smoothly</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-apple-iphone-6sipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked Apple iPhone 6s/iPad/iPod</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-vivo-x100-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo X100 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-stepwise-approach-to-perfect-videography-adding-filters-on-devices/"><u>In 2024, Stepwise Approach to Perfect Videography Adding Filters on Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tech-wizardry-unveiled-effortlessly-resetting-the-complementary-metal-oxide-semiconductor-on-your-device/"><u>Tech Wizardry Unveiled: Effortlessly Resetting the Complementary Metal-Oxide Semiconductor on Your Device</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-from-apple-iphone-6s-plus-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock from Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://win-blog.techidaily.com/why-keeping-these-7-key-windows-options-on-matters-for-your-system-performance/"><u>Why Keeping These 7 Key Windows Options On Matters for Your System Performance</u></a></li>
 </ul></div>
 
