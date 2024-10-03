@@ -1,7 +1,7 @@
 ---
 title: In-Depth Analysis of Razer Portal - Wireless Revolutionizing Gaming Sessions
-date: 2024-09-25T01:34:26.371Z
-updated: 2024-09-28T02:21:46.132Z
+date: 2024-09-29T17:12:44.701Z
+updated: 2024-10-03T17:00:30.177Z
 categories:
   - BestProducts
 description: This Article Describes In-Depth Analysis of Razer Portal - Wireless Revolutionizing Gaming Sessions
@@ -41,10 +41,10 @@ Lifewire / Rebecca Isaacs
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/DtKuV5cnXF6F_hZWcmPDMzPTFDY=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_HeroSquare-a880730a5c574fbc9dfef59383e4aee6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Rebecca Isaacs
@@ -71,6 +71,13 @@ Lifewire / Rebecca Isaacs
 
  Cue the Flexispot Theodore Standing Desk. The Flexispot was the answer to everything I needed in my workspace: classy; modern; and completely adjustable. After a week of testing, it’s safe to say I’ve never been so madly in love with a piece of furniture.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design: Mixing the old with the new
 
  This standing desk’s design and aesthetic gave me an executive feel when I set it up. First things first—it’s really heavy, clocking in at around 100 pounds if the packaging is to be believed. I can’t recommend handling the box by yourself, and, had I tried that myself, I would have probably been squished trying to haul it up two flights of stairs.
@@ -95,20 +102,13 @@ Lifewire / Rebecca Isaacs
 
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/frfVa5g5ngg9vZAugmed_f2jsho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_03-b929f6838e464f14ad5615d440449658.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Rebecca Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Controls: Tap a button
@@ -123,18 +123,18 @@ Lifewire / Rebecca Isaacs
 
 Lifewire / Rebecca Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Price: A steal at the price
 
  At around $500, before desk accessories like a[standing desk mat](https://www.lifewire.com/best-standing-desk-mats-4155870) , the Flexispot Theodore is very reasonably priced. Keep in mind that you’re not paying for real wood, which factors into the price tag, but a wood veneer finish. Fancier, more modern-looking standings desks can run close to $1,000\.
 
 ![Flexispot Theodore Standing Desk](https://www.lifewire.com/thmb/u2023DggV3o9Pw8Y6CDkCOuqu3U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FlexiSpot_StandingDesk_05-595174532f3846fcb2093e11b083b32f.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Rebecca Isaacs
 
@@ -152,18 +152,18 @@ Lifewire / Rebecca Isaacs
 
  The complete height adjustability and the complimentary USB ports on the Flexispot Theodore Standing Desk are perfect for any home that wants to retain a classic look while getting a major modern upgrade. With the small storage drawer, it’s the perfect standing desk to complete any home office.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [CumulusPRO Standing Desk Mat](https://www.lifewire.com/cumuluspro-standing-desk-mat-review-4775314)
 * [Ergodriven Topo Standing Desk Mat](https://www.lifewire.com/ergodriven-topo-review-4775310)
 * [Ergohead Standing Desk Mat](https://www.lifewire.com/ergohead-standing-desk-mat-review-4775317)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -192,18 +192,19 @@ Lifewire / Rebecca Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-unveiling-high-definition-with-lgs-ud88-w-widescreen-monitor/"><u>[New] 2024 Approved Unveiling High Definition with LG's UD88-W Widescreen Monitor</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-crafting-your-windows-photos-masterpiece-adding-filters-musical-elements/"><u>[Updated] Crafting Your Windows Photos Masterpiece Adding Filters, Musical Elements</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722033621810-eagerly-awaiting-chatgpts-desktop-launch-heres-an-excellent-open-source-substitute-to-try/"><u>Eagerly Awaiting ChatGPT's Desktop Launch? Here’s an Excellent Open-Source Substitute to Try!</u></a></li>
-<li><a href="https://games-able.techidaily.com/get-to-know-amds-newest-graphics-innovation-rdna-35/"><u>Get to Know AMD's Newest Graphics Innovation, RDNA 3.5</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-xr-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On Apple iPhone XR Online</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-apple-iphone-13-mini-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to Apple iPhone 13 mini iCloud Bypass</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-humor-hub-adobe-meme-manipulation/"><u>In 2024, Humor Hub Adobe Meme Manipulation</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-light-shadow-and-subtlety-in-film-coloring/"><u>In 2024, Light, Shadow & Subtlety in Film Coloring</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/simplifying-scheduling-a-google-meet-pro-tip/"><u>Simplifying Scheduling A Google Meet Pro Tip</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-11-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/tolkiens-masterpiece-unfolded-how-to-properly-watch-the-lord-of-the-rings/"><u>Tolkien's Masterpiece Unfolded: How to Properly Watch 'The Lord of the Rings'</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-15-plus-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-mastering-pixiz-for-creating-dynamic-photo-videos/"><u>[Updated] In 2024, Mastering Pixiz for Creating Dynamic Photo Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-uncovering-all-shared-visuals-in-a-message-thread-for-2024/"><u>[Updated] Uncovering All Shared Visuals in a Message Thread for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-high-quality-camera-gimbals-iphoneandroiddslr-reconnaissance/"><u>10 High-Quality Camera Gimbals IPhone/Android/DSLR Reconnaissance</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-apple-iphone-8-plus-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From Apple iPhone 8 Plus - 4 Easy Ways</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-iphone-15-pro-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On iPhone 15 Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-unified-visuals-on-your-computer/"><u>Crafting Unified Visuals on Your Computer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973892787-download-and-install-updates-for-your-nvidia-quadro-rtx-graphics-card-today/"><u>Download & Install Updates for Your NVIDIA Quadro RTX Graphics Card Today!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-iphone-6s-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your iPhone 6s and iPad?</u></a></li>
+<li><a href="https://win11.techidaily.com/missing-dxgidll-in-win11-heres-an-action-plan/"><u>Missing Dxgi.dll in Win11? Here's an Action Plan</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-playback-issues-on-xiaomi-redmi-note-13-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV playback issues on Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-10-best-meme-makers-online-free-to-use/"><u>Updated In 2024, 10 Best Meme Makers Online (Free to Use)</u></a></li>
 </ul></div>
 
