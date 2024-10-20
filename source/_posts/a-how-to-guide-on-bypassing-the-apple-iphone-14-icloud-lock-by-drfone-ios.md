@@ -1,7 +1,7 @@
 ---
 title: A How-To Guide on Bypassing the Apple iPhone 14 iCloud Lock
-date: 2024-09-02T10:32:16.630Z
-updated: 2024-09-03T10:32:16.630Z
+date: 2024-10-17T18:07:47.523Z
+updated: 2024-10-20T17:47:30.843Z
 tags: 
   - unlock
   - bypass activation lock
@@ -15,8 +15,6 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 ---
 
 ## A How-To Guide on Bypassing the Apple iPhone 14 iCloud Lock
-
-
 
 Have you bought a second-hand Apple iPhone 14, and it is iCloud locked? Or, do you own an Apple device yet have forgotten its iCloud credentials? Regardless of your issue, you can't use the locked phone without **Apple iPhone 14 iCloud bypass**. It is indeed a troublesome experience and can delay your work.
 
@@ -35,6 +33,13 @@ Therefore, we have compiled this **Apple iPhone 14 iCloud bypass** guide to help
 
 ## Part 1: 4 Efficient Methods to Bypass Apple iPhone 14 iCloud Activation Lock
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Get Apple ID and password from the original device owner
 
 For an **Apple iPhone 14 iCloud bypass**, you'll require a couple of significant pieces of data:
@@ -42,10 +47,20 @@ For an **Apple iPhone 14 iCloud bypass**, you'll require a couple of significant
 - Bypassing the Activation Lock on iPhone is as straightforward as signing in to the Apple iPhone 14 device. It would help if you had the Apple ID credentials of the previous owner.
 - If a device doesn't have the activation lock, you might see the passcode screen instead of the activation lock screen. Therefore, you should have the Apple iPhone 14 passcode in mind.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![owners apple id](https://images.wondershare.com/drfone/article/2022/10/iphone-4-4s-icloud-bypass-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After getting the required details, the following are the steps to perform **Apple iPhone 14 iCloud bypass**:
 
@@ -110,7 +125,6 @@ How would I remove the past owner's Mac ID from an iPhone? Removing the past use
 
 If you're searching for the fastest method for eliminating the activation lock on your Apple iPhone 14, look no further from [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This expert program is extremely convenient when you can't open your iOS device without a password, or you're experiencing an activation issue. Dr.Fone is fit for rapidly unlocking/bypassing Apple ID from any iOS device. After the **Apple iPhone 14 iCloud bypass**, you can use your Apple iPhone 14 with no issues.
 
-
 **Step-by-step Guide:**
 
 **Step 1.** Install the Dr.Fone program to the computer and launch the Screen Unlock tool from the home page.
@@ -131,8 +145,14 @@ When arriving at this final page, the whole process is done.
 
 ![removed effectively](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
-Your iPhone will start normally. You can access and utilize all the features of your phone now. Remember that you can't utilize your new account's phone call, data, and iCloud features after bypassing them.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+Your iPhone will start normally. You can access and utilize all the features of your phone now. Remember that you can't utilize your new account's phone call, data, and iCloud features after bypassing them.
 
 ## Part 2: FAQs
 
@@ -155,12 +175,7 @@ _**Note:** Activation lock ensures the safety and prevents you from buying a sto
 
 In this informative guide, we have listed the **Apple iPhone 14 iCloud bypass** methods. However, if you don't have the Mac ID credentials to initiate your Apple iPhone 14, you will require help from an expert program that can bypass the Apple iPhone 14 activation lock. Therefore, we strongly suggest [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). Download the problem-free Dr.Fone activation lock bypass program to get rid of the lock on your Apple iPhone 14.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Apple iPhone 14 iCloud Activation Lock Bypass
-
-
 
 The iCloud lock is an element intended to save your Apple iPhone 14 from missing, getting stolen, or being deleted. So, when you buy an iPhone, register it with an Apple ID, and set "Find My iPhone" to make it iCloud locked. That will make your device more secure.
 
@@ -189,6 +204,19 @@ The first step in bypassing the iCloud Activation Lock is to reach out to the pr
 
 ![enter icloud details](https://images.wondershare.com/drfone/article/2022/10/iphone-11-12-icloud-bypass-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After getting this data, coming up next are the steps to perform **Apple iPhone 14 iCloud bypass**:
 
 - **Step 1:** Go to the Settings application on your iDevice.
@@ -215,9 +243,6 @@ So, if it's not a stolen device, you don't need to worry about unlocking it. The
 
 ![remove or erase](https://images.wondershare.com/drfone/article/2022/10/iphone-11-12-icloud-bypass-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3. Use iCloud DNS Bypass
 
 The third method involves using iCloud DNS Bypass, a technique that exploits a loophole in the iCloud Activation Lock system. iCloud DNS bypass is a temporary technique to access an iCloud-locked device's features. DNS interprets your domains into IP addresses. After keying in a domain name, your DNS server takes you to that specific IP address on the internet. When you attempt to activate your Apple iPhone 14, your device connects with the DNS and the Mac servers. Someway, you can key in some domain name servers here, and they will take your device to that server.
@@ -259,7 +284,6 @@ Because of the limitations of iCloud DNS bypass and the cons of the other mentio
 
 Many tools are available online; however, recommending the best one is our responsibility. Therefore, we strongly advocate for Dr.Fone. [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) by Wondershare gives you a complete solution. But note that this Apple activation lock removal tool is for iPhone 5S to iPhone X/SE 1, iPad 4 to iPad 7, and iPod touch 7 to iPod touch 9 running iOS 12.0 to iOS 16.6.
 
-
 It is an all-in-one iOS unlocking program that can assist you with **iPhone iCloud unlock** without an Apple account. It enables you to use your phone like a default one. It is portrayed as quick, straightforward, and reliable. Whether you get a second-hand iPhone trapped in the iCloud lock or don't know about the Apple account, you can use this program to **bypass iPhone 5s to iPhone X/SE 1**.
 
 **Step-by-Step guide:**
@@ -282,21 +306,17 @@ It is an all-in-one iOS unlocking program that can assist you with **iPhone iClo
 
 The whole process will remove the activation lock in a moment or two. Presently, your Apple iPhone 14 will have no lock. You can access and utilize the Apple iPhone 14 now.
 
-
 ### The Bottom Line
 
 Getting locked on the activation lock screen can be hectic and time-consuming if you don't know what to do. Many of you might quit trying after surfing the internet for a solution and getting technical answers from inexperienced individuals. Therefore, we gathered this **Apple iPhone 14 iCloud bypass** guide to help you understand the situation better.
 
 Once you understand the issue, you can unlock it in minutes using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) by Wondershare. So don't wait for a godly miracle to happen, and download Dr.Fone for a permanent answer to your queries.
 
-
-
 ## How to Remove Find My iPhone without Apple ID On your Apple iPhone 14?
 
 While ensuring protection from theft, iPhone offers a wide variety of tools that helps users find their lost iPhone without any discrepancy. Unlike other smartphone developing companies, Apple ensures a far more impressive structure in locating a lost device than any other security protocol. However, certain users wish to configure their security settings from scratch or remove the existing protocols on a certain device. This article provides a detailed guide on removing Find My iPhone without Apple ID through a series of mechanisms and multiple techniques involving several platforms.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lKERrs5S_uU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
-
 
 ## Part 1. Remove Find My iPhone without Apple ID with Dr.Fone - Screen Unlock
 
@@ -306,8 +326,6 @@ Dr. Fone - Screen Unlock (iOS) commemorates an impressive feature set with the p
 - Removes the lock-screen password with no hurdles.
 - Compatible with the latest iOS and works across all models of iPhone, iPad, and iPod Touch.
 
-
-
 ### Dr.Fone - Screen Unlock
 
 Remove Find My iPhone with no Apple ID without Hassle.
@@ -316,9 +334,6 @@ Remove Find My iPhone with no Apple ID without Hassle.
 - Save your Apple iPhone 14 quickly from the disabled state.
 - Free your sim out of any carrier worldwide.
 - Works for all models of iPhone, iPad, and iPod touch.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 - Fully compatible with the latest iOS.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
 **3981454** people have downloaded it
@@ -337,6 +352,13 @@ You need to select the "**Unlock Apple ID**" option on the new screen on your fr
 
 ![select-unlock-apple-id-option](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Choose the "**Remove Apple ID**" option to lead towards the original process of removing Apple iD.
 
 ![remove icloud activation lock](https://images.wondershare.com/drfone/drfone/remove-activation-lock-1.jpg)
@@ -347,11 +369,31 @@ Choose the "**Remove Apple ID**" option to lead towards the original process of 
 
 ![unlock icloud activation - jailbreak iOS](https://images.wondershare.com/drfone/drfone/remove-activation-lock-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4: Confirm the Apple iPhone 14 device information**
 
 Dr.Fone detects the jailbroken device and displays the Apple iPhone 14 device information. Confirm it.
 
 ![unlock icloud activation - confirm device model](https://images.wondershare.com/drfone/drfone/remove-activation-lock-4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 5: Start to remove**
 
@@ -381,9 +423,6 @@ Once you are done saving and securing the credentials of your Apple ID, you need
 
 **Note:** After you turn off the Find My iPhone services, the Activation Lock is automatically disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. Remove find my iPhone with Apple support
 
 Another approach that can be taken into consideration is by accessing Apple Support. Contacting Apple Support can be listed as one of the most prolific and conventional methods adopted to retrieve credentials and remove appropriate services readily consumed. However, to enjoy such easy services, you need to have a claim over the Apple iPhone 14 device. It would be both horrendous and confusing to contact Support if you have not had any control over the Apple iPhone 14 device in the past years. This method might be quite easy and cost less to execute; however, you cannot cover Apple devices bought through secondhand vendors. Furthermore, by following the steps described, it is up to the Support to decide on the case and provide you with appropriate results. Few details need to be covered before contacting the Support. By calling them, they would require the following details, at most.
@@ -396,6 +435,13 @@ By providing the following details, Apple Support may help you remove the Find M
 
 ![contact-apple-support](https://images.wondershare.com/drfone/article/2020/11/remove-find-my-iphone-activation-lock-without-apple-id-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4. Is it possible to remove the activation lock if it's a secondhand iPhone?
 
 Normally, it is up to the previous user with his Apple ID to provide you with the appropriate credentials to remove the activation lock across the Apple iPhone 14 device. For such cases, you need to contact the user himself and explain the reasons for coming up with such a situation. One easy way of confirming the credentials is by going to the locality of the user himself. With this, the phone is just a restart away, followed by the standard activation procedures that would help you remove the Activation Lock across your device.
@@ -405,7 +451,6 @@ It isn't easy to follow these steps if you do not own the Apple iPhone 14 device
 ## Conclusion
 
 The article has explained a very comprehensive set of features and tools that can be efficiently consumed to remove the Activation Lock across an iPhone for removing the Find My iPhone settings. The mechanisms stated can provide you with the appropriate execution if followed properly. For this, you need to follow the guide to understand all the dynamics involved in the system.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -419,11 +464,26 @@ The article has explained a very comprehensive set of features and tools that ca
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ecoding-the-modern-content-creators-dilemma/"><u>[New] Decoding the Modern Content Creator's Dilemma</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-explore-best-asmr-apps-both-sides-of-the-os/"><u>[New] In 2024, Explore Best ASMR Apps, Both Sides of the OS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-the-art-of-photo-editing-with-snapseed/"><u>[New] Master the Art of Photo Editing with Snapseed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-no-rush-realms-top-12-serene-titles/"><u>2024 Approved No-Rush Realms Top 12 Serene Titles</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-entrepreneurial-guide-to-video-content-monetization/"><u>2024 Approved The Entrepreneurial Guide to Video Content Monetization</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dive-into-new-tongues-for-just-055-per-lesson-this-year/"><u>Dive Into New Tongues for Just $0.55 Per Lesson This Year</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-goku-to-vegeta-your-essential-guide-to-watching-the-complete-dragon-ball-saga-in-order/"><u>From Goku to Vegeta: Your Essential Guide to Watching the Complete Dragon Ball Saga in Order</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-apple-iphone-12-mini-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from Apple iPhone 12 mini or iPad?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-iphone-12-pro-max-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on iPhone 12 Pro Max or iPad?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-xwindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your Apple iPhone X/Windows/Mac</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-13-pro-maxipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on Apple iPhone 13 Pro Max/iPad/iPod</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-apple-iphone-6s-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on Apple iPhone 6s Safe and Legal</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-apple-iphone-x-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone X Activation Lock</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Itel A60s? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-iphone-11-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, iPhone 11 Pro iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-master-the-art-of-editing-your-tiktok-number/"><u>In 2024, Master the Art of Editing Your TikTok Number</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-apple-iphone-6s-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on Apple iPhone 6s iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unleash-the-power-of-your-mi-11s-screen-recording-features-for-2024/"><u>Unleash the Power of Your Mi 11'S Screen Recording Features for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-6s-plus-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone 6s Plus</u></a></li>
+</ul></div>
 
