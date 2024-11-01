@@ -1,7 +1,7 @@
 ---
 title: "Unstuck the QR Code Scanner on Your iPhone: 10 Effective Remedies"
-date: 2024-10-25T16:09:15.346Z
-updated: 2024-10-26T16:04:28.071Z
+date: 2024-10-24T22:13:59.029Z
+updated: 2024-10-31T22:11:24.398Z
 tags:
   - iphone
   - apple
@@ -33,15 +33,22 @@ thumbnail: https://thmb.techidaily.com/3376b29faa2d3197bcfcb2a2edc1961849ab55544
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Ensure Your Camera Is in Photo Mode
 
  The QR code scanner on your iPhone only works when the camera is set to Photo mode. If you've mistakenly switched to Video, Portrait, Pano, or any other camera mode, the QR code scanner might not work as expected. So, swipe left or right in the Camera app to switch back to Photo mode. Then, point the camera at the QR code and try to scan it again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Position Your Camera Properly When Scanning
 
@@ -62,10 +69,10 @@ Close
  Sometimes, software glitches can cause your QR code scanner to malfunction. The quickest fix for this is to simply close the Camera app and relaunch it. To do this, swipe up from the bottom of the screen, then swipe up on the Camera app to close it. Wait for a few seconds, then reopen the**Camera** app and try to scan the QR code again.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Add Code Scanner to Control Center
@@ -84,33 +91,19 @@ Here's how to add the Code Scanner to the Control Center:
 
 ![iPhone Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1211.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![iPhone Control Center Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1212.jpeg)
 
 ![iPhone Control Center With Code Scanner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1213.jpeg)
 
 ![iPhone QR Code Scanner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1221.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Restart Your iPhone
@@ -118,6 +111,13 @@ Close
  If the above methods still don't work, a simple restart can help. Sometimes, minor system glitches can cause certain features, like the QR code scanner, to malfunction. Restarting your iPhone can clear these glitches and get everything running smoothly again.
 
  However, iPhones don't have a restart option, so you'll have to manually turn off your device and then turn it back on. Fortunately, you can [manually perform a restart even if your iPhone's buttons are broken](http://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Update Your iPhone
 
@@ -134,10 +134,10 @@ Close
  Popular iOS third-party QR code reader apps include [QR Code & Barcode Scanner](https://apps.apple.com/us/app/qr-code-barcode-scanner/id1048473097) by TeaCapps,[Scan Shot](https://apps.apple.com/us/app/scan-shot-document-scanner-pdf/id1575194801) by Scanner App PDF Tool, and [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) by INSTIG.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Decode QR Codes on Your iPhone Without Issues
@@ -161,17 +161,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-dominate-online-chatter-secrets-to-buzz-creating/"><u>[New] 2024 Approved Dominate Online Chatter Secrets to Buzz-Creating</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-sony-unveils-excellence-the-4k-smartphone-breakthrough-with-xperia-xz/"><u>[New] In 2024, Sony Unveils Excellence The 4K Smartphone Breakthrough with Xperia XZ</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-peak-choice-top-five-high-definition-cameras/"><u>[New] Peak Choice Top Five High Definition Cameras</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-breaking-down-youtube-tv-must-know-aspects-for-consumers/"><u>[Updated] Breaking Down YouTube TV Must Know Aspects for Consumers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-keep-up-to-date-with-youtube-community-guidelines/"><u>[Updated] Keep Up-to-Date With YouTube Community Guidelines</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-effortless-resolution-of-macs-green-screen-problem-for-youtubers/"><u>2024 Approved Effortless Resolution of Mac's Green Screen Problem for YouTubers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/capture-clarity-with-leading-photo-gridding-services/"><u>Capture Clarity with Leading Photo Gridding Services</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-15-pro-maxwindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your Apple iPhone 15 Pro Max/Windows/Mac</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-iphone-se-smoothly-by-drfone-ios/"><u>How To Remove iCloud On iPhone SE Smoothly</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-iphone-6s-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From iPhone 6s</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-apple-iphone-14-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and Apple iPhone 14 iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-7-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 7</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-navigating-mov-saving-in-windows-11-top-six-methods-reviewed/"><u>[New] 2024 Approved Navigating .MOV Saving in Windows 11 - Top Six Methods Reviewed</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-se-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On Apple iPhone SE Online</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-xripadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from Apple iPhone XR/iPad/iPod</u></a></li>
+<li><a href="https://techtrends.techidaily.com/breaking-down-the-latest-wifi-protocols-navigating-through-80211-be-ax-ac-bgn-and-a-technologies/"><u>Breaking Down the Latest WiFi Protocols: Navigating Through 802.11 Be, Ax, Ac, B/G/N & A Technologies</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-iphone-se-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing iPhone SE iCloud Activation Lock</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-iphone-12-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on iPhone 12 Safe and Legal</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-iphone-12-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your iPhone 12 Pro Max and iPad</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-iphone-15-pro-max-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the iPhone 15 Pro Max Without Previous Owner?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-peer-reviewed-evaluation-of-action-screening-tech/"><u>In 2024, Peer-Reviewed Evaluation of Action Screening Tech</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-se-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone SE You Should Try Out</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-13-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 13</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96369676-9781446358405-mediumship-and-survival/"><u>Mediumship and Survival | Free Book</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/meme-marchers-the-path-to-viral-twitcinema/"><u>Meme Marchers The Path to Viral TwitCinema</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722890239450-premium-gadgets-economical-costs-delight-in-affordable-sophistication/"><u>Premium Gadgets, Economical Costs - Delight in Affordable Sophistication</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-12-replacements-for-itunes-on-pc-and-mac-in-2n34-best-options-explored/"><u>Top 12 Replacements for iTunes on PC and Mac in 2N34 - Best Options Explored</u></a></li>
+<li><a href="https://article-files.techidaily.com/top-trending-images-tales-behind-the-graphics/"><u>Top Trending Images Tales Behind the Graphics</u></a></li>
 </ul></div>
 
