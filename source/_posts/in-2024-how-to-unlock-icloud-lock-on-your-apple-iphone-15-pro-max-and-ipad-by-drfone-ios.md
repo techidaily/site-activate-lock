@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iCloud lock on your Apple iPhone 15 Pro Max and iPad?
-date: 2024-10-30T03:33:52.088Z
-updated: 2024-11-01T06:35:46.167Z
+date: 2024-10-31T19:45:16.696Z
+updated: 2024-11-07T03:16:52.348Z
 tags: 
   - unlock
   - bypass activation lock
@@ -24,22 +24,22 @@ At the start of 2014, apple introduced what they call "iCloud Activation Lock". 
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: One-click to unlock iCloud ID with a convenient tool
 
 Sometimes, getting some penny spent is a great idea. And in case you want to unlock the iCloud locked device, spending is indeed a perfect idea. We would here like to suggest to you Dr.Fone - [Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) – a tool that assures unlocking iCloud ID in a few clicks and gives satisfying results.
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock
 
@@ -50,6 +50,13 @@ Remove iCloud Lock from Any iPhone and iPad without Hassle.
 - Free your sim out of any carrier worldwide.
 - Completely unlinked from the previous iCloud account, it won’t be traced or blocked by it anymore.
 - Fully compatible with the latest iOS.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4,008,669** people have downloaded it
 
@@ -75,42 +82,15 @@ From the following screen, press the “Unlock Apple ID” button.
 
 ![new-interface](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3: Select "Remove Active Lock"**
 
 ![select remove active lock](https://images.wondershare.com/drfone/drfone/remove-activation-lock-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4: Start to unlock**
 
 If your Apple iPhone 15 Pro Max has been jailbroken, click the button "Finished Jailbreak". For those who haven't done it, you can follow the [jailbreak guide](https://drfone.wondershare.com/guide/how-to-jailbreak-ios-on-mac.html) to go on.
 
 ![jailbreak iphone](https://images.wondershare.com/drfone/drfone/remove-activation-lock-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Confirm the Apple iPhone 15 Pro Max device model and start to unlock safely.
 
@@ -121,6 +101,13 @@ Confirm the Apple iPhone 15 Pro Max device model and start to unlock safely.
 Lastly, all you need is to check if you succeeded in unlocking the iCloud lock. This can be done on the new window that appears.
 
 ![complete](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Free Unlock the iCloud Lock on iPhone
 
@@ -135,13 +122,6 @@ Step 1. Take your Apple iPhone 15 Pro Max and while on the "Activate iPhone" scr
 
 Step 2. Tap on the "Back" button then click "Done". Next, click "Activation help". Once you have done that, you will see a message that says: You have successfully connected to my server." If you tap on the menu, you will be able to access different iCloud services such as iCloud Locked User Chat, Mail, Social, Maps, Video, YouTube, Audia, and games, among others.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: How to unlock iCloud lock by Apple iPhone Unlock
 
 Sometimes it may not be possible to completely unlock your iCloud Lock. For instance, the free method of unlocking your iCloud Lock only works on iOS 9 and iOS 8 for iPhones. Anything else will not work properly. Moreover, you may not be able to know how to unlock iCloud lock-free if you are in certain countries. That is when you can think of using the Official iPhone Unlock service which will completely unlock your Apple iPhone 15 Pro Max without any hassle. The iCloud Activation Lock Removal tool will quickly remove the iCloud activation lock from the previous owner's account. In short, this is an easy and seamless tool for removing the iCloud lock to set your own.
@@ -151,6 +131,19 @@ Step 1 - Visit the [Apple iPhone unlock](https://appleiphoneunlock.uk/network/Sp
 Step 2 - Enter the IMEI/Serial number of your device and send it.
 
 ![Enter your IMEI/Serial number](https://images.wondershare.com/drfone/article/2016/08/14720745007162.jpg)
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3 - Just wait for a confirmation message telling you that the iCloud Lock has been removed.
 
@@ -169,13 +162,6 @@ Since iOS 12.3, Apple has been using its new Activation Lock feature to deter th
 While this is a welcomed addition for those looking to protect their device, it can also be a major inconvenience for those who have lost or forgotten their iCloud password. Checkra1n is a new tool that allows users to bypass iCloud activation without entering any login information. You will learn in this post how to use Checkra1n iCloud bypass to unlock your Apple iPhone 15 Pro Max or iPad.
 
 Let's get started!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: What is Checkra1n?
 
@@ -202,10 +188,10 @@ Additionally, checkra1n does not require you to sign the jailbreak IPA file (usi
 You may consider using Checkra1n if you are looking for a method to bypass the iCloud activation lock. You can remove the iCloud activation lock from your Apple iPhone 15 Pro Max or iPad using this method.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. How to Jailbreak an iOS Device with Checkra1n?
@@ -238,6 +224,13 @@ Follow these steps to enable the \[Start\] key:
 ![checkra1n icloud bypass ios 15](https://images.wondershare.com/drfone/article/2022/10/checkra1n-icloud-bypass-4.png)
 
 Since Cocosenor bypass Tuner now uses checkra1n 0.12.2 to help jailbreak, it won't be able to jailbreak iOS 14.5.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. How to Bypass iCloud Activation Lock with Checkra1n?
 
@@ -366,6 +359,13 @@ Bypass iCloud activation lock in any scenario
 
 ![make your device jailbroken](https://images.wondershare.com/drfone/guide/bypass-activation-lock-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4.** Start removing the lock and wait. After following these steps, your iPad and Apple iPhone 15 Pro Max will turn into a normal one with no lock.
 
 **Step 5.** That will remove the activation lock in a flash. Presently, your iPad and Apple iPhone 15 Pro Max has no activation lock.
@@ -399,6 +399,13 @@ Since your iPad and Apple iPhone 15 Pro Max is locked, you cannot access anythin
 
 **Step 2.** Click the “Back” button, then Done. Then, click the “Activation help” option. You will see a message saying you have connected to my server whenever you do that. You will get to various iCloud services if you tap on the menu. Furthermore, you can access the User's Chat, Mail, Social, Video, YouTube, and other things from there.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Unlock iCloud Locked iPad and Apple iPhone 15 Pro Max with Apple ID and Password?
 
 The least demanding way is to use the Apple ID username and password initially used to activate the Apple iPhone 15 Pro Max device. Follow these steps to finish the Activation Lock bypass:
@@ -411,13 +418,6 @@ On iOS 10.2 and older, tap Settings > iCloud > Sign Out.
 On iOS 10.3 and newer, go to Settings and tap on your name > Sign Out.
 
 ![sign out](https://images.wondershare.com/drfone/article/2022/10/unlock-icloud-locked-ipad-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - When the iPad and Apple iPhone 15 Pro Max requests the user's ID credentials, please enter them.
 - Presently, eradicate any leftover information and settings on the iPad and Apple iPhone 15 Pro Max by tapping Settings. Go to the General tab and Reset > Erase All Content and Settings.
@@ -446,20 +446,19 @@ Here are the different ways you can utilize **iPad and Apple iPhone 15 Pro Max i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-navigating-win10s-video-call-ecosystem-a-guide-to-using-zoom-for-2024/"><u>[New] Navigating Win10's Video Call Ecosystem A Guide to Using Zoom for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-5-best-live-streaming-webcamscameras-for-twitch-for-2024/"><u>[Updated] 5 Best Live Streaming Webcams/Cameras for Twitch for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-15-pro-max-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crucial-storeplace-refurbishments-for-gpt-plugins-integration/"><u>Crucial Storeplace Refurbishments for GPT Plugins Integration</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/dealing-with-msiexecexe-not-found-effective-strategies-to-correct-missing-msi-dll-errors/"><u>Dealing with 'msiexec.exe Not Found': Effective Strategies to Correct Missing MSI DLL Errors</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-sites-best-aesthetic-laptop-wallpapers/"><u>Essential Sites Best Aesthetic Laptop Wallpapers</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-the-inability-to-reach-mb-services-in-windows-11-devices/"><u>Fixing the Inability to Reach MB Services in Windows 11 Devices</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/how-to-easily-extract-audio-from-videos-without-costs-on-any-gadget-tips-for-2amo/"><u>How To Easily Extract Audio From Videos Without Costs on Any Gadget - Tips for 2Amo</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on iPhone 13 Pro Max</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-iphone-xs-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On iPhone XS?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-xs-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone XS</u></a></li>
-<li><a href="https://ai-video.techidaily.com/new-2024-approved-top-7-online-auto-subtitle-translators-for-content-creators/"><u>New 2024 Approved Top 7 Online Auto Subtitle Translators for Content Creators</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-7-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 7 from iCloud</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/understanding-youtube-post-upload-process-for-2024/"><u>Understanding YouTube Post-Upload Process for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-14-pro-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-deciphering-the-code-of-conduct-your-practical-guide-to-filing-reports-in-online-spaces-like-discord/"><u>[New] 2024 Approved Deciphering the Code of Conduct Your Practical Guide to Filing Reports in Online Spaces Like Discord</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-easy-steps-to-alter-story-video-playback-speed/"><u>[New] 2024 Approved Easy Steps to Alter Story Video Playback Speed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/vercoming-youtube-disqualification/"><u>[New] Overcoming YouTube Disqualification</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-perfect-your-instagram-vids-with-ease-for-2024/"><u>[Updated] Perfect Your Instagram Vids with Ease for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-preserve-your-virtual-adventures-with-top-pc-screen-techniques/"><u>[Updated] Preserve Your Virtual Adventures with Top PC Screen Techniques</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-apple-iphone-12-pro-max-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About Apple iPhone 12 Pro Max Activation Lock</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-on-iphone-6s-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 On iPhone 6s</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-crystal-clear-visuals-a-comprehensive-review-of-the-4k-hdr-samsung-qn55q60rafxza/"><u>Experience Crystal Clear Visuals: A Comprehensive Review of the 4K HDR Samsung QN55Q60RAFXZA</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-iphone-se-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the iPhone SE Without Previous Owner?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-nubia-red-magic-9-proplus-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Nubia Red Magic 9 Pro+? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-6s-plus-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your iPhone 6s Plus</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/online-fb-music-collection-now-for-2024/"><u>Online FB Music Collection Now for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/streamlined-approach-upload-your-videos-from-youtube-to-dailymotion/"><u>Streamlined Approach Upload Your Videos From YouTube to Dailymotion</u></a></li>
 </ul></div>
 
