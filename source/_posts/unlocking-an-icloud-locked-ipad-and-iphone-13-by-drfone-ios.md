@@ -1,7 +1,7 @@
 ---
 title: Unlocking an iCloud Locked iPad and iPhone 13
-date: 2024-07-14T22:09:21.595Z
-updated: 2024-07-15T22:09:21.595Z
+date: 2024-12-02T16:50:23.518Z
+updated: 2024-12-06T17:29:50.238Z
 tags: 
   - unlock
   - bypass activation lock
@@ -24,13 +24,15 @@ With practically no credentials mentioned here, you should turn to expert softwa
 
 ## Part 1: Can We Unlock iCloud Locked iPad and Apple iPhone 13 Without Password?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1. Dr.Fone - Screen Unlock (iOS)
 
 How about we come to the most difficult situation you will be in? You get the **iCloud-locked iPad** and have no information about the Apple account. You can't get the Apple ID and password. Furthermore, you don't keep or have the receipt or proof to show the Apple Store you are the buyer of this iPad. It implies you must bypass this iCloud activation lock page for **iPad and Apple iPhone 13 iCloud unlock.**
 
 [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) by Wondershare is the right iOS unlocker you want at present. The tool can assist you with removing the iCloud-locked interface with no password. Moreover, using Dr.Fone is not difficult; you only need to follow the steps underneath with care. And the process is safe as Dr.Fone takes care of user privacy. But you'd better have a backup because of data loss during unlock process.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -53,20 +55,13 @@ Bypass iCloud activation lock in any scenario
 
 **Step 3.** Please remember to make your iPad and Apple iPhone 13 jailbroken; if not, the process can't go well.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make your device jailbroken](https://images.wondershare.com/drfone/guide/bypass-activation-lock-4.png)
 
 **Step 4.** Start removing the lock and wait. After following these steps, your iPad and Apple iPhone 13 will turn into a normal one with no lock.
 
 **Step 5.** That will remove the activation lock in a flash. Presently, your iPad and Apple iPhone 13 has no activation lock.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove the activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
-
 
 ### Method 2. Apple iPhone Unlock
 
@@ -81,6 +76,10 @@ The Apple iPhone Unlock tool will rapidly remove the iCloud activation lock from
 **Step 3.** Wait for an affirmation message informing you that the iCloud lock has been removed.
 
 **Step 4.** Presently, make another iCloud account and start using your iPad.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3. iCloud DNS Bypass
 
@@ -108,12 +107,13 @@ On iOS 10.3 and newer, go to Settings and tap on your name > Sign Out.
 
 ![sign out](https://images.wondershare.com/drfone/article/2022/10/unlock-icloud-locked-ipad-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - When the iPad and Apple iPhone 13 requests the user's ID credentials, please enter them.
 - Presently, eradicate any leftover information and settings on the iPad and Apple iPhone 13 by tapping Settings. Go to the General tab and Reset > Erase All Content and Settings.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase all content](https://images.wondershare.com/drfone/article/2022/10/unlock-icloud-locked-ipad-3.jpg)
 
 - The iPad and Apple iPhone 13 will restart. You shouldn't see the Activation Lock screen this time and should have the option to set up the iPad and Apple iPhone 13 like new.
@@ -132,15 +132,27 @@ However, a common challenge arises when you acquire a second-hand iPhone or iPad
 
 ![activation lock page ios](https://images.wondershare.com/drfone/article/2024/01/remove-icloud-activation-lock-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. What Is the iCloud Activation Lock
 
 The iCloud Activation Lock is a security feature unique to iOS. It’s intended to prevent people from accessing or resetting stolen devices. This feature is automatically enabled when “Find My iPhone” is turned on and effectively locks the Apple iPhone 13 device to a specific Apple ID.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Attempting To Remove iCloud Activation Lock
 
 Simply logging in with the correct Apple ID credentials will suffice to overcome this lock under normal circumstances. This process is straightforward if you are the original owner and remember your login details. However, there are instances where it could be more. You might forget your Apple ID, buy a second-hand device still linked to the previous owner’s account, or inadvertently reset your phone and face the iCloud Activation Lock.
 
 In these situations, you’re left with a virtually unusable device. But there’s no need to panic. Several methods exist to bypass or remove the iCloud Activation Lock, even when the original Apple ID is unknown or forgotten. In the following sections, you’ll explore these methods. You’ll find step-by-step guidance to remove the iCloud Activation Lock to enjoy its full functionality.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Method 1: Remove iCloud With Apple ID Password
 
@@ -180,7 +192,6 @@ First, Dr.Fone’s Screen Unlock can remove **the iCloud Activation Lock** witho
 
 - **Step 1:** Download and install Wondershare Dr.Fone from the [<u>official website</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/).
 
-
 - **Step 2:** Open **Toolbox > Screen Unlock > iOS**.
 
 ![dr.fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -196,6 +207,10 @@ First, Dr.Fone’s Screen Unlock can remove **the iCloud Activation Lock** witho
 - **Step 5:** Verify if your phone has two-factor authentication enabled on this page. Follow the onscreen instructions.
 
 ![screen lock verify](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Dr.Fone will give instructions on how to put your phone in Recovery mode. If it doesn’t work, click **DFU Mode** at the bottom of the screen.
 
@@ -298,9 +313,6 @@ On the main interface of the program, you will see various options to choose fro
 
 On the next screen, you will see multiple options. Choose the “Unlock Apple ID” one.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
 **Step 4: Establish a Trusted Connection**
@@ -319,10 +331,11 @@ Dr.Fone will begin the process of unlocking your iPad or Apple iPhone 13. Do not
 
 ![process of unlocking](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 2: Factory Reset iPad or Apple iPhone 13 without iCloud Password**
 
@@ -350,6 +363,10 @@ The screen displays an option of ‘Restore’ or ‘Update’ for the iPad or A
 
 ![factory reset ipad without icloud password or apple id](https://images.wondershare.com/drfone/article/2021/04/factory-reset-ipad-without-icloud-password-or-apple-id-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 3: How to Reset iPad or Apple iPhone 13 without Apple ID via the Settings App?**
 
 Another way of resetting your iPad or Apple iPhone 13 is via the Settings app present on your device. You can unlock a disabled iPad or Apple iPhone 13 or remove all data by executing a total wipe of the iPad or Apple iPhone 13 using Settings. However, before starting, please ensure that your iPad or Apple iPhone 13 is connected to the internet and the “Find My iPhone” feature is disabled on it. You will also need to know the passcode of your iPad or Apple iPhone 13 to proceed with this method.
@@ -364,6 +381,10 @@ Once you have done all of that, follow the steps given below.
 
 ![factory reset ipad without icloud password or apple id](https://images.wondershare.com/drfone/article/2021/04/factory-reset-ipad-without-icloud-password-or-apple-id-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Based on the version of your iOS, you might be asked to enter your Apple ID password too. It will also ask for the Apple ID password if the "Find My iPhone" feature is enabled on your device. Hence, the process will not be successful without it, and your iPad or Apple iPhone 13 will go to Activation Lock. Therefore, Dr.Fone is a simple, recommended, and reliable way of resetting the iPad or Apple iPhone 13 without an Apple ID, saving much of the troubles.
 
 ## Conclusion
@@ -371,9 +392,6 @@ Based on the version of your iOS, you might be asked to enter your Apple ID pass
 There can be multiple reasons for resetting your iPad or Apple iPhone 13. Now you know how to factory reset the iPad or Apple iPhone 13 without Apple ID. You can follow any of the above-mentioned methods to get the desired results as best suited to your needs. Some might work, and some might not. The [Dr.Fone – Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool is recommended, as it is the most efficient among all the other methods. Try it to get proficient outcomes.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -387,9 +405,18 @@ There can be multiple reasons for resetting your iPad or Apple iPhone 13. Now yo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-return-artisan-set/"><u>[New] Return Artisan Set</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-game-enhancement-select-top-hdds-for-xbox/"><u>2024 Approved Game Enhancement Select Top HDDs for Xbox</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-13-pro-max-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From Apple iPhone 13 Pro Max Online</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-apple-iphone-14-plus-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your Apple iPhone 14 Plus and iPad</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-xr-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On iPhone XR?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-premier-virtual-marketplaces-the-10-cutest-wrapped-delights/"><u>In 2024, Premier Virtual Marketplaces The 10 Cutest Wrapped Delights</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-apple-iphone-15-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from Apple iPhone 15 Pro iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-creator-studio-secrets-a-step-by-step-tutorial/"><u>In 2024, Unlock Creator Studio Secrets A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-iphone-12-pro-max-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass iPhone 12 Pro Max Activation Lock</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/unlocking-audible-gold-top-three-methods-for-free-video-to-audio-conversion/"><u>Unlocking Audible Gold: Top Three Methods for FREE Video-to-Audio Conversion</u></a></li>
+</ul></div>
 
