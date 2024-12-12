@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Delete iCloud Account with or without Password from your Apple iPhone 12 Pro/Windows/Mac
-date: 2024-07-14T22:04:26.768Z
-updated: 2024-07-15T22:04:26.768Z
+date: 2024-12-06T17:15:59.344Z
+updated: 2024-12-12T17:15:21.512Z
 tags: 
   - unlock
   - bypass activation lock
@@ -31,8 +31,6 @@ With Dr.Fone, you can effortlessly bypass/remove/unlock your iCloud account lock
 Being the best and the most trusted tool in the market, Dr.Fone has the highest success rate. Moreover, this tool is absolutely compatible with the latest iOS version or with any iPhone/iPad. The process is as easy as the “1–2–3” thing.
 
 Let's get to know how to use Dr.Fone - Screen Unlock (iOS)!
-
-
 
 ### Dr.Fone - Screen Unlock
 
@@ -65,9 +63,6 @@ Continue with selecting the Unlock Now button.  If your device operates on iOS/
 
 Following it, you will be asked to boot your device into DFU mode to proceed further. Follow the onscreen steps to get through the process to boot your device into DFU mode easily.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![follow the steps](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 3: Device Detected \[Check device information\]**
@@ -119,6 +114,10 @@ If your iCloud account is on a Windows computer, and you want to remove it, here
 
 ![strat to remove iCloud on Windows computers](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-12_619.jpg)       ![remove iCloud on Windows computers finished](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-13_620.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 5: Tips to Remove the iCloud Account Without a Password on iPhone?
 
 The iCloud account is a great way for Apple users to sync their phone data, but you may need to remove your iCloud account for personal reasons. This is normal, but if you forgot your iCloud account's password, how can you remove the iCloud account without a password on your Apple iPhone 12 Pro?
@@ -155,6 +154,10 @@ If the above steps fail, you need to [bypass iCloud activation](https://drfone.w
 
 ![unlock icloud account](https://images.wondershare.com/drfone/article/2016/08/14720745007162.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** Then you can get a confirmation message that your iCloud will be unlocked in 1–3 days.
 
 ## Conclusion
@@ -178,6 +181,10 @@ Before buying a used iPhone or iPad, **checking the iCloud Activation Lock statu
 - **Step 1:** Power on the Apple iPhone 12 Pro device and unlock it. This step will confirm whether the Apple iPhone 12 Pro device has been properly erased.
 
 ![iphone lockscreen](https://images.wondershare.com/drfone/article/2024/01/check-icloud-activation-lock-status-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Note:**** **If you’re greeted with the passcode Lock Screen or the Home Screen, it indicates that the Apple iPhone 12 Pro device still needs to be fully erased. In this case, ask the seller to completely erase the Apple iPhone 12 Pro device before proceeding. It’s important to only take ownership of any used Apple device once it has been erased.**
 
@@ -206,6 +213,10 @@ If you see an iCloud account listed here and you’re signed in, your device is 
 
 If you are setting up the phone afresh or after a factory reset, proceed with the initial setup steps. Suppose the Apple iPhone 12 Pro device asks for an Apple ID and password previously associated with the Apple iPhone 12 Pro device at any point during the setup. In that case, it indicates that the iCloud Activation Lock is still active. This occurs if the Apple iPhone 12 Pro device was not correctly erased before the reset.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Using IMEI Number
 
 Every iPhone or iPad has its own IMEI number. It can be used to check details about the Apple iPhone 12 Pro device remotely, including **checking the iCloud Activation Lock**. Here are the steps to use your IMEI number to **check the iCloud Activation Lock status** of your phone using third-party apps:
@@ -215,6 +226,10 @@ Every iPhone or iPad has its own IMEI number. It can be used to check details ab
 - **Step 3:** Find the **IMEI** number by scrolling down. It’s a 15-digit number that’s unique to your device.
 
 ![imei page iphone](https://images.wondershare.com/drfone/article/2024/01/check-icloud-activation-lock-status-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Several third-party websites offer services to check iCloud Activation Lock status using the IMEI number. Some of these services are free, while others might charge a small fee. Make sure to use a reputable service to avoid scams.
 - **Step 5:** On the chosen service’s website, enter your device’s IMEI number.
@@ -264,7 +279,6 @@ In cases where you’ve forgotten your Apple ID password and need to remove the 
 Here’s how you can remove the iCloud Activation Lock with Dr.Fone:
 
 - **Step 1:** Download, install, and launch Wondershare Dr.Fone.
-
 
 - **Step 2:** Select **Toolbox > Screen Unlock > iOS** on the application’s interface.
 
@@ -322,9 +336,6 @@ The International Mobile Equipment Identity (IMEI) code/number is a highly uniqu
 
 ![jailbreak iCloud locked iPhone](https://images.wondershare.com/drfone/others/understanding-your-imei.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. How to Find Your IMEI Code
 
 How to find your IMEI code depends on a number of factors such as your phone make, the model as well as the company behind your device. In most cases, you can find the code on your mobile device just under the battery casing, on the SIM Card tray, and in some situations, on the inside part of the bottom phone cover. If by chance, you still can't locate your code, I would highly advise you to dial \*#06# on your phone dial pad. This prompt dial-up happens to be the universal method used by each and every mobile company to locate the unique 15-digit IMEI number.
@@ -333,14 +344,15 @@ You can try to find your IMEI code through the other two methods: check it on yo
 
 **Method 1:** On your Apple iPhone 12 Pro device, directly go to Settings>General>About. Then you can find your IMEI code below.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![check IMEI code on iPhone](https://images.wondershare.com/drfone/others/get_imei_number_settings.jpg)
 
 **Method 2:** Click the "Device" icon in iTunes to access the "Summary" tab. To find the IMEI number on your Apple iPhone 12 Pro, tap "Phone Number" under your device name or navigate to the Apple iPhone 12 Pro device model.
 
 ![look for imei on itunes](https://images.wondershare.com/drfone/article/2023/12/icloud-imei-unlock-bypass-icloud-activation-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Method 3:** For Finder, locate your device from the left panel. Ensure that you're on the “General” tab, then select "Phone Number" below your device name or model to locate the IMEI number.
 
@@ -373,6 +385,10 @@ This relevant service is typically provided by third-party companies and is not 
 Are you looking for a way to bypass the iCloud Activation lock without an IMEI code? [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) provides a solution for unlocking iPhone, iPad, and iPod touch without a passcode. It is capable of removing various types of lock screens, which include your device's passcode, Touch ID, and Face ID locks. Moreover, it can bypass the iCloud activation lock and Apple ID without requiring a password.
 
 Additionally, it can bypass MDM (Mobile Device Management) and screen time settings without causing data loss. This software is compatible with iOS 17/iPadOS 17 and iPhone 15.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Dr.Fone
 
@@ -438,12 +454,17 @@ Once the Apple iPhone 12 Pro device is jailbroken, Dr.Fone will commence the rem
 
 ![complete icloud activation lock bypass](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tip: One-click Solution to Bypass iCloud Password without IMEI Code
 
 Not just IMEI, you may also wish to bypass the iCloud account that is linked to the Apple iPhone 12 Pro device as well. To do this, you can take the assistance of [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) and follow a simple stepwise process. Ideally, the application is used to remove the lock screen of an iOS device, but it can also help you bypass an iCloud account. But, you need to unlock your device once in the process. If you are ready, just follow these steps to learn how to bypass the iCloud lock on your phone.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -464,15 +485,16 @@ Unlock Apple ID Without Password.
 
 ![trust-computer](https://images.wondershare.com/drfone/trust-computer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** As your device would be detected, click on the "Unlock Now" button, and agree to the following warning message. Enter the displayed code to verify as the process will erase the existing data on your phone.
 
 ![attention](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
 
 **Step 4:** Afterward, just unlock your Apple iPhone 12 Pro and go to its Settings > General > Reset. From here, you can choose to reset all device settings.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![interface](https://images.wondershare.com/drfone/interface.jpg)
 
 Step 5: That's it! Once the Apple iPhone 12 Pro device restarts with its default settings, the application will take the needed steps to bypass its iCloud account. Kindly be patient and wait as Dr.Fone would complete the process.
@@ -483,16 +505,9 @@ Step 6: In the end, you will be notified when the unlock process is completed. Y
 
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
-
 Some of the methods that have been listed above require little skills and time to bypass the activation lock. Also, the amount of cash required is minimal as compared to other methods, which can be quite expensive and complicated for some users. [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is a better solution that will take you a long way in terms of iPhone and iCloud use compared to others, and hence you should never be worried just because you can't access your iCloud account.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![best ai tools](https://images.wondershare.com/drfone/images2023/ai-tools/ai-tools-1170_128.png)](https://drfone.wondershare.com/ai-tools.html?from=ai-tools-article-banner)
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -506,9 +521,23 @@ Some of the methods that have been listed above require little skills and time t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-a-link-building-foundation-for-video-marketers/"><u>[Updated] 2024 Approved Creating a Link-Building Foundation for Video Marketers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-11-pro-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On Apple iPhone 11 Pro Online</u></a></li>
+<li><a href="https://fox-access.techidaily.com/efficient-techniques-for-srt-files-on-twitter-facebook-for-2024/"><u>Efficient Techniques for SRT Files on Twitter, Facebook for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-iphone-13-pro-max-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your iPhone 13 Pro Max and iPad</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-iphone-14-plusipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from iPhone 14 Plus/iPad/iPod</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-13-ultra-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-iphone-13-mini-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix iPhone 13 mini Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-iphone-14-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on iPhone 14</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/g-your-youtube-content-stand-out-with-engaging-subtitle-designs/"><u>Making Your YouTube Content Stand Out with Engaging Subtitle Designs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/premium-picks-where-to-grab-classical-ringtones/"><u>Premium Picks Where to Grab Classical Ringtones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/step-by-step-creating-a-skype-group-on-both-systems-for-2024/"><u>Step-by-Step Creating a Skype Group on Both Systems for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-crossfade-audio-seamless-integration-in-logic-x/"><u>The Art of Crossfade Audio Seamless Integration in Logic X</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-fixes-for-intermittent-speaker-failures-on-windows-11-systems/"><u>The Ultimate Fixes for Intermittent Speaker Failures on Windows 11 Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-picks-for-personalizing-mbp-screens-with-skins-for-2024/"><u>Top Picks for Personalizing MBP Screens with Skins for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-iphone-xs-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on iPhone XS iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-12-mini-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 12 mini</u></a></li>
+</ul></div>
 
