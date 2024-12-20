@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Factory Reset iPad or Apple iPhone 12 Pro Max without iCloud Password or Apple ID?
-date: 2024-07-14T21:58:03.796Z
-updated: 2024-07-15T21:58:03.796Z
+date: 2024-12-14T16:06:46.299Z
+updated: 2024-12-19T16:09:12.382Z
 tags: 
   - unlock
   - bypass activation lock
@@ -20,9 +20,6 @@ If you are an iPad or Apple iPhone 12 Pro Max owner and are looking to reset you
 
 In this article, you shall find multiple ways by which you can effectively factory reset iPad or Apple iPhone 12 Pro Max without iCloud password and get a clean slate to work on. A factory reset will wipe all the data off of your iPad or Apple iPhone 12 Pro Max, so be mindful of that. The methods are all quite simple yet effective in producing the desired result. Without further ado, let us begin!
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Part 1: How to Factory Reset iPad or Apple iPhone 12 Pro Max without Apple ID by Removing Apple ID?**
 
 If you wish to factory reset the iPad or Apple iPhone 12 Pro Max without an Apple ID password or iTunes, one simple way to do it is via third-party application software. A quite wonderful tool in this regard is the [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool. It lets its users remove multiple types of locks from screens on several different devices. Using an external tool saves users from various kinds of troubles that may arise along the way.
@@ -54,6 +51,10 @@ On the next screen, you will see multiple options. Choose the “Unlock Apple ID
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Establish a Trusted Connection**
 
 Now, tap the “Trust” button on your iPad or Apple iPhone 12 Pro Max to establish a trusted connection with the computer to proceed further.
@@ -69,6 +70,10 @@ Then, on your computer screen, click on "Unlock Now." Confirm the action on the 
 Dr.Fone will begin the process of unlocking your iPad or Apple iPhone 12 Pro Max. Do not disconnect the iPad or Apple iPhone 12 Pro Max during this process. Once the process is completed, reboot your iPad or Apple iPhone 12 Pro Max, and you shall be able to sign in with a new Apple ID.
 
 ![process of unlocking](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
@@ -98,9 +103,6 @@ The screen displays an option of ‘Restore’ or ‘Update’ for the iPad or A
 
 ![factory reset ipad without icloud password or apple id](https://images.wondershare.com/drfone/article/2021/04/factory-reset-ipad-without-icloud-password-or-apple-id-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Part 3: How to Reset iPad or Apple iPhone 12 Pro Max without Apple ID via the Settings App?**
 
 Another way of resetting your iPad or Apple iPhone 12 Pro Max is via the Settings app present on your device. You can unlock a disabled iPad or Apple iPhone 12 Pro Max or remove all data by executing a total wipe of the iPad or Apple iPhone 12 Pro Max using Settings. However, before starting, please ensure that your iPad or Apple iPhone 12 Pro Max is connected to the internet and the “Find My iPhone” feature is disabled on it. You will also need to know the passcode of your iPad or Apple iPhone 12 Pro Max to proceed with this method.
@@ -133,6 +135,10 @@ In this article, we will be looking at **how to delete/remove/unlock the iCloud 
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: How to Unlock My iCloud Password with Dr.Fone? \[Quick Fix\]
 
 With Dr.Fone, you can effortlessly bypass/remove/unlock your iCloud account lock within a few seconds.
@@ -140,8 +146,6 @@ With Dr.Fone, you can effortlessly bypass/remove/unlock your iCloud account lock
 Being the best and the most trusted tool in the market, Dr.Fone has the highest success rate. Moreover, this tool is absolutely compatible with the latest iOS version or with any iPhone/iPad. The process is as easy as the “1–2–3” thing.
 
 Let's get to know how to use Dr.Fone - Screen Unlock (iOS)!
-
-
 
 ### Dr.Fone - Screen Unlock
 
@@ -174,9 +178,6 @@ Continue with selecting the Unlock Now button.  If your device operates on iOS/
 
 Following it, you will be asked to boot your device into DFU mode to proceed further. Follow the onscreen steps to get through the process to boot your device into DFU mode easily.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![follow the steps](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 3: Device Detected \[Check device information\]**
@@ -191,6 +192,10 @@ Lastly, when the firmware version is successfully downloaded, you need to hit on
 
 ![remove the icloud account lock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Wait for the process to complete. “Completely unlocked”, the iCloud account lock will no longer be there on your device.
 
 ## Solution 3: How to Disable iCloud on Mac?
@@ -202,12 +207,20 @@ If you need to disable iCloud on the Mac, follow these straightforward steps.
 
 ![disable iCloud on Mac](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-4_629.jpg)![start to disable iCloud on Mac](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-5_630.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** Choose iCloud from the left pane of the resultant window.
 - **Step 4.** Check the box next to the App you want to disable or enable in the pane on the right.
 
 ![disable iCloud on Mac processing](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-6_631.jpg)![disable iCloud on Mac completed](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-7_632.jpg)
 
 Also Read: [How to Reset iPhone Without Apple ID >>](https://drfone.wondershare.com/reset-iphone/reset-iphone-without-apple-id.html)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 4: How to Delete iCloud on Windows Computers?
 
@@ -224,17 +237,22 @@ If your iCloud account is on a Windows computer, and you want to remove it, here
 
 ![select to remove iCloud on Windows computers](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-10_617.jpg)       ![confirm remove iCloud on Windows computers](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-11_618.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4.** Click on “Yes” when the PC asks if you want iCloud to make changes to it. Once the process is complete, click on "Finish" and then manually restart your system.
 
 ![strat to remove iCloud on Windows computers](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-12_619.jpg)       ![remove iCloud on Windows computers finished](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-13_620.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 5: Tips to Remove the iCloud Account Without a Password on iPhone?
 
 The iCloud account is a great way for Apple users to sync their phone data, but you may need to remove your iCloud account for personal reasons. This is normal, but if you forgot your iCloud account's password, how can you remove the iCloud account without a password on your Apple iPhone 12 Pro Max?
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Steps to delete iCloud account on iPhone/iPad
 
 In case you [forgot the Apple iPhone 12 Pro Max password](https://drfone.wondershare.com/reset-iphone/factory-reset-iphone-without-passcode.html) and want to remove the iCloud account without a password, here’s how to do it in simple steps.
@@ -243,15 +261,16 @@ In case you [forgot the Apple iPhone 12 Pro Max password](https://drfone.wonders
 
 ![remove iCloud account without password](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-14_621.jpg)     ![start to remove iCloud account without password](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-15_622.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** iCloud will tell you that the username and password you entered is incorrect. Click on “OK” and then “Cancel” to go back to the main iCloud page. After that, tap on Account again but this time, remove the description and then tap on “Done”.
 
 ![enter username and password](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-16_623.jpg)![tape on account](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-17_624.jpg)
 
 - **Step 3.** This time, you will be taken back to the main iCloud page without entering your password. You will also notice that the “Find my Phone” feature has been turned off automatically. Then scroll down and tap on Delete. You will be prompted to confirm the deletion, you can do by tapping on “Delete” again.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![find My Apple iPhone 12 Pro Max notice](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-18_625.jpg)![remove iCloud account without password completed](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-19_626.jpg)
 
 ### What if the above steps fail to remove the iCloud account without a passcode
@@ -269,6 +288,10 @@ If the above steps fail, you need to [bypass iCloud activation](https://drfone.w
 - **Step 2.** Select your Apple iPhone 12 Pro Max model and enter the IMEI code of your device. If you don't know how to find your IMEI number, you can click the blue text “Click here if you need help finding your IMEI” below.
 
 ![unlock icloud account](https://images.wondershare.com/drfone/article/2016/08/14720745007162.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3.** Then you can get a confirmation message that your iCloud will be unlocked in 1–3 days.
 
@@ -365,7 +388,6 @@ Dr.Fone's key features are:
 - Unlock your Apple iPhone 12 Pro Max without carrier restrictions.
 - Remove MDM profile / bypass MDM lock without data loss.
 
-
 Here's how to use Dr.Fone if you forget your iCloud password.
 
 **Step 1**: Download and install [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/).
@@ -389,15 +411,11 @@ After step 3, there are two possible outcomes for GSM and CDMA iPhone devices.
 - If you own a GSM device, the unlocking will do no harm to your iOS device, and you can enjoy your Apple iPhone 12 Pro Max as usual.
 - If the Apple iPhone 12 Pro Max is CDMA, you won't be able to use the Apple iPhone 12 Pro Max device for phone calls, cellular data, and iCloud of your new Apple ID.
 
-
 ### Conclusion
 
 Turning on your iCloud's two-factor authentication is necessary for today's high-tech society. It ensures your information is always secure and minimizes the risk of getting hacked or having your account stolen. Once two-factor is active on your Apple ID, Apple provides you with a two-week window to deactivate it if you change your mind.
 
 Meanwhile, if you forgot your iCloud and have a hard time recovering your account, you can try using dedicated programs like Dr.Fone to unlock your iOS device in a few steps.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -411,9 +429,24 @@ Meanwhile, if you forgot your iCloud and have a hard time recovering your accoun
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-evaluating-gopro-hero5-video-outputs-for-2024/"><u>[New] Evaluating GoPro Hero5 Video Outputs for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-make-memories-count-learn-to-share-photos-right-now-for-2024/"><u>[New] Make Memories Count Learn to Share Photos Right Now for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-resolve-ineffective-fb-content-distribution/"><u>[Updated] 2024 Approved Resolve Ineffective FB Content Distribution</u></a></li>
+<li><a href="https://fox-access.techidaily.com/10-ultimate-action-hunting-cameras-ranked-for-2024/"><u>10 Ultimate Action Hunting Cameras Ranked for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-from-apple-iphone-xs-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock from Apple iPhone XS</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-apple-iphone-7-plus-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the Apple iPhone 7 Plus iCloud Lock</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-15-plus-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone 15 Plus Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/grasping-the-functionality-of-airborne-robotics/"><u>Grasping the Functionality of Airborne Robotics</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-apple-iphone-14-plus-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your Apple iPhone 14 Plus and iPad</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from iPhone 6s Plus</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone SE (2020)?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-iphone-12-mini-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your iPhone 12 mini and iPad?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-insightful-pricing-comparison-for-cloud-platforms/"><u>In 2024, Insightful Pricing Comparison for Cloud Platforms</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-apple-iphone-13-mini-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your Apple iPhone 13 mini</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-turning-photos-into-cartoon-online-for-2024/"><u>Updated Turning Photos Into Cartoon Online for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-12-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 12</u></a></li>
+</ul></div>
 

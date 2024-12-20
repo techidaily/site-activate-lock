@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to fix iCloud lock from your Apple iPhone 12 mini and iPad
-date: 2024-07-14T21:52:49.006Z
-updated: 2024-07-15T21:52:49.006Z
+date: 2024-12-17T16:13:05.374Z
+updated: 2024-12-19T20:54:21.435Z
 tags: 
   - unlock
   - bypass activation lock
@@ -40,6 +40,10 @@ With the "Find My iPhone" option turned off, reset your device by deleting all y
 
 With your phone back to its default state, sign in using your Apple details as explained in step 1. Once you are logged in, just set up your iPad or iPhone with new details. Also, try to access the iCloud option to make sure that the lock is no longer available. Once you are satisfied with what you see, simply sign out and sign in back again just to be sure. If everything is okay, then you are good to go.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: How to fix iCloud lock through the owner
 
 Another easy iCloud lock fix method is by directly contacting the owner. In most circumstances, many iPhone and iPad users usually lock up the iCloud option as a way of protecting their privacy. If the person who sold you the Apple iPhone 12 mini device happens to be the real owner, then he/she should be in a position to give you the iCloud unlock codes.
@@ -72,11 +76,6 @@ Once you have entered your email address, a new interface requesting you to choo
 
 If you aren’t able to fix iCloud lock with the provided methods above, we would like to recommend you Dr.Fone – [Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) – one of its kind tools that work when you wish to unlock screen locks effortlessly. It shows great compatibility with the latest iPhones and iOS versions. In addition, you don’t need to be tech-savvy to play with this tool. Let us know how it works to fix iCloud lock.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock
 
 Fix the "iPhone Is Disabled Connect to iTunes" Error In 5 Minutes
@@ -102,6 +101,10 @@ When the next screen appears, you are required to hit on the “Remove Apple ID�
 
 ![new-interface](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **Step 3:** Key in the Password
 
 As the next step, make sure to enter the screen password. Move ahead to trust the computer thereby letting the program scan the Apple iPhone 12 mini device further.
@@ -113,6 +116,10 @@ As the next step, make sure to enter the screen password. Move ahead to trust th
 You will be given some instructions on the following screen. Ensure to follow them carefully and put your device into recovery mode.
 
 ![interface](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **Step 5:** Get iCloud Lock Fixed
 
@@ -127,8 +134,6 @@ In the last, you will receive a new window where you can check whether you have 
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
 As we have seen, different methods of how to fix iCloud lock are available to choose from. The method you chose will solely depend on your own preferences. The various methods as we have seen have their own advantages and disadvantages. Some will delete your entire data while some will charge you a particular amount. What you should always keep in mind is the fact that you can fix iCloud lock at your own will and wish. You no longer have to be worried about being locked out of your iCloud account.
-
-
 
 ## How to Delete iCloud Account with or without Password from your Apple iPhone 12 mini/Windows/Mac
 
@@ -148,11 +153,6 @@ Being the best and the most trusted tool in the market, Dr.Fone has the highest 
 
 Let's get to know how to use Dr.Fone - Screen Unlock (iOS)!
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock
 
 Remove iCloud Account without Password in Minutes
@@ -162,9 +162,6 @@ Remove iCloud Account without Password in Minutes
 - Free your sim out of any carrier worldwide.
 - Bypass iCloud activation lock and enjoy all iCloud services
 - Works for all models of iPhone, iPad, and iPod touch.
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - Fully compatible with the latest iOS.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
 **4,008,669** people have downloaded it
@@ -193,9 +190,6 @@ Following it, you will be asked to boot your device into DFU mode to proceed fur
 
 As soon as your device boots into DFU mode, the program will automatically detect it and display the Apple iPhone 12 mini device's corresponding information over your screen. Double-check it and then hit the “Start” button to initiate downloading the latest compatible firmware version for your device.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![check device information](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 4: Remove the iCloud Account Lock**
@@ -214,6 +208,10 @@ If you need to disable iCloud on the Mac, follow these straightforward steps.
 - **Step 2.** In the System Preferences Window, click on “Mail, Contacts & Calendars”.
 
 ![disable iCloud on Mac](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-4_629.jpg)![start to disable iCloud on Mac](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-5_630.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3.** Choose iCloud from the left pane of the resultant window.
 - **Step 4.** Check the box next to the App you want to disable or enable in the pane on the right.
@@ -236,6 +234,10 @@ If your iCloud account is on a Windows computer, and you want to remove it, here
 - **Step 3.** Select remove iCloud for Windows from this Computer when prompted. Then click on “Yes” to confirm the deletion, and then wait for the process to complete.
 
 ![select to remove iCloud on Windows computers](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-10_617.jpg)       ![confirm remove iCloud on Windows computers](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-11_618.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4.** Click on “Yes” when the PC asks if you want iCloud to make changes to it. Once the process is complete, click on "Finish" and then manually restart your system.
 
@@ -267,15 +269,27 @@ If the above steps fail, you need to [bypass iCloud activation](https://drfone.w
 
 **Note:** _To be honest, this method cannot ensure a 100% success rate, but you can still give it a try anyway._
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps to unlock your iCloud account online
 
 - **Step 1.** Go to the [Official](https://appleiphoneunlock.uk/network/Special%20Services/Activation%20Lock?aff=wondershare) iPhone unlock and click “iCloud Unlock” on the window's left side.
 
 ![how to remove icloud account](https://images.wondershare.com/drfone/others/select-icloud-unlock.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Select your Apple iPhone 12 mini model and enter the IMEI code of your device. If you don't know how to find your IMEI number, you can click the blue text “Click here if you need help finding your IMEI” below.
 
 ![unlock icloud account](https://images.wondershare.com/drfone/article/2016/08/14720745007162.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3.** Then you can get a confirmation message that your iCloud will be unlocked in 1–3 days.
 
@@ -301,9 +315,6 @@ Simply logging in with the correct Apple ID credentials will suffice to overcome
 
 In these situations, you’re left with a virtually unusable device. But there’s no need to panic. Several methods exist to bypass or remove the iCloud Activation Lock, even when the original Apple ID is unknown or forgotten. In the following sections, you’ll explore these methods. You’ll find step-by-step guidance to remove the iCloud Activation Lock to enjoy its full functionality.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. Method 1: Remove iCloud With Apple ID Password
 
 If you’re fortunate enough to know the Apple ID associated with the Apple iPhone 12 mini device, learning **how to remove iCloud Activation Lock** is straightforward. This method is ideal for those who have either forgotten their password or acquired a second-hand device still linked to the previous owner’s Apple ID but have their cooperation in unlocking it.
@@ -341,7 +352,6 @@ Read the steps below to learn how to use the Screen Unlock feature to remove the
 First, Dr.Fone’s Screen Unlock can remove **the iCloud Activation Lock** without jailbreaking the Apple iPhone 12 mini device. Note that this only works when the phone is not in activation mode. This can be any time before the phone is reset. The steps below guide you how to remove the Apple ID from the Apple iPhone 12 mini device.
 
 - **Step 1:** Download and install Wondershare Dr.Fone from the [<u>official website</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/).
-
 
 - **Step 2:** Open **Toolbox > Screen Unlock > iOS**.
 
@@ -411,11 +421,19 @@ If your device is on the activation screen, the above-presented method will not 
 
 ![dr.fone bypass complete](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Method 3: Use Dedicated Third-Party Services To Remove iCloud Lock
 
 Numerous dedicated third-party services, such as IMEICheck.co and iUnlocker.com, offer **activation lock removal** for those seeking alternative solutions. These websites typically work by using the Apple iPhone 12 mini device’s IMEI number to unlock the associated iCloud account.
 
 Users visit these websites, enter their device’s IMEI number, and request the iCloud unlock service. Depending on the service provider, these platforms process the unlock request, which can take a few days. While convenient, users should exercise caution and ensure they’re using reputable services to avoid potential scams.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -424,7 +442,6 @@ In summary, **removing iCloud Activation Lock** can be crucial for those dealing
 It’s important to remember that these methods should only be used for legitimate purposes, such as unlocking a device you legally own. Dr.Fone remains a recommended tool for a comprehensive mobile solution, particularly for unlocking needs.
 
 _**Tips:** Are you searching for a powerful Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -438,9 +455,24 @@ _**Tips:** Are you searching for a powerful Unlock tool? No worries as [Dr.Fone]
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-quick-guide-resolving-obs-skipping-problems-for-2024/"><u>[New] Quick Guide Resolving OBS Skipping Problems for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tale-bearers-school-distinguished-dothee/"><u>[New] Tale Bearers School - Distinguished Dothee</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-cutting-edge-techniques-for-rapid-thumbnail-assembly-for-2024/"><u>[Updated] Cutting-Edge Techniques for Rapid Thumbnail Assembly for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-13-pro-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 13 Pro</u></a></li>
+<li><a href="https://article-tips.techidaily.com/enhance-videos-with-music-inshots-simple-methods/"><u>Enhance Videos with Music InShot's Simple Methods</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/expert-tips-for-captivate-based-demos-for-2024/"><u>Expert Tips for Captivate-Based Demos for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-apple-iphone-6s-plus-by-drfone-ios/"><u>How to Bypass iCloud Lock from Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-oppo-a18-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Oppo A18 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-15-pro-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 15 Pro?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-android-sound-logging-without-need-for-rooting/"><u>In 2024, Android Sound Logging Without Need for Rooting</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-14-plus-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and iPhone 14 Plus The Right Way</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For Apple iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-15-plus-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://games-able.techidaily.com/power-saving-tips-why-idle-ps5/"><u>Power-Saving Tips: Why Idle PS5?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-fix-to-connect-xbox-wirelessly-download-the-necessary-software-now/"><u>Quick Fix to Connect Xbox Wirelessly - Download the Necessary Software Now!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-13-pro-max-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 13 Pro Max</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-14-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 14</u></a></li>
+</ul></div>
 

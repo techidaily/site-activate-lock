@@ -1,7 +1,7 @@
 ---
 title: How to Delete iCloud Account with or without Password from your iPhone 12 Pro Max/Windows/Mac
-date: 2024-07-14T21:56:41.292Z
-updated: 2024-07-15T21:56:41.292Z
+date: 2024-12-13T18:30:45.901Z
+updated: 2024-12-19T16:44:58.817Z
 tags: 
   - unlock
   - bypass activation lock
@@ -31,8 +31,6 @@ With Dr.Fone, you can effortlessly bypass/remove/unlock your iCloud account lock
 Being the best and the most trusted tool in the market, Dr.Fone has the highest success rate. Moreover, this tool is absolutely compatible with the latest iOS version or with any iPhone/iPad. The process is as easy as the “1–2–3” thing.
 
 Let's get to know how to use Dr.Fone - Screen Unlock (iOS)!
-
-
 
 ### Dr.Fone - Screen Unlock
 
@@ -81,9 +79,6 @@ Lastly, when the firmware version is successfully downloaded, you need to hit on
 
 Wait for the process to complete. “Completely unlocked”, the iCloud account lock will no longer be there on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Solution 3: How to Disable iCloud on Mac?
 
 If you need to disable iCloud on the Mac, follow these straightforward steps.
@@ -93,6 +88,10 @@ If you need to disable iCloud on the Mac, follow these straightforward steps.
 
 ![disable iCloud on Mac](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-4_629.jpg)![start to disable iCloud on Mac](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-5_630.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** Choose iCloud from the left pane of the resultant window.
 - **Step 4.** Check the box next to the App you want to disable or enable in the pane on the right.
 
@@ -100,13 +99,14 @@ If you need to disable iCloud on the Mac, follow these straightforward steps.
 
 Also Read: [How to Reset iPhone Without Apple ID >>](https://drfone.wondershare.com/reset-iphone/reset-iphone-without-apple-id.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 4: How to Delete iCloud on Windows Computers?
 
 If your iCloud account is on a Windows computer, and you want to remove it, here’s a step-by-step on how to easily do that. But before we get to the steps, you must have a backup for all your information on the iCloud.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Steps to remove iCloud on Windows computers
 
 - **Step 1.** On your Windows PC, click on “Start” and the Control Panel. In the Control Panel, select “Uninstall a Program”.
@@ -126,6 +126,10 @@ If your iCloud account is on a Windows computer, and you want to remove it, here
 
 The iCloud account is a great way for Apple users to sync their phone data, but you may need to remove your iCloud account for personal reasons. This is normal, but if you forgot your iCloud account's password, how can you remove the iCloud account without a password on your Apple iPhone 12 Pro Max?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps to delete iCloud account on iPhone/iPad
 
 In case you [forgot the Apple iPhone 12 Pro Max password](https://drfone.wondershare.com/reset-iphone/factory-reset-iphone-without-passcode.html) and want to remove the iCloud account without a password, here’s how to do it in simple steps.
@@ -134,13 +138,25 @@ In case you [forgot the Apple iPhone 12 Pro Max password](https://drfone.wonders
 
 ![remove iCloud account without password](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-14_621.jpg)     ![start to remove iCloud account without password](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-15_622.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** iCloud will tell you that the username and password you entered is incorrect. Click on “OK” and then “Cancel” to go back to the main iCloud page. After that, tap on Account again but this time, remove the description and then tap on “Done”.
 
 ![enter username and password](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-16_623.jpg)![tape on account](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-17_624.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** This time, you will be taken back to the main iCloud page without entering your password. You will also notice that the “Find my Phone” feature has been turned off automatically. Then scroll down and tap on Delete. You will be prompted to confirm the deletion, you can do by tapping on “Delete” again.
 
 ![find My Apple iPhone 12 Pro Max notice](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-18_625.jpg)![remove iCloud account without password completed](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-19_626.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What if the above steps fail to remove the iCloud account without a passcode
 
@@ -152,9 +168,6 @@ If the above steps fail, you need to [bypass iCloud activation](https://drfone.w
 
 - **Step 1.** Go to the [Official](https://appleiphoneunlock.uk/network/Special%20Services/Activation%20Lock?aff=wondershare) iPhone unlock and click “iCloud Unlock” on the window's left side.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how to remove icloud account](https://images.wondershare.com/drfone/others/select-icloud-unlock.jpg)
 
 - **Step 2.** Select your Apple iPhone 12 Pro Max model and enter the IMEI code of your device. If you don't know how to find your IMEI number, you can click the blue text “Click here if you need help finding your IMEI” below.
@@ -166,6 +179,10 @@ If the above steps fail, you need to [bypass iCloud activation](https://drfone.w
 ## Conclusion
 
 So, here you unlock your iCloud account. iCloud activation lock can be easily bypassed if you have the right tool. With the highest success rate of bypassing the iCloud activation lock, [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is what you are looking for. I hope it will be useful for you to [bypass iCloud activation](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html) when confronting such kinds of problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Remove the Activation Lock On your iPad and Apple iPhone 12 Pro Max without Apple Account
 
@@ -217,7 +234,6 @@ But for CDMA devices, when you bypass the activation lock, there will be no chan
 
 ![remove the activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
-
 ### Ask the previous owner to remove it remotely
 
 This approach requires the old user's Apple account credentials. You should initially sign in to iCloud before utilizing this strategy to unlock the iPhone. You can also ask the old user to carry out this method. Ask the user to follow the steps below, and that's **how to remove activation lock without Apple ID:**
@@ -268,6 +284,10 @@ However, before heading out to the Apple shop, ensure you have these data:
 
 ## Part 2: FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. What is an activation lock?
 
 Activation Lock assists you with keeping your phone secure, regardless of whether it's in some wrong hands, and you can still recover it. Even if you erase your data from somewhere else, Activation Lock can keep on preventing anybody from reactivating your phone without your consent.
@@ -286,6 +306,10 @@ There are no unlawful ways of bypassing the Activation lock by the same token. R
 - Your Apple iPhone 12 Pro Max will incite you for your password. You should enter your iCloud credentials to continue.
 - In the textbox, type the password, and you are ready.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 Activation locks can help users secure their phones from unwanted people. However, it can be frustrating if you don't have the password to your phone's Apple ID. Therefore, the methods in this article will help you with **iPad activation lock bypass code without Apple ID.** On top of that, Wondershare Dr.Fone can remove the lock for you in just a few minutes.
@@ -297,8 +321,6 @@ The iCloud Activation Lock works by automatically locking out anyone with the Ap
 ## Part 1: How To Bypass iCloud Activation Lock on Apple iPhone 12 Pro Max (Fast Solution)
 
 Though Apple maintains that the iCloud activation lock is one of their most robust security features, it is a fact that this security feature can be unlocked and bypassed as easily as it was activated. One of the main methods on how to bypass iCloud lock on Apple iPhone 12 Pro Max with the latest iOS version is by using the [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) method. It also works for the latest iPhone.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -328,9 +350,6 @@ The following is a detailed step-by-step guide on how to bypass iCloud lock usin
 
 4: Jailbreak your Apple iPhone 12 Pro Max.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![jailbreak on Apple iPhone 12 Pro Max](https://images.wondershare.com/drfone/drfone/remove-activation-lock-2.jpg)
 
 5: Start to unlock.
@@ -340,6 +359,10 @@ The following is a detailed step-by-step guide on how to bypass iCloud lock usin
 6: The unlocking process takes about 2-3 days. Once the iCloud lock has been bypassed, you will get an email informing you of the bypass.
 
 ![completed unlocking process](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Bypass iCloud Lock on Apple iPhone 12 Pro Max via iPhoneIMEI.net
 
@@ -371,9 +394,6 @@ Here’s how you can unlock and bypass the iCloud Activation Lock by using the D
 
 3: Enter the following DNS details depending on your location.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![unlock iCloud activation Lock on Apple iPhone 12 Pro Max](https://images.wondershare.com/drfone/article/2017/03/14888418539745.jpg)
 
 To those located in the USA/North America, enter 104.154.51.7. To those located in Europe, enter 104.155.28.90. To those in Asia and the rest of the world, enter 104.155.220.58 and 78.109.17.60 respectively.
@@ -388,9 +408,6 @@ To those located in the USA/North America, enter 104.154.51.7. To those located 
 
 The iCloud Activation Lock is no doubt a makeshift game-changer in the iOS platform. However, as robust and secure as it remains to be, it is no secret that this security feature can be bypassed if the right methods on how to bypass iCloud lock are employed. As seen in this article, regardless of whether you want to bypass iCloud lock on Apple iPhone 12 Pro Max by using the DNS change option, the Official iPhoneUnlock, or the iPhoneIMEI.net method, the fact remains that it is up to you to choose the preferred method to bypass iCloud lock when the need arises.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -403,9 +420,22 @@ The iCloud Activation Lock is no doubt a makeshift game-changer in the iOS platf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-from-click-to-chatter-turning-titles-into-talk-on-fb/"><u>[Updated] In 2024, From Click to Chatter Turning Titles Into Talk on FB</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-gourmet-guides-leading-food-vloggers-online/"><u>[Updated] In 2024, Gourmet Guides Leading Food Vloggers Online</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-playlist-building-step-by-step-expertise/"><u>2024 Approved YouTube Playlist Building Step-by-Step Expertise</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/effortlessly-extract-audio-from-facebook-step-by-step-guide/"><u>Effortlessly Extract Audio From Facebook - Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-easily-find-and-open-command-prompt-for-all-windows-os-users/"><u>How to Easily Find and Open Command Prompt for All Windows OS Users</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-apple-iphone-x-by-drfone-ios/"><u>How to jailbreak iCloud locked Apple iPhone X</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-apple-iphone-13-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your Apple iPhone 13?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-13-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On Apple iPhone 13 If Youve Tried Everything</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-optimal-video-saver-best-chromebook-recorder/"><u>In 2024, Optimal Video Saver Best Chromebook Recorder</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-x-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On iPhone X You Should Try Out</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726226602530-mp4-wmv-movavi/"><u>MP4과 WMV 가장 나은 변환 기술 선보이기: Movavi 소개</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-world-of-technology-with-toms-hardware-experts/"><u>Navigating the World of Technology with Tom's Hardware Experts</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-11-pro-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 11 Pro You Should Try Out</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-xs-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone XS</u></a></li>
+</ul></div>
 

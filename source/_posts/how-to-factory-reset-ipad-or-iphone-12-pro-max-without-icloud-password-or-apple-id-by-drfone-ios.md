@@ -1,7 +1,7 @@
 ---
 title: How to Factory Reset iPad or iPhone 12 Pro Max without iCloud Password or Apple ID?
-date: 2024-07-14T21:56:30.847Z
-updated: 2024-07-15T21:56:30.847Z
+date: 2024-12-18T17:04:55.141Z
+updated: 2024-12-19T20:24:41.827Z
 tags: 
   - unlock
   - bypass activation lock
@@ -44,6 +44,10 @@ Launch the Dr.Fone Screen Unlock app on your computer and connect your iPad or A
 On the main interface of the program, you will see various options to choose from. Click on the “Screen Unlock” button visible there.
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Select Unlock Option**
 
@@ -95,6 +99,10 @@ The screen displays an option of ‘Restore’ or ‘Update’ for the iPad or A
 
 ![factory reset ipad without icloud password or apple id](https://images.wondershare.com/drfone/article/2021/04/factory-reset-ipad-without-icloud-password-or-apple-id-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 3: How to Reset iPad or Apple iPhone 12 Pro Max without Apple ID via the Settings App?**
 
 Another way of resetting your iPad or Apple iPhone 12 Pro Max is via the Settings app present on your device. You can unlock a disabled iPad or Apple iPhone 12 Pro Max or remove all data by executing a total wipe of the iPad or Apple iPhone 12 Pro Max using Settings. However, before starting, please ensure that your iPad or Apple iPhone 12 Pro Max is connected to the internet and the “Find My iPhone” feature is disabled on it. You will also need to know the passcode of your iPad or Apple iPhone 12 Pro Max to proceed with this method.
@@ -108,6 +116,10 @@ Once you have done all of that, follow the steps given below.
 5. Type in your passcode to confirm and proceed. This will wipe all the data on your iPad or Apple iPhone 12 Pro Max.
 
 ![factory reset ipad without icloud password or apple id](https://images.wondershare.com/drfone/article/2021/04/factory-reset-ipad-without-icloud-password-or-apple-id-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Based on the version of your iOS, you might be asked to enter your Apple ID password too. It will also ask for the Apple ID password if the "Find My iPhone" feature is enabled on your device. Hence, the process will not be successful without it, and your iPad or Apple iPhone 12 Pro Max will go to Activation Lock. Therefore, Dr.Fone is a simple, recommended, and reliable way of resetting the iPad or Apple iPhone 12 Pro Max without an Apple ID, saving much of the troubles.
 
@@ -124,7 +136,6 @@ Phone security has become vital these days as it contains almost all the details
 What if you have purchased an iPhone and wish to start using it right away; you wish you could, but you cannot since the Apple iPhone 12 Pro Max device is looking for an iCloud activation unlock. Ready for more about how to unlock the iCloud activation lock.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lKERrs5S_uU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
-
 
 ## Part 1: Basic knowledge about iCloud activation lock
 
@@ -168,7 +179,9 @@ However, some sellers might try jailbreaking, which might hamper the warranty of
 
 The most reliable way to unlock iCloud is to use a tool like [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). The tool makes sure to provide guaranteed results and satisfy the users. Let us know how you can use this without further ado.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock
 
@@ -195,16 +208,23 @@ Once you select the Unlock tab, you will get into the new screen. Here, you need
 
 ![remove icloud activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Start to unlock**
 
 ![unlock icloud activation - start to unlock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6: Bypass activation lock successfully.**
 
 When the program unlocks iCloud, a successful message window will appear. Here, you can check if you bypass your activation lock.
 
 ![unlock icloud activation - successfully](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
-
 
 ## How to Remove the Activation Lock On your iPad and Apple iPhone 12 Pro Max without Apple Account
 
@@ -238,6 +258,10 @@ When you bypass successfully activation lock on GSM devices, you can still use y
 
 ![unlocking the activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 But for CDMA devices, when you bypass the activation lock, there will be no chance for phone calls and cellular data use. And other functions are still OK.
 
 ![cdmd devices](https://images.wondershare.com/drfone/guide/bypass-activation-lock-5.png)
@@ -256,6 +280,9 @@ But for CDMA devices, when you bypass the activation lock, there will be no chan
 
 ![remove the activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Ask the previous owner to remove it remotely
 
@@ -266,10 +293,11 @@ This approach requires the old user's Apple account credentials. You should init
 - To start, open the guide. Find and select the blue dot related to the Apple iPhone 12 Pro Max you want to sign in to in this guide.
 - Select Erase iPhone from the menu.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase iphone](https://images.wondershare.com/drfone/article/2022/10/remove-activation-lock-without-apple-id-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - At long last, pick "Erase from Account" from the dropdown menu.
 
@@ -281,9 +309,6 @@ You can likewise utilize DNS services to get around the activation lock. It is a
 - Select "More Wi-Fi settings" from the menu.
 - Select the "I" choice on the following screen once more
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dns bypass](https://images.wondershare.com/drfone/article/2022/10/remove-activation-lock-without-apple-id-2.jpg)
 
 - Type one of the accompanying IP addresses in the "DNS" field.
@@ -303,8 +328,9 @@ Other Regions: 78.100.17.60
 - At long last, on the accompanying screen, tap "Back."
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Seek help from Apple support
 
 If none of the mentioned strategies have worked for you, you can attempt to look for proficient help to resolve your concern. The Apple store authorities can settle every one of the issues and their solutions regarding iPhone lock.
@@ -314,18 +340,12 @@ However, before heading out to the Apple shop, ensure you have these data:
 - You should bring your authentic verification of purchase with you.
 - Make a meeting with the Apple shop staff before going. Make sure you have your copy of the confirmation files with you.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: FAQs
 
 ### 1\. What is an activation lock?
 
 Activation Lock assists you with keeping your phone secure, regardless of whether it's in some wrong hands, and you can still recover it. Even if you erase your data from somewhere else, Activation Lock can keep on preventing anybody from reactivating your phone without your consent.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### 2\. Is it legal to bypass the activation lock?
 
 There are no unlawful ways of bypassing the Activation lock by the same token. Reset your Apple iPhone 12 Pro Max, drain the battery, switch on the iPhone, and press the Power button until the Apple symbol appears. Configure your location and install iTunes.
@@ -344,9 +364,6 @@ There are no unlawful ways of bypassing the Activation lock by the same token. R
 
 Activation locks can help users secure their phones from unwanted people. However, it can be frustrating if you don't have the password to your phone's Apple ID. Therefore, the methods in this article will help you with **iPad activation lock bypass code without Apple ID.** On top of that, Wondershare Dr.Fone can remove the lock for you in just a few minutes.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -359,9 +376,23 @@ Activation locks can help users secure their phones from unwanted people. Howeve
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-elevate-your-digital-storytelling-on-tiktok-with-5-key-caption-approaches/"><u>[New] Elevate Your Digital Storytelling on TikTok With 5 Key Caption Approaches</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-disguise-techniques-in-picart/"><u>[New] In 2024, Disguise Techniques in PicArt</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-efficient-use-of-telegram-browser-interface/"><u>[New] In 2024, Efficient Use of Telegram Browser Interface</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-game-on-with-more-space-topping-10-hddssds/"><u>[New] In 2024, Game On with More Space Topping 10 HDD/SSDs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/cks-for-instantly-boosting-youtube-subscribers-for-2024/"><u>5 Tricks for Instantly Boosting YouTube Subscribers for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-13-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone 13 iCloud Bypass</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-iphone-7-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and iPhone 7 without Apple Account</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-iphone-se-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your iPhone SE and iPad?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-apple-iphone-xs-maxipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked Apple iPhone XS Max/iPad/iPod</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-getting-the-most-out-of-pc-hdr-videos/"><u>In 2024, Getting the Most Out of PC HDR Videos</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-iphone-se-2020-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from iPhone SE (2020) or iPad?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-iphone-se-2020-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or iPhone SE (2020) Stuck On Activation Lock?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-depth-examination-of-xcreative-vision-studio-a-complete-guide-for-2024/"><u>In-Depth Examination of XCreative Vision Studio - A Complete Guide for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-xs-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your iPhone XS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-your-guide-to-cutting-edge-electronics/"><u>Tom's Tech Hub: Your Guide to Cutting-Edge Electronics</u></a></li>
+</ul></div>
 
