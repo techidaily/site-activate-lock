@@ -1,7 +1,7 @@
 ---
 title: "Guarding Privacy: Why Not Feed AI Your Confidentials"
-date: 2024-12-14T18:08:17.590Z
-updated: 2024-12-19T20:24:51.996Z
+date: 2024-12-19T05:02:32.936Z
+updated: 2024-12-20T09:18:16.828Z
 tags:
   - chatgpt
   - open-ai
@@ -15,18 +15,10 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 
 ## Secrets to Safeguarding Your ChatGPT Talks: No Need to Delete
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [How to Hide ChatGPT Chats on the Web](https://www.makeuseof.com/how-to-hide-chatgpt-conversations/#how-to-hide-chatgpt-chats-on-the-web)
 * [How to Hide ChatGPT Chats on Your iPhone](https://www.makeuseof.com/how-to-hide-chatgpt-conversations/#how-to-hide-chatgpt-chats-on-your-iphone)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -46,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 
 ![Archiving chat in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archiving-chat-in-chatgpt-web.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The chat will disappear from the sidebar immediately. To access it, you'll need to head to the ChatGPT settings menu, which we'll cover below.
 
 ### How to View Your Hidden ChatGPT Chats on the Web
@@ -55,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 ![Accessing ChatGPT settings on the web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/accessing-chatgpt-settings-on-the-web.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Click on your OpenAI account name in the bottom-left corner of the ChatGPT page.
@@ -64,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 4. To view a hidden chat, simply click on the name of the chat. However, to unhide it, click the**Unarchive conversation** button (next to the**Trash** icon).
 
 ![Unarchiving conversation in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/unarchiving-conversation-in-chatgpt-web.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Do remember that anyone can access your hidden ChatGPT conversations by heading to the same menu, as they're not locked behind a password.
 
@@ -82,17 +74,21 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 
 ![Selecting a conversation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/selecting-a-conversation-in-the-chatgpt-app.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Long-pressing a conversation from the ChatGPT sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/long-pressing-a-conversation-from-the-chatgpt-sidebar.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Archive confirmation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archive-confirmation-in-the-chatgpt-app.png)
 
 Close
 
  If you don't see the**Archive** option, make sure your app is updated. Once you archive a chat, you won't be able to find it by searching for it from the sidebar.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to View Your Hidden Chats in the ChatGPT App
 
@@ -104,6 +100,10 @@ Close
 4. If you choose the latter, you'll be prompted to confirm. Tap**Unarchive** again.
 
 ![ChatGPT app sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-sidebar.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![ChatGPT app settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-settings-menu.png)
 
@@ -132,19 +132,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-2023s-must-watch-alternatives-to-top-films/"><u>[New] 2024 Approved 2023'S Must-Watch Alternatives to Top Films</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-expert-insights-capturing-the-essence-of-online-meetings/"><u>[New] 2024 Approved Expert Insights Capturing the Essence of Online Meetings</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-invisible-snapcapture-mastering-the-art-of-stealthy-picture-recording-for-2024/"><u>[New] Invisible SnapCapture Mastering the Art of Stealthy Picture Recording for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-4k-clarity-with-a-look-at-the-dell-p2715q-screen/"><u>[New] Unveiling 4K Clarity with a Look at the Dell P2715Q Screen</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-from-camera-to-feed-instagram-video-upload-on-desktop/"><u>[Updated] 2024 Approved From Camera to Feed Instagram Video Upload on Desktop</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-iphone-6-plus-by-drfone-ios/"><u>How to Bypass iCloud Lock from iPhone 6 Plus</u></a></li>
-<li><a href="https://win-help.techidaily.com/how-to-save-and-transform-giantbomb-content-as-mp4-video-downloads/"><u>How to Save and Transform GiantBomb Content as MP4 Video Downloads</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-14-pro-max-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On iPhone 14 Pro Max?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-iphone-13-pro-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your iPhone 13 Pro and iPad</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-8-plus-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 8 Plus Without Previous Owner?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-se-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your iPhone SE</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-15-pro-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 15 Pro</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-get-lumafusion-for-mac-explore-the-best-video-editing-alternatives-for-2024/"><u>New Get Lumafusion for Mac Explore the Best Video Editing Alternatives for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/schritt-fur-schritt-anleitung-zum-herunterladen-und-sichern-ihrer-festplatte-ohne-dass-windows-gestartet-werden-muss/"><u>Schritt-Für-Schritt-Anleitung Zum Herunterladen Und Sichern Ihrer Festplatte, Ohne Dass Windows Gestartet Werden Muss</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-pro-tips-for-captivating-vr-videos-top-9-strategies/"><u>[New] 2024 Approved Pro Tips for Captivating VR Videos Top 9 Strategies</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-smooth-steam-gaming-recordings-guide/"><u>[New] In 2024, Smooth Steam Gaming Recordings Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtubes-erased-memories-how-to-revisit-them-online/"><u>[Updated] Youtube's Erased Memories How to Revisit Them Online</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/einrichtung-abgeschlossen-writer-feature-auf-standby-jetzt-integriert-in-windows-server/"><u>Einrichtung Abgeschlossen: Writer-Feature 'Auf Standby' Jetzt Integriert in Windows Server</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ensuring-secure-transactions-with-robust-id-authentication-in-modern-remote-finance/"><u>Ensuring Secure Transactions with Robust ID Authentication in Modern Remote Finance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harnessing-the-power-of-zoom-in-tiktok-creation/"><u>Harnessing the Power of Zoom in TikTok Creation</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-15-pro-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your iPhone 15 Pro?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-htc-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked HTC Phone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-apple-iphone-6s-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 6s Activation Lock</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-apple-iphone-xs-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on Apple iPhone XS iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-usb-mouse-issues-on-your-laptop-top-tips-and-tricks/"><u>Solve USB Mouse Issues on Your Laptop - Top Tips and Tricks</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-from-apple-iphone-7-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock from Apple iPhone 7</u></a></li>
 </ul></div>
 
