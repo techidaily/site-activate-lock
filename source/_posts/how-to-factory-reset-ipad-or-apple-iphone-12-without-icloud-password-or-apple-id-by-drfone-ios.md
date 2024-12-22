@@ -1,7 +1,7 @@
 ---
 title: How to Factory Reset iPad or Apple iPhone 12 without iCloud Password or Apple ID?
-date: 2024-07-14T21:42:21.059Z
-updated: 2024-07-15T21:42:21.059Z
+date: 2024-12-17T19:16:56.309Z
+updated: 2024-12-21T19:00:13.936Z
 tags: 
   - unlock
   - bypass activation lock
@@ -33,6 +33,10 @@ The Dr.Fone program is a highly useful and recommended tool for unlocking phone 
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To factory reset the iPad or Apple iPhone 12 without Apple ID using Dr.Fone, install the program on your computer, and proceed as mentioned below.
 
 **Step 1: Launch and Connect the Program to iPad or Apple iPhone 12**
@@ -60,6 +64,10 @@ Now, tap the “Trust” button on your iPad or Apple iPhone 12 to establish a t
 Then, on your computer screen, click on "Unlock Now." Confirm the action on the appearing dialogue box. Next, follow the instructions visible on the screen to reset your iPad or Apple iPhone 12.
 
 ![attention](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6: Remove Apple ID**
 
@@ -109,18 +117,21 @@ Once you have done all of that, follow the steps given below.
 
 ![factory reset ipad without icloud password or apple id](https://images.wondershare.com/drfone/article/2021/04/factory-reset-ipad-without-icloud-password-or-apple-id-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Based on the version of your iOS, you might be asked to enter your Apple ID password too. It will also ask for the Apple ID password if the "Find My iPhone" feature is enabled on your device. Hence, the process will not be successful without it, and your iPad or Apple iPhone 12 will go to Activation Lock. Therefore, Dr.Fone is a simple, recommended, and reliable way of resetting the iPad or Apple iPhone 12 without an Apple ID, saving much of the troubles.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
 There can be multiple reasons for resetting your iPad or Apple iPhone 12. Now you know how to factory reset the iPad or Apple iPhone 12 without Apple ID. You can follow any of the above-mentioned methods to get the desired results as best suited to your needs. Some might work, and some might not. The [Dr.Fone – Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool is recommended, as it is the most efficient among all the other methods. Try it to get proficient outcomes.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
-
 
 ## 4 Things You Must Know About Apple iPhone 12 Activation Lock
 
@@ -133,6 +144,10 @@ After purchasing a new, or old Apple Watch Or Apple iPhone 12, you may have to v
 So, how does one begin unlocking an Apple Watch Or Apple iPhone 12?
 
 ![remove activation lock on apple watch](https://images.wondershare.com/drfone/article/2020/11/remove-activation-lock-on-apple-watch.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. How to check if Apple Watch Or Apple iPhone 12 Activation is enabled?
 
@@ -169,6 +184,10 @@ Removing the activation lock on your Apple Watch Or Apple iPhone 12 may require 
 
 Be sure to reboot/restart your device to start your set-up process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. How to remove activation lock Apple Watch Or Apple iPhone 12 on paired iPhone?
 
 If your Apple Watch Or Apple iPhone 12 and iPhone are close to each other, unlocking or removing the activation lock via the Apple iPhone 12 is possible. This requires the watch app on your Apple iPhone 12.
@@ -182,28 +201,15 @@ If your Apple Watch Or Apple iPhone 12 and iPhone are close to each other, unloc
 
 Now that you’ve successfully learned how to remove the activation lock on your Apple Watch Or Apple iPhone 12, perhaps a little insight on your Apple iPhone 12 might help too.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5. How to Remove iCloud Activation Lock on iPhone/iPad/iPod Touch?
 
 If you plan to buy a second-hand iPhone or iPad, you might worry if you buy a device with activation lock. It might be difficult to contact with the previous owner for help. Try a third-party program to remove the activation lock, like a pro - [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/).
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Using Dr.Fone - Screen Unlock (iOS) to Remove iCloud Activation Lock from iPhone
 
 Wondershare Dr.Fone is a nifty downloadable software that works wonders for all iOS-related issues. Use this handy program to fix software issues and simpler tasks like unlocking your iOS device. The software is legit, meaning no harm will come to your iOS device. Check out a few cool features for iOS users on the software’s toolkit.
 
 Other cool features of Dr. Fone include the iOS screen unlock feature, iOS systems repair, data repair as well as iTunes repair. Here are the steps to removing Apple ID from an iPhone using the program Dr.Fone - Screen Unlock (iOS).
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -236,6 +242,10 @@ After downloading Dr. Fone onto your computer, grab a USB cable, and connect you
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Apple is a company renowned for its sophisticated devices, and with these products come a few sound safety precautions. Although it may seem a tad annoying having to unlock and deactivate iOS devices, it is necessary to ensure every user’s data is safe. Whether it’s your phone you’ve given up, or you recently purchased an Apple Watch Or Apple iPhone 12, the deactivation and [activation lock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) procedures above should come in handy.
@@ -249,6 +259,10 @@ However, it can be troublesome if you don't take enough care. Your phone can get
 If your Apple iPhone 12 is iCloud locked, there are ways to get it unlocked. We'll initially suggest reaching the seller. We will clear up the **Apple iPhone 12 iCloud bypass** methods if you can't. So sit back and relax. This detailed guide explains how to perform **Apple iPhone 12 iCloud bypass.**
 
 ## Part 1: How to Bypass Apple iPhone 12 iCloud Activation Lock?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Get Apple ID and password from the previous owner
 
@@ -302,6 +316,10 @@ Bypassing the Activation Lock on Apple iPhone 12 is easy if you know the Apple I
 - You will be unable to get to every one of the features of your Apple iPhone 12 after unlocking your iOS device.
 - It isn't compatible with all versions of iOS, particularly the new ones.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Apple iPhone Unlock
 
 You can go for a web-based unlocking tool if no other technique works. We recommend you utilize the Apple iPhone Unlock site for **Apple iPhone 12 iCloud bypass**. Apple iPhone Unlock is one of the most incredible **Apple iPhone 12 iCloud bypass** websites. It allows you to unlock your iOS device without the need for jailbreaking.
@@ -318,9 +336,6 @@ Apple iPhone unlocks an incredible site that permits you to initiate practically
 
 - **Step 1.** Visit the AppleiPhoneUnlock.uk site and pick the model of the Apple iPhone 12 beginning from the drop menu and type your IMEI number.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![apple iphone unlock](https://images.wondershare.com/drfone/article/2022/10/iphone-5-5s-5c-icloud-bypass-4.jpg)
 
 You can find your IMEI code in one of these ways:
@@ -341,8 +356,6 @@ It's not always necessary that the previous user will help. What if the owner do
 
 Wondershare [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is one of the most remarkable iCloud activation lock bypass programs. It is strongly suggested because of its adaptability with various iPhone versions. You needn't bother with any technical abilities to use it. Moreover, this amazing software functions best on iOS/iPadOS 12.0-16.6.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone iCloud Activation Lock without Password in Minutes
@@ -361,6 +374,10 @@ Remove iPhone iCloud Activation Lock without Password in Minutes
 
 ![apple iphone unlock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Now start your process to bypass iCloud activation lock on Apple iPhone 12/5s/5c.
 
 ![start the process](https://images.wondershare.com/drfone/guide/bypass-activation-lock-2.png)
@@ -372,11 +389,7 @@ Remove iPhone iCloud Activation Lock without Password in Minutes
 - **Step 4.** Follow the [Jailbreak Guide](https://drfone.wondershare.com/guide/how-to-jailbreak-ios-on-windows.html) to make sure Dr.Fone can bypass Apple iPhone 12/5s/5c successfully.
 - **Step 5.** This image indicates the activation lock will be removed from your device immediately.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icloud activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-8.png)
-
 
 ### 4\. Seek help from Apple support
 
@@ -406,7 +419,6 @@ Bypassing the iCloud Activation Lock can be chaotic. We have proposed ways to un
 
 If you need a solid and open tool, download Wondershare Dr.Fone on your PC and allow it to take care of its business. It's quicker than the above techniques and gives you a simple solution.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -419,9 +431,24 @@ If you need a solid and open tool, download Wondershare Dr.Fone on your PC and a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-enhance-photos-android-and-iphones-cutting-edge-free-overlays/"><u>[New] 2024 Approved Enhance Photos Android & iPhone's Cutting-Edge, FREE Overlays</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-effortless-editing-secrets-for-fresh-filmmakers/"><u>[New] In 2024, Effortless Editing Secrets for Fresh Filmmakers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-top-30-voice-modification-solutions-vtubers-guidebook-for-2024/"><u>[New] Top 30 Voice Modification Solutions VTubers Guidebook for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-essential-guide-for-avi-to-gif-editing-a-quick-filmora-workflow-on-windows-and-macos/"><u>[Updated] The Essential Guide for AVI-to-GIF Editing A Quick Filmora Workflow on Windows & macOS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-guide-to-using-sticker-queries-on-instagram-for-2024/"><u>[Updated] The Ultimate Guide to Using Sticker Queries on Instagram for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-ultra-fast-windows-view-for-pictures-for-2024/"><u>[Updated] Ultra-Fast Windows View for Pictures for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-smile-generator-for-memes/"><u>2024 Approved Best Smile Generator for Memes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-apple-iphone-13-pro-max-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing Apple iPhone 13 Pro Max iCloud Activation Lock</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-seamless-printing-latest-epson-wf-3520-driver-update-and-download-for-windows-users/"><u>Ensure Seamless Printing: Latest Epson WF-3520 Driver Update & Download for Windows Users</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-iphone-se-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from iPhone SE or iPad?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-apple-iphone-13-mini-smoothly-by-drfone-ios/"><u>How To Remove iCloud On Apple iPhone 13 mini Smoothly</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-12-pro-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and Apple iPhone 12 Pro without Apple Account</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-13-pro-max-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 13 Pro Max You Should Try Out</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-11-pro-max-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone 11 Pro Max You Should Try Out</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-13-pro-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 13 Pro You Should Try Out</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-apple-iphone-6-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and Apple iPhone 6</u></a></li>
+</ul></div>
 
