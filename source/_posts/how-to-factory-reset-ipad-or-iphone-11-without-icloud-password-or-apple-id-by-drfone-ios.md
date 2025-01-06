@@ -1,7 +1,7 @@
 ---
 title: How to Factory Reset iPad or iPhone 11 without iCloud Password or Apple ID?
-date: 2024-07-14T21:18:28.032Z
-updated: 2024-07-15T21:18:28.032Z
+date: 2025-01-02T19:53:04.769Z
+updated: 2025-01-06T00:24:45.715Z
 tags: 
   - unlock
   - bypass activation lock
@@ -51,6 +51,10 @@ On the next screen, you will see multiple options. Choose the “Unlock Apple ID
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Establish a Trusted Connection**
 
 Now, tap the “Trust” button on your iPad or Apple iPhone 11 to establish a trusted connection with the computer to proceed further.
@@ -66,6 +70,10 @@ Then, on your computer screen, click on "Unlock Now." Confirm the action on the 
 Dr.Fone will begin the process of unlocking your iPad or Apple iPhone 11. Do not disconnect the iPad or Apple iPhone 11 during this process. Once the process is completed, reboot your iPad or Apple iPhone 11, and you shall be able to sign in with a new Apple ID.
 
 ![process of unlocking](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
@@ -95,9 +103,6 @@ The screen displays an option of ‘Restore’ or ‘Update’ for the iPad or A
 
 ![factory reset ipad without icloud password or apple id](https://images.wondershare.com/drfone/article/2021/04/factory-reset-ipad-without-icloud-password-or-apple-id-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Part 3: How to Reset iPad or Apple iPhone 11 without Apple ID via the Settings App?**
 
 Another way of resetting your iPad or Apple iPhone 11 is via the Settings app present on your device. You can unlock a disabled iPad or Apple iPhone 11 or remove all data by executing a total wipe of the iPad or Apple iPhone 11 using Settings. However, before starting, please ensure that your iPad or Apple iPhone 11 is connected to the internet and the “Find My iPhone” feature is disabled on it. You will also need to know the passcode of your iPad or Apple iPhone 11 to proceed with this method.
@@ -110,10 +115,11 @@ Once you have done all of that, follow the steps given below.
 4. Select the “Erase All Content and Settings” option.
 5. Type in your passcode to confirm and proceed. This will wipe all the data on your iPad or Apple iPhone 11.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![factory reset ipad without icloud password or apple id](https://images.wondershare.com/drfone/article/2021/04/factory-reset-ipad-without-icloud-password-or-apple-id-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Based on the version of your iOS, you might be asked to enter your Apple ID password too. It will also ask for the Apple ID password if the "Find My iPhone" feature is enabled on your device. Hence, the process will not be successful without it, and your iPad or Apple iPhone 11 will go to Activation Lock. Therefore, Dr.Fone is a simple, recommended, and reliable way of resetting the iPad or Apple iPhone 11 without an Apple ID, saving much of the troubles.
 
@@ -121,9 +127,6 @@ Based on the version of your iOS, you might be asked to enter your Apple ID pass
 
 There can be multiple reasons for resetting your iPad or Apple iPhone 11. Now you know how to factory reset the iPad or Apple iPhone 11 without Apple ID. You can follow any of the above-mentioned methods to get the desired results as best suited to your needs. Some might work, and some might not. The [Dr.Fone – Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool is recommended, as it is the most efficient among all the other methods. Try it to get proficient outcomes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## How To Bypass iCloud By Checkra1n Even On Apple iPhone 11 If You've Tried Everything
@@ -189,6 +192,10 @@ Follow these steps to enable the \[Start\] key:
 
 Since Cocosenor bypass Tuner now uses checkra1n 0.12.2 to help jailbreak, it won't be able to jailbreak iOS 14.5.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. How to Bypass iCloud Activation Lock with Checkra1n?
 
 The next step is to figure out how to bypass iCloud with Checkra1n iCloud Bypass. We will show you how to use the method on a Mac. The Checkra1n installation process has a few technical aspects, but if you follow the steps, you shouldn't have any problem.
@@ -227,12 +234,15 @@ Checkra1n will bypass the iCloud Activation Lock after you enter the last comman
 
 Using the Terminal app and entering many unfamiliar commands may be intimidating for some people, but if you copy exactly what we've shown you, you'll be fine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Easy Tool for iCloud Activation Lock
 
 ### Dr.Fone - Screen Unlock
 
 It is possible to bypass the iCloud activation lock with a tool called Dr.Fone - Screen Unlock. This powerful tool can bypass the iCloud activation lock on any iOS device, regardless of the version of iOS.
-
 
 Here's how to use Dr.Fone - Screen Unlock to bypass the iCloud activation lock:
 
@@ -240,9 +250,17 @@ Here's how to use Dr.Fone - Screen Unlock to bypass the iCloud activation lock:
 
 ![checkra1n icloud bypass windows download](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** Click on "Bypass Activate Lock."
 
 ![checkra1n windows tool v1 free download](https://images.wondershare.com/drfone/guide/bypass-activation-lock-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3.** Please select the "Start" button for the next steps.
 
@@ -262,9 +280,6 @@ _(For CDMA devices, some functions will be limited, so you cannot use them anymo
 
 **Step 5.** Do you jailbreak your device? If not, you can do our jailbreak guide for this step.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![jailbreak your device](https://images.wondershare.com/drfone/guide/bypass-activation-lock-7.png)
 
 **Step 6.** Please wait for a minute, and the process will be over.
@@ -273,10 +288,11 @@ _(For CDMA devices, some functions will be limited, so you cannot use them anymo
 
 **Step 7.** Congrats, the iCloud activation lock is bypassed completely.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bypassed completely](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can now access and use your Mac without any activation lock. In addition to bypassing the iCloud lock, your new Apple ID is compatible with your cellular network or iCloud.
 
@@ -306,7 +322,6 @@ Learn about all the solutions to unlock iPhone quickly through the video below:
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/wp8NTysB4e0"></iframe>
 
 _If you forget the Activation Lock on your iDevice and fail to access it, you must bypass iCloud Activation Lock. This can be executed with the help of Dr.Fone - Screen Unlock (iOS), an exceptional iCloud unlock tool. Read on for detailed steps on various ways to bypass iCloud Activation Lock or click the Download button below to try it free!_
-
 
 ## Part 2: 3 Ways to Bypass iCloud Activation Lock on iPhone/iPad with iOS 16
 
@@ -346,8 +361,6 @@ Instead of bypassing Apple directly, you can try to bypass the DNS server, and y
 
 Now, if you want to bypass the activation lock on your own and without the need for a password, you can try [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This program helps unlock activation locks on iPhone (5S-X), iPad (3-7), and iPod touch (6-7) running iOS 12.0-16.6. Now you can remove iCloud activation lock on iPhone/iPad/iPod Touch without jailbreak by using Dr.Fone.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Bypass iCloud Activation Lock on iPhone/iPad/iPod Without Hassle.
@@ -363,6 +376,10 @@ Bypass iCloud Activation Lock on iPhone/iPad/iPod Without Hassle.
 
 ![click unlock button](https://images.wondershare.com/drfone/guide/bypass-activation-lock-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Confirm the prompt on the next window and continue the process by tabbing “Got it!”
 
 ![confirm prompt](https://images.wondershare.com/drfone/guide/bypass-activation-lock-11.png)
@@ -377,15 +394,15 @@ Bypass iCloud Activation Lock on iPhone/iPad/iPod Without Hassle.
 
 ![process done](https://images.wondershare.com/drfone/guide/bypass-activation-lock-16.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 For detailed guide: please check our [official guide](https://drfone.wondershare.com/guide/unlock-activation-lock.html).
 
 ## Conclusion
 
 We hope that the tips that we shared will help you to remove the iCloud Activation lock on your phone without having to contact the previous owner or even need any password. For an efficient and effortless solution, you can utilize “[Dr. Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)” which just needs you to connect your phone to your laptop and in just a few taps. We understand how frustrating it can be to have to contact other people just to be able to use your phone. Follow our methods, and you will be able to use your phone right away.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -399,9 +416,17 @@ We hope that the tips that we shared will help you to remove the iCloud Activati
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-secrets-unveiled-expert-adobe-captive-screen-recording-tips/"><u>[New] 2024 Approved Secrets Unveiled Expert Adobe Captive Screen Recording Tips</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-14-pro-max-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On iPhone 14 Pro Max</u></a></li>
+<li><a href="https://discover-community.techidaily.com/die-top-5-losungen-fur-festplattenstartfehler-in-windows-10-eine-umfassende-anleitung/"><u>Die Top 5 Lösungen Für Festplattenstartfehler in Windows 10: Eine Umfassende Anleitung</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-oneplus-nord-n30-se-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on OnePlus Nord N30 SE? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-12-pro-max-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For Apple iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-6s-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For Apple iPhone 6s?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-samsung-galaxy-a05-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Samsung Galaxy A05 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-15-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 15</u></a></li>
+<li><a href="https://fox-info.techidaily.com/key-insights-into-virtual-tale-crafting-for-2024/"><u>Key Insights Into Virtual Tale Crafting for 2024</u></a></li>
+</ul></div>
 
