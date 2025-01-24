@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Factory Reset iPad or iPhone 8 without iCloud Password or Apple ID?
-date: 2024-07-14T20:56:22.755Z
-updated: 2024-07-15T20:56:22.755Z
+date: 2025-01-20T16:36:59.319Z
+updated: 2025-01-24T16:28:16.873Z
 tags: 
   - unlock
   - bypass activation lock
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd
 If you are an iPad or Apple iPhone 8 owner and are looking to reset your iPad or Apple iPhone 8 without knowing the passcode, you do not need to worry anymore. Most gadget owners already know how to factory reset their phones. But in cases where you have forgotten your Apple ID password or passcode and want to reset your iPad or Apple iPhone 8, it can be done via various ways and techniques. Here, we shall discuss a few of them.
 
 In this article, you shall find multiple ways by which you can effectively factory reset iPad or Apple iPhone 8 without iCloud password and get a clean slate to work on. A factory reset will wipe all the data off of your iPad or Apple iPhone 8, so be mindful of that. The methods are all quite simple yet effective in producing the desired result. Without further ado, let us begin!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 1: How to Factory Reset iPad or Apple iPhone 8 without Apple ID by Removing Apple ID?**
 
@@ -109,15 +113,20 @@ Once you have done all of that, follow the steps given below.
 
 ![factory reset ipad without icloud password or apple id](https://images.wondershare.com/drfone/article/2021/04/factory-reset-ipad-without-icloud-password-or-apple-id-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Based on the version of your iOS, you might be asked to enter your Apple ID password too. It will also ask for the Apple ID password if the "Find My iPhone" feature is enabled on your device. Hence, the process will not be successful without it, and your iPad or Apple iPhone 8 will go to Activation Lock. Therefore, Dr.Fone is a simple, recommended, and reliable way of resetting the iPad or Apple iPhone 8 without an Apple ID, saving much of the troubles.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
 There can be multiple reasons for resetting your iPad or Apple iPhone 8. Now you know how to factory reset the iPad or Apple iPhone 8 without Apple ID. You can follow any of the above-mentioned methods to get the desired results as best suited to your needs. Some might work, and some might not. The [Dr.Fone – Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool is recommended, as it is the most efficient among all the other methods. Try it to get proficient outcomes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## How to Remove Apple iPhone 8 Activation Lock
@@ -125,6 +134,10 @@ There can be multiple reasons for resetting your iPad or Apple iPhone 8. Now you
 It is always better to purchase a second-hand iDevice over a brand-new one. A second-hand iPhone or iPad may seem appealing to people on a tight budget. However, the Apple iPhone 8 device may already be linked to an iCloud account after it's brought. Therefore, the absence of the correct password makes it impossible to unlock the Apple iPhone 8 device.
 
 The new owner needs to contact the original owner to unlock the Apple iPhone 8 device. However, if the person has forgotten the password, this issue may cause serious problems. This article will offer insight into **Apple iPhone 8 activation lock removal** and the mechanisms necessary to unlock it in the absence or presence of the original owner.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is Apple iPhone 8 Activation Lock? A Quick Look
 
@@ -139,9 +152,6 @@ The user may also reset the Apple iPhone 8 password via iCloud when the **activa
 
 ## Part 2: How to Bypass Apple Activation Lock?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Scenario 1: If you can't get in touch with the previous owner**
 
 #### 1\. Professional iPhone Activation Lock Removal Tool \[Highly Recommended\]
@@ -149,8 +159,6 @@ The user may also reset the Apple iPhone 8 password via iCloud when the **activa
 An iCloud lock activation bypass tool is highly recommended to remove the activation lock screen without any password on iPhone. It allows the user to reactivate the locked device without entering the iCloud username and password.
 
 Using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is recommended for this scenario. This tool removes the screen passcodes in minutes. Follow the steps shown below to bypass the **Apple activation lock**.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -171,6 +179,10 @@ Remove iPhone Activation Lock without Any Hassle.
 
 ![bypass apple activation lock 2](https://images.wondershare.com/drfone/guide/bypass-activation-lock-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** On this page, it’s time to start the process of bypassing activation lock.
 
 ![start bypass apple activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-2.png)
@@ -185,6 +197,10 @@ Remove iPhone Activation Lock without Any Hassle.
 
 ![start bypass apple activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** Now, you need to jailbreak the Apple iPhone 8 before removing the activation lock. If your Apple iPhone 8 hasn't been jailbroken, you can follow the "[Jailbreak Guide](https://drfone.wondershare.com/guide/how-to-jailbreak-ios-on-windows.html)" for it.
 
 ![bypass apple activation lock 3](https://images.wondershare.com/drfone/guide/bypass-activation-lock-7.png)
@@ -197,9 +213,17 @@ Remove iPhone Activation Lock without Any Hassle.
 
 ![bypass apple activation lock 6](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Note: The process will delete all your data, so make sure to use this method if you have a backup of your device or if you don't want the data on your device.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\. Online Activation Lock Bypassing Service
 
@@ -236,6 +260,10 @@ Listed below are the steps to be followed to remove the "Find My iPhone" activat
 **Step 4:** The next step is to choose the manual option available at the top of the page and use one of the DNS values mentioned below.
 
 ![bypass apple activation lock 11](https://images.wondershare.com/drfone/article/2021/12/dns-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Asia – 104.155.220.58
 - Europe – 104.155.28.90
@@ -287,9 +315,6 @@ Before buying a used phone, check whether you can erase and disable the Find my 
 
 To erase the Apple iPhone 8 device, you should have the password if it has the activation lock. So technically, you can't remove the activation lock by simply erasing your device.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Can Apple support help me to remove the activation lock?
 
 You can start a request (application) on the Apple support website. After assessing your case, they might help you remove the **activation lock iPhone.**
@@ -302,9 +327,6 @@ By now, users may be accustomed to the possible options to remove activation loc
 
 Apple has long been famous for providing sound devices, with nifty safety and user-friendly features. With that said, if you just purchased a used iOS device, you may be required to bypass the activation lock on your device using iCloud, or the previous user’s account. Before we take a look at how to bypass an activation lock on an Apple iPhone 8 or iPad, let’s examine what an activation lock on an Apple iPhone 8 or iPad entails.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bypass activation lock](https://images.wondershare.com/drfone/article/2020/11/bypass-activation-lock.jpg)
 
 ## Part 1. What is Activation Lock on Apple iPhone 8 or iPad?
@@ -314,7 +336,6 @@ This theft deterrent feature is cool for the sole reason that it helps keep your
 This feature is enabled by default when the Find My Apple iPhone 8 option is selected on an iOS device. It is necessary when a user needs to erase data on an iOS device, set it up using a new Apple ID, or turn off Find My Apple iPhone 8. Knowing the activation lock is enabled on an Apple iPhone 8 or iPad is easy, as the screen prompts you to input a user ID and password.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lKERrs5S_uU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
-
 
 ## Part 2. How to Bypass Activation Lock on Apple iPhone 8 or iPad with Previous Owner's Account?
 
@@ -340,8 +361,6 @@ There are a few web-based resources and tricks that facilitate this procedure. S
 
 This cool software program is available for use with every iOS device out there. It offers utility for all matters security, revamping or repairing as well as unlocking of iOS devices. On removing Apple ID and activation lock without a password, [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is one of the few recommended programs.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Remove Activation Lock from iPhone/Apple iPhone 8 or iPad without Password
@@ -365,6 +384,10 @@ Follow the guide to remove activation lock on Apple iPhone 8 or iPad without a p
 
 ![unlock icloud activation - jailbreak iOS](https://images.wondershare.com/drfone/guide/bypass-activation-lock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 6.** Wait a moment for the removal process.
 
 ![unlock icloud activation - start to unlock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-8.png)
@@ -383,15 +406,9 @@ Follow the guide to remove activation lock on Apple iPhone 8 or iPad without a p
 
 A popular query regarding the activation lock on an Apple iPhone 8 or iPad Mini is why access is denied if you are not the original owner? This is explained in detail below.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Having an iOS device is a unique and satisfying experience, one that many smart device users wish they could have. On that note, activation locks on Apple iPhone 8 or iPads and other iOS devices are meant to protect user information and ensure privacy. Furthermore, using shady programs downloaded from the web may lead to the destruction of a device. Use the handy methods suggested above to fully enjoy the features on your iOS device.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -405,9 +422,19 @@ Having an iOS device is a unique and satisfying experience, one that many smart 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-unleash-your-imagination-best-drawers-for-ipados/"><u>[New] Unleash Your Imagination Best Drawers for iPadOS</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-today-in-virtual-reality-hardware/"><u>[Updated] Today in Virtual Reality Hardware</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-11-proipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from Apple iPhone 11 Pro/iPad/iPod</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-obs-screen-recorder-tutorial-mastering-capture-and-editing-techniques/"><u>Complete OBS Screen Recorder Tutorial: Mastering Capture & Editing Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guarding-web-data-privacy-strategies-to-deter-automated-scraper-bots-including-openai/"><u>Guarding Web Data Privacy: Strategies to Deter Automated Scraper Bots Including OpenAI</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-14-plus-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or iPhone 14 Plus?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-iphone-13-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on iPhone 13 or iPad?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-xr-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On iPhone XR You Should Try Out</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-15-plus-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://extra-support.techidaily.com/rectify-poor-sound-quality-zoom-audio-fixes-for-2024/"><u>Rectify Poor Sound Quality Zoom Audio Fixes for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/videotutorial-wie-man-eine-gespeicherte-partition-auf-eine-andere-festplatte-verschiebt/"><u>Videotutorial: Wie Man Eine Gespeicherte Partition Auf Eine Andere Festplatte Verschiebt</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wireless-entertainment-setting-up-amazon-firestick-with-a-home-theater-projector/"><u>Wireless Entertainment: Setting up Amazon Firestick with a Home Theater Projector</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Factory Reset iPad or Apple iPhone 8 without iCloud Password or Apple ID?
-date: 2024-07-14T20:54:46.129Z
-updated: 2024-07-15T20:54:46.129Z
+date: 2025-01-20T16:38:26.250Z
+updated: 2025-01-24T17:37:35.960Z
 tags: 
   - unlock
   - bypass activation lock
@@ -61,6 +61,10 @@ Then, on your computer screen, click on "Unlock Now." Confirm the action on the 
 
 ![attention](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6: Remove Apple ID**
 
 Dr.Fone will begin the process of unlocking your iPad or Apple iPhone 8. Do not disconnect the iPad or Apple iPhone 8 during this process. Once the process is completed, reboot your iPad or Apple iPhone 8, and you shall be able to sign in with a new Apple ID.
@@ -93,14 +97,12 @@ Open iTunes and access your iPad or Apple iPhone 8 through the iPad or Apple iPh
 
 The screen displays an option of ‘Restore’ or ‘Update’ for the iPad or Apple iPhone 8. Tap on the option of ‘Restore’ to let the platform download the software into the iPad or Apple iPhone 8 within the recovery mode. Then set it up as a new device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![factory reset ipad without icloud password or apple id](https://images.wondershare.com/drfone/article/2021/04/factory-reset-ipad-without-icloud-password-or-apple-id-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Part 3: How to Reset iPad or Apple iPhone 8 without Apple ID via the Settings App?**
 
 Another way of resetting your iPad or Apple iPhone 8 is via the Settings app present on your device. You can unlock a disabled iPad or Apple iPhone 8 or remove all data by executing a total wipe of the iPad or Apple iPhone 8 using Settings. However, before starting, please ensure that your iPad or Apple iPhone 8 is connected to the internet and the “Find My iPhone” feature is disabled on it. You will also need to know the passcode of your iPad or Apple iPhone 8 to proceed with this method.
@@ -123,7 +125,9 @@ There can be multiple reasons for resetting your iPad or Apple iPhone 8. Now you
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Delete iCloud Account with or without Password from your Apple iPhone 8/Windows/Mac
 
@@ -135,6 +139,10 @@ In this article, we will be looking at **how to delete/remove/unlock the iCloud 
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 1: How to Unlock My iCloud Password with Dr.Fone? \[Quick Fix\]
 
 With Dr.Fone, you can effortlessly bypass/remove/unlock your iCloud account lock within a few seconds.
@@ -143,11 +151,6 @@ Being the best and the most trusted tool in the market, Dr.Fone has the highest 
 
 Let's get to know how to use Dr.Fone - Screen Unlock (iOS)!
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock
 
 Remove iCloud Account without Password in Minutes
@@ -177,6 +180,10 @@ Continue with selecting the Unlock Now button.  If your device operates on iOS/
 
 ![follow the steps](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Following it, you will be asked to boot your device into DFU mode to proceed further. Follow the onscreen steps to get through the process to boot your device into DFU mode easily.
 
 ![follow the steps](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
@@ -192,6 +199,10 @@ As soon as your device boots into DFU mode, the program will automatically detec
 Lastly, when the firmware version is successfully downloaded, you need to hit on the “Unlock Now” button to get started with removing the iCloud account lock.
 
 ![remove the icloud account lock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Wait for the process to complete. “Completely unlocked”, the iCloud account lock will no longer be there on your device.
 
@@ -225,6 +236,10 @@ If your iCloud account is on a Windows computer, and you want to remove it, here
 - **Step 3.** Select remove iCloud for Windows from this Computer when prompted. Then click on “Yes” to confirm the deletion, and then wait for the process to complete.
 
 ![select to remove iCloud on Windows computers](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-10_617.jpg)       ![confirm remove iCloud on Windows computers](https://images.wondershare.com/drfone/others/how-to-remove-icloud-account-11_618.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4.** Click on “Yes” when the PC asks if you want iCloud to make changes to it. Once the process is complete, click on "Finish" and then manually restart your system.
 
@@ -282,6 +297,10 @@ However, this fast strategy is good just for the first owner. If you don't know 
 
 ## Part 1:3 Useful Ways to bypass Apple iPhone 8 iCloud activation lock
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Remove activation lock with the previous device owner
 
 The first thing you can attempt to bypass Apple iPhone 8 is to contact the person you bought this device from. Ask the seller about other Apple ID details so you can enter them on the activation lock screen.
@@ -302,9 +321,6 @@ So, if you are into this method, follow the given steps:
 
 **Step 4.** At last, erase all content and settings of your device from the Settings application. Explore the General tab and click Reset > Erase All Content and Settings.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Use iCloud DNS Bypass
 
 iCloud DNS Bypass is to bypass an iCloud activation lock by manipulating the DNS server. In particular, it means redirecting the activation process of your Apple iPhone 8 from Apple servers to some other servers for confirmation.
@@ -356,8 +372,6 @@ The easiest way is to use an expert activation lock bypass tool to stop the issu
 
 Therefore, we recommend you use Dr.Fone Scree Unlock to **bypass Apple iPhone 8**. Dr.Fone is a professional tool with multiple iOS options. It can unlock the screen lock, Google FRP lock, and activation lock in a matter of minutes.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Bypass Apple iPhone 8 iCloud Activation Lock Without Hassle!
@@ -383,6 +397,10 @@ Step 3: Click Unlock Now button on the pop-up window.
 
 ![click unlock button](https://images.wondershare.com/drfone/guide/bypass-activation-lock-10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: You will see a prompt show up. Read the details carefully and checkmark “I have read and agree the agreement”. Tapping “Got it!” button.
 
 ![confirm prompt](https://images.wondershare.com/drfone/guide/bypass-activation-lock-11.png)
@@ -393,10 +411,11 @@ Step 5: Put iDevice in DFU Mode for the first time: the program will send a comm
 
 Step 6: Then you need to put the Apple iPhone 8 device in DFU mode for the second time. When it’s done, the program will activate the Apple iPhone 8 device.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![put in DFU mode for second time](https://images.wondershare.com/drfone/guide/bypass-activation-lock-13.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 7: If your device is not detected by the platform, follow the on-screen instructions to put their iOS device in DFU Mode.
 
@@ -407,7 +426,6 @@ Step 8: Once the Apple iPhone 8 device has been processed under the DFU Mode, th
 ![process done](https://images.wondershare.com/drfone/guide/bypass-activation-lock-16.png)
 
 Your iPhone will start like a default phone without any activation lock. You can access and utilize the Apple iPhone 8 now. Possibly, remember that you can't utilize your new Apple ID's phone call, cellular, and iCloud feature after that process.
-
 
 ## Part 2: FAQs
 
@@ -439,7 +457,6 @@ Yes, you can bypass the activation lock on iPhones like iPad and iPods. However,
 
 We hope you are now in a position to bypass Apple iPhone 8 activation lock. This guide mentions the best methods you can employ to bypass this issue, but we all know each method has its pros and cons. Even if no other method works in your case, Dr.Fone - Screen Unlock (iOS) will still help you. This tool is built to provide safe iOS unlocking solutions for our readers.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -452,9 +469,21 @@ We hope you are now in a position to bypass Apple iPhone 8 activation lock. This
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-amplify-your-facebook-presence-with-mobile-music-files-for-2024/"><u>[Updated] Amplify Your Facebook Presence with Mobile Music Files for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-elevate-performance-top-ranked-os-xwin-mods-for-srt-systems/"><u>[Updated] Elevate Performance Top-Ranked OS X/Win Mods for SRT Systems</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-streamline-filmmaking-install-xps-media-tools/"><u>[Updated] In 2024, Streamline Filmmaking Install XP's Media Tools</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-se-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From iPhone SE</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-se-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On iPhone SE</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-xs-max-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On iPhone XS Max</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dvd1/"><u>一流レンタルDVDを超える新たな方法：1層圧縮・コピースキル向上の鍵を解き明かす</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-iphone-x-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your iPhone X</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-apple-iphone-14-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from Apple iPhone 14 Safe and Legal</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from iPhone 14 Pro Max</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-professional-gamers-toolkit-advanced-recording-tactics/"><u>In 2024, Professional Gamers' Toolkit Advanced Recording Tactics</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-find-n3-flip-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Oppo Find N3 Flip Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://article-helps.techidaily.com/ultimate-software-guide-for-video-game-shows-for-2024/"><u>Ultimate Software Guide for Video Game Shows for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/webinar-on-leading-rpa-coe-strategies-essential-tips-and-techniques/"><u>Webinar on Leading RPA CoE Strategies: Essential Tips & Techniques</u></a></li>
+</ul></div>
 

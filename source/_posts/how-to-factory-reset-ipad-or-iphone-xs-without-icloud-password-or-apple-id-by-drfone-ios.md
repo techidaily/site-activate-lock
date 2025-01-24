@@ -1,7 +1,7 @@
 ---
 title: How to Factory Reset iPad or iPhone XS without iCloud Password or Apple ID?
-date: 2024-07-14T20:59:29.748Z
-updated: 2024-07-15T20:59:29.748Z
+date: 2025-01-22T17:10:59.170Z
+updated: 2025-01-24T16:17:53.220Z
 tags: 
   - unlock
   - bypass activation lock
@@ -31,9 +31,6 @@ The Dr.Fone program is a highly useful and recommended tool for unlocking phone 
 - Protects the data of consumers, making it a trusted source worldwide.
 - It is relatively easy to use, with a user-friendly interface.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 To factory reset the iPad or Apple iPhone XS without Apple ID using Dr.Fone, install the program on your computer, and proceed as mentioned below.
@@ -48,11 +45,19 @@ On the main interface of the program, you will see various options to choose fro
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Select Unlock Option**
 
 On the next screen, you will see multiple options. Choose the “Unlock Apple ID” one.
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4: Establish a Trusted Connection**
 
@@ -71,6 +76,10 @@ Dr.Fone will begin the process of unlocking your iPad or Apple iPhone XS. Do not
 ![process of unlocking](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 2: Factory Reset iPad or Apple iPhone XS without iCloud Password**
 
@@ -98,6 +107,10 @@ The screen displays an option of ‘Restore’ or ‘Update’ for the iPad or A
 
 ![factory reset ipad without icloud password or apple id](https://images.wondershare.com/drfone/article/2021/04/factory-reset-ipad-without-icloud-password-or-apple-id-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 3: How to Reset iPad or Apple iPhone XS without Apple ID via the Settings App?**
 
 Another way of resetting your iPad or Apple iPhone XS is via the Settings app present on your device. You can unlock a disabled iPad or Apple iPhone XS or remove all data by executing a total wipe of the iPad or Apple iPhone XS using Settings. However, before starting, please ensure that your iPad or Apple iPhone XS is connected to the internet and the “Find My iPhone” feature is disabled on it. You will also need to know the passcode of your iPad or Apple iPhone XS to proceed with this method.
@@ -112,18 +125,21 @@ Once you have done all of that, follow the steps given below.
 
 ![factory reset ipad without icloud password or apple id](https://images.wondershare.com/drfone/article/2021/04/factory-reset-ipad-without-icloud-password-or-apple-id-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Based on the version of your iOS, you might be asked to enter your Apple ID password too. It will also ask for the Apple ID password if the "Find My iPhone" feature is enabled on your device. Hence, the process will not be successful without it, and your iPad or Apple iPhone XS will go to Activation Lock. Therefore, Dr.Fone is a simple, recommended, and reliable way of resetting the iPad or Apple iPhone XS without an Apple ID, saving much of the troubles.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 There can be multiple reasons for resetting your iPad or Apple iPhone XS. Now you know how to factory reset the iPad or Apple iPhone XS without Apple ID. You can follow any of the above-mentioned methods to get the desired results as best suited to your needs. Some might work, and some might not. The [Dr.Fone – Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool is recommended, as it is the most efficient among all the other methods. Try it to get proficient outcomes.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Bypass iCloud Activation Lock on Mac For Apple iPhone XS?
 
@@ -132,6 +148,10 @@ _How to do Mac activation lock bypass?_
 iCloud Activation Lock stands as a reliable security measure in the Apple ecosystem. It protects your Apple devices from unauthorized access and theft. Yet, navigating this security feature can be overwhelming for users locked out of their devices. It can happen due to forgotten passwords or second-hand purchases.
 
 Mac users often seek effective methods to bypass this security measure. They aim to reclaim access to their devices without compromising safety. This article serves as a comprehensive guide, exploring the details of bypassing the iCloud **Activation Lock on Mac**. It will go through various methods, strategies, and best practices to unlock your Mac.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. What is Mac Activation Lock?
 
@@ -163,6 +183,10 @@ When faced with a Mac locked by iCloud Activation Lock, another effective method
 
 ![access find my and remove device](https://images.wondershare.com/drfone/article/2023/12/bypass-icloud-activation-lock-mac-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3. Ask The Previous Owner for Help
 
 Have you acquired a second-hand Mac that is locked with iCloud Activation Lock? If faced with this scenario, seeking assistance from the previous owner can prove to be a valuable solution. Describe your situation to the previous owner and kindly ask them to log in to their iCloud account for support. Otherwise, they can use the iCloud website to disassociate the Apple iPhone XS device from their account.
@@ -189,8 +213,6 @@ Bypassing Activation Lock might carry the following risks and implications:
 
 ## Extra Tip. How to Remove Activation Lock on iPhone/iPad/iPod Touch?
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Bypass iCloud Activation Lock on iPhone Without Hassle.
@@ -208,10 +230,11 @@ The problem of iCloud Activation Lock is not limited to Mac computers. Apple dev
 
 Install the most recent edition of Wondershare Dr.Fone on your computer and open the application. Proceed to the Toolbox section, then select "Screen Unlock." Follow it by selecting "iOS" to define the Apple iPhone XS device type. Next, opt for "iCloud Activation Lock Removal" for the intended purpose. Once directed to a new window, click on "Start" to commence the process.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start bypassing icloud activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2. Unlocking iOS Devices: GSM and CDMA Activation Differences
 
@@ -234,7 +257,6 @@ Put iOS devices running versions 15.0 to 16.3 into DFU Mode following the on-scr
 After confirming your jailbroken iOS device, the process initiates automatically to remove the Activation Lock. Upon completion, a message confirming the finished process will be displayed on the screen. While the Apple iPhone XS device is in DFU Mode, the computer screen will show the progress of removing the iCloud **Mac Activation Lock**. Keep an eye on the progress bar until it reaches completion. Click the 'Done' button to finish unlocking the Activation Lock.
 
 ![complete icloud activation lock bypass](https://images.wondershare.com/drfone/guide/bypass-activation-lock-16.png)
-
 
 ## Conclusion
 
@@ -284,9 +306,6 @@ A new interface with a screen notification will open up. Carefully read the thre
 
 Your iPhone will reboot a number of times, which is normal. Once the process is done, you will get a "Jailbreak Succeeded" message and the Cydia icon display on your iDevice. Unplug your Apple iPhone XS and turn ON the "Find My Apple iPhone XS" feature. Set up your Apple iPhone XS using your new preferred details.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Bypass iCloud Activation Lock offline with few clicks
 
 To bypass **_jailbreak locked iPhone_** offline, you can rely on Dr.Fone - Screen Unlock (iOS). This tool comes with the power of unlocking the iPhone/iPad lock screen in minutes. Being compatible with all the iPhones, including the latest ones, the tool never disappoints users in **_removing iCloud lock with jailbreak_** devices. Let us know how to do this.
@@ -315,9 +334,6 @@ Now, you have to type in the screen password so that the scanning process become
 
 You will now see the instructions on the screen. Follow those on your device to reset all settings. Reboot the Apple iPhone XS device right after this.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![interface](https://images.wondershare.com/drfone/interface.jpg)
 
 **Step 5:** **_Remove iCloud Lock_**
@@ -326,6 +342,10 @@ Upon the restarting of the Apple iPhone XS device, Dr.Fone will start to **_remo
 
 ![process of unlocking](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6: Check the iCloud ID**
 
 Finally, you will get a new window. You are allowed to check if you have unlocked the iCloud ID successfully.
@@ -333,7 +353,6 @@ Finally, you will get a new window. You are allowed to check if you have unlocke
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
 From the methods mentioned above, we can comfortably conclude that it's easy to jailbreak iCloud locked iPhone. Regardless of the method you choose, jailbreaking a locked phone is as easy as formatting one, as long as the restrictive iCloud lock has been removed by a previous method, such as the one mentioned in part 3
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -347,9 +366,26 @@ From the methods mentioned above, we can comfortably conclude that it's easy to 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-becoming-a-savvy-vr-tour-connoisseur/"><u>[New] Becoming a Savvy VR Tour Connoisseur</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sparkle-with-style-animating-text-in-your-insta-stories/"><u>[New] Sparkle with Style Animating Text in Your Insta Stories</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-game-on-pioneer-top-choices-in-windows-10s-new-games-and-apps/"><u>[Updated] Game On, Pioneer Top Choices in Windows 10’S New Games and Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-guide-to-top-8-gold-text-in-3d-realms/"><u>2024 Approved Ultimate Guide to Top 8 Gold Text in 3D Realms</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-iphone-15-pro-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the iPhone 15 Pro iCloud Lock</u></a></li>
+<li><a href="https://fox-that.techidaily.com/baffled-by-text-message-glitches-on-your-iphone-here-are-ten-solutions-that-work/"><u>Baffled by Text Message Glitches on Your iPhone? Here Are Ten Solutions That Work!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-iphone-14-proipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from iPhone 14 Pro/iPad/iPod</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-12-pro-max-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 12 Pro Max</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-7-plus-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 7 Plus</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquer-the-update-challenge-strategies-to-resolve-windows-11s-error-0x800f0922-quickly/"><u>Conquer the Update Challenge: Strategies to Resolve Windows 11'S Error 0X800f0922 Quickly!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dismiss-blank-display-problems/"><u>Dismiss Blank-Display Problems</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-iphone-15-plus-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your iPhone 15 Plus and iPad</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-12-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From iPhone 12</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-iphone-12-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For iPhone 12?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-se-2022-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your iPhone SE (2022)?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from Apple iPhone 12 mini</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-purity-extract-background-from-your-photos-at-home-for-2024/"><u>Perfect Purity Extract Background From Your Photos at Home for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-deadbacklit-keyboard-top-5-fixes-in-windows/"><u>Revive Deadbacklit Keyboard: Top 5 Fixes in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-ranked-gaming-televisions-features-and-reviews-by-zdnet/"><u>Top-Ranked Gaming Televisions : Features and Reviews by ZDNet</u></a></li>
+</ul></div>
 

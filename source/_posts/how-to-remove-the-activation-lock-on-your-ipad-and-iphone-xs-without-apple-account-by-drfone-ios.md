@@ -1,7 +1,7 @@
 ---
 title: How to Remove the Activation Lock On your iPad and iPhone XS without Apple Account
-date: 2024-07-14T20:59:35.702Z
-updated: 2024-07-15T20:59:35.702Z
+date: 2025-01-21T16:52:46.911Z
+updated: 2025-01-24T16:35:20.732Z
 tags: 
   - unlock
   - bypass activation lock
@@ -64,7 +64,6 @@ But for CDMA devices, when you bypass the activation lock, there will be no chan
 
 ![remove the activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
-
 ### Ask the previous owner to remove it remotely
 
 This approach requires the old user's Apple account credentials. You should initially sign in to iCloud before utilizing this strategy to unlock the iPhone. You can also ask the old user to carry out this method. Ask the user to follow the steps below, and that's **how to remove activation lock without Apple ID:**
@@ -77,6 +76,10 @@ This approach requires the old user's Apple account credentials. You should init
 ![erase iphone](https://images.wondershare.com/drfone/article/2022/10/remove-activation-lock-without-apple-id-1.jpg)
 
 - At long last, pick "Erase from Account" from the dropdown menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Use DNS Bypass
 
@@ -133,11 +136,13 @@ There are no unlawful ways of bypassing the Activation lock by the same token. R
 - Your Apple iPhone XS will incite you for your password. You should enter your iCloud credentials to continue.
 - In the textbox, type the password, and you are ready.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 Activation locks can help users secure their phones from unwanted people. However, it can be frustrating if you don't have the password to your phone's Apple ID. Therefore, the methods in this article will help you with **iPad activation lock bypass code without Apple ID.** On top of that, Wondershare Dr.Fone can remove the lock for you in just a few minutes.
-
-
 
 ## Effective Ways To Fix Checkra1n Error 31 On Apple iPhone XS
 
@@ -158,13 +163,9 @@ Understanding the reasons behind **Checkra1n Windows** Error 31 is essential in 
 5. **Security Software Interference:**In rare cases, the security or antivirus software installed on your system can interfere with the working of Checkra1n. Similarly, the Windows firewall can sometimes flag Checkra1n as a virus, disturbing the jailbreaking process.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: \[Top Fixes\] Resolve Checkra1n Error 31 to Jailbreak iOS Device
 
 Encountering errors like **Checkra1n jailbreak Error 31** is a typical occurrence in the jailbreaking process. Fortunately, there's no cause for concern, as there are various solutions readily accessible to diagnose and address this particular error. Discussed below are the top 6 fixes to streamline your iOS jailbreaking process:
@@ -193,7 +194,6 @@ Start by downloading and opening the latest edition of Wondershare Dr.Fone. Afte
 
 ![proceed with icloud activation lock removal](https://images.wondershare.com/drfone/guide/bypass-activation-lock-2.png)
 
-
 - Step 2. Jailbreak Your iOS Device
 
 Now, proceed to check if your device is CDMA or GSM. A GSM device will remain the same after iCloud Activation Lock removal. On the other hand, a CDMA device will lose all cellular functionalities. After that, you need to tap "Unlock Now" and agree with the warning by tapping "Got it!" Afterward, you will need to jailbreak your device, for which follow these below-given steps:
@@ -202,9 +202,6 @@ Now, proceed to check if your device is CDMA or GSM. A GSM device will remain th
 
 1. On a computer with Windows 7 or higher, download checkn1x-amd64.iso and rufus.exe. Connect a USB with at least 2 GB storage to the computer. Next, open the Rufus file and choose "checkn1x-amd64.iso" by clicking "Select."
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![boot device with checkn1x](https://images.wondershare.com/drfone/drfone/jailbreak-ios-on-windows-1.jpg)
 
 2. Now, click "Start," and on the pop-up window, choose "Write in DD Image Mode." Then, click "OK" and wait for the process of writing image data to complete. Once completed, tap "Close" and restart your computer with the USB plug-in.
@@ -221,10 +218,11 @@ Now, proceed to check if your device is CDMA or GSM. A GSM device will remain th
 
 5. Once back on the main screen, select "Start" to initiate jailbreaking. For CheckN1x to jailbreak your device, you need to put the Apple iPhone XS device into DFU Mode. Now, tap "Next" to put your device into Recovery Mode.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start jailbreaking device](https://images.wondershare.com/drfone/drfone/jailbreak-ios-on-windows-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Once your device is in Recovery Mode, tap "Start" and follow the on-screen guidelines to put it into DFU Mode. When your device enters DFU Mode, Checkn1x will automatically jailbreak it. Finally, select "Finish" and remove the USB to complete the process.
 
@@ -236,6 +234,10 @@ Removing the Activation Lock will start as soon as your device is jailbroken. Yo
 
 ![icloud activation lock bypassed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2. Try Restarting iOS or Computer Device
 
 Sometimes, temporary glitches or bugs within your iOS device or computer can cause the **Checkra1n Error 31**. The most effective and simple solution in this case is to restart your devices. This simple process removes all temporary glitches and resets all processes. Here is how you can restart your iOS device and computer:
@@ -244,9 +246,6 @@ Sometimes, temporary glitches or bugs within your iOS device or computer can cau
 
 **Instructions.** Click the "Start" button on your Windows PC from the bottom left corner. Here, tap the “Power” icon and select "Restart."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restart windows pc](https://images.wondershare.com/drfone/article/2024/01/best-fixes-for-checkra1n-error-31-11.jpg)
 
 #### 2\. MacBook
@@ -279,9 +278,17 @@ When encountering **Checkra1n jailbreak**, error 31 may be attributed to the iOS
 
 ![restore iphone via itunes](https://images.wondershare.com/drfone/article/2024/01/best-fixes-for-checkra1n-error-31-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** You will be asked to select the IPSW file. Choose the file you downloaded and follow the on-screen instructions to complete the installation process. Once complete, re-try the jailbreaking and see if error 31 is resolved.
 
 ![access file to complete installation process](https://images.wondershare.com/drfone/article/2024/01/best-fixes-for-checkra1n-error-31-17.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5. Consider Using Other Options in Checkra1n
 
@@ -304,6 +311,10 @@ Remember that this hack includes a specific Checkra1n version and experience tha
 - **Step 2.** The user suggests you unplug the cable and re-plug it after waiting for 5 to 7 seconds. According to the user, this action should do the trick. To get out of DFU Mode, press and hold both buttons (Home + Lock) for 10 seconds and go on to release the home button.
 
 ![exit dfu mode iphone](https://images.wondershare.com/drfone/article/2024/01/best-fixes-for-checkra1n-error-31-20.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus. Jailbreak iOS Using Mac: A Simple Guide To Refer To
 
@@ -343,9 +354,6 @@ The International Mobile Equipment Identity (IMEI) code/number is a highly uniqu
 
 ![jailbreak iCloud locked iPhone](https://images.wondershare.com/drfone/others/understanding-your-imei.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. How to Find Your IMEI Code
 
 How to find your IMEI code depends on a number of factors such as your phone make, the model as well as the company behind your device. In most cases, you can find the code on your mobile device just under the battery casing, on the SIM Card tray, and in some situations, on the inside part of the bottom phone cover. If by chance, you still can't locate your code, I would highly advise you to dial \*#06# on your phone dial pad. This prompt dial-up happens to be the universal method used by each and every mobile company to locate the unique 15-digit IMEI number.
@@ -360,9 +368,17 @@ You can try to find your IMEI code through the other two methods: check it on yo
 
 ![look for imei on itunes](https://images.wondershare.com/drfone/article/2023/12/icloud-imei-unlock-bypass-icloud-activation-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Method 3:** For Finder, locate your device from the left panel. Ensure that you're on the “General” tab, then select "Phone Number" below your device name or model to locate the IMEI number.
 
 ![look for imei in finder](https://images.wondershare.com/drfone/article/2023/12/icloud-imei-unlock-bypass-icloud-activation-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Method 4:** Retrieve the original box or packaging in which your device came when you purchased it. On the outside of the box, a label or sticker might include various details about the Apple iPhone XS device. Look for a section specifically mentioning the IMEI number. The IMEI number and other device details are typically printed on a label or sticker.
 
@@ -456,12 +472,9 @@ Once the Apple iPhone XS device is jailbroken, Dr.Fone will commence the removal
 
 ![complete icloud activation lock bypass](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
-
 ## Bonus Tip: One-click Solution to Bypass iCloud Password without IMEI Code
 
 Not just IMEI, you may also wish to bypass the iCloud account that is linked to the Apple iPhone XS device as well. To do this, you can take the assistance of [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) and follow a simple stepwise process. Ideally, the application is used to remove the lock screen of an iOS device, but it can also help you bypass an iCloud account. But, you need to unlock your device once in the process. If you are ready, just follow these steps to learn how to bypass the iCloud lock on your phone.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -498,11 +511,9 @@ Step 6: In the end, you will be notified when the unlock process is completed. Y
 
 ![complete](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
-
 Some of the methods that have been listed above require little skills and time to bypass the activation lock. Also, the amount of cash required is minimal as compared to other methods, which can be quite expensive and complicated for some users. [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is a better solution that will take you a long way in terms of iPhone and iCloud use compared to others, and hence you should never be worried just because you can't access your iCloud account.
 
 [![best ai tools](https://images.wondershare.com/drfone/images2023/ai-tools/ai-tools-1170_128.png)](https://drfone.wondershare.com/ai-tools.html?from=ai-tools-article-banner)
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -516,9 +527,21 @@ Some of the methods that have been listed above require little skills and time t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-easycast-essential-steps-for-beginner-podcast-streamers/"><u>[Updated] In 2024, EasyCast Essential Steps for Beginner Podcast Streamers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-video-dimensions-aspect-ratio-standards-for-2024/"><u>[Updated] Twitter Video Dimensions Aspect Ratio Standards for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/apple-iphone-6-icloud-activation-lock-bypass-by-drfone-ios/"><u>Apple iPhone 6 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://techtrends.techidaily.com/explore-the-leading-ai-video-editors-top-recommendations-for-professionals/"><u>Explore the Leading AI Video Editors : Top Recommendations for Professionals!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-iphone-14-pro-icloud-bypass-by-drfone-ios/"><u>Full guide to iPhone 14 Pro iCloud Bypass</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862768155-get-the-ultrawide-view-with-the-newly-discounted-gigabytes-aorus-oled-gaming-monitor-for-only-969/"><u>Get the Ultrawide View with the Newly Discounted Gigabyte's Aorus OLED Gaming Monitor for Only $969!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-broken-ethernet-connections-in-windows-10-and-windows-7/"><u>How to Repair Broken Ethernet Connections in Windows 10 and Windows 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-v29-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo V29 to iPad | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-iphone-8-plus-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From iPhone 8 Plus</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-must-visit-websites-for-text-design-elements-download/"><u>In 2024, Must-Visit Websites for Text Design Elements Download</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-6-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 6 You Should Try Out</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-3-0x0001000b-glitch-in-rainbow-six-siege-expert-tips-and-tricks/"><u>Troubleshooting the 3-0X0001000B Glitch in Rainbow Six Siege - Expert Tips and Tricks</u></a></li>
+</ul></div>
 
