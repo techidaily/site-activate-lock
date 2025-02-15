@@ -1,7 +1,7 @@
 ---
 title: How to fix iCloud lock on your iPhone X and iPad
-date: 2024-07-14T20:40:34.726Z
-updated: 2024-07-15T20:40:34.726Z
+date: 2025-02-12T03:08:59.922Z
+updated: 2025-02-15T03:52:43.085Z
 tags: 
   - unlock
   - bypass activation lock
@@ -56,6 +56,10 @@ For you to unlock the iCloud lock, using this method, you first have to obtain t
 
 ![fix icloud lock](https://images.wondershare.com/drfone/article/2016/08/14719794951413.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **Step 2:** Enter your Email Address
 
 A new page with your purchase details as shown below will open up. Enter your email address as requested and click on the "Continue" button. Make sure that you have entered the correct email address as it will be used to inform you that your iCloud lock is no longer active.
@@ -72,11 +76,6 @@ Once you have entered your email address, a new interface requesting you to choo
 
 If you aren’t able to fix iCloud lock with the provided methods above, we would like to recommend you Dr.Fone – [Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) – one of its kind tools that work when you wish to unlock screen locks effortlessly. It shows great compatibility with the latest iPhones and iOS versions. In addition, you don’t need to be tech-savvy to play with this tool. Let us know how it works to fix iCloud lock.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock
 
 Fix the "iPhone Is Disabled Connect to iTunes" Error In 5 Minutes
@@ -101,6 +100,10 @@ After you download and install Dr.Fone – [Screen Unlock (iOS)](https://tools.t
 When the next screen appears, you are required to hit on the “Remove Apple ID”.
 
 ![new-interface](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **Step 3:** Key in the Password
 
@@ -135,8 +138,9 @@ Apple has long been famous for providing sound devices, with nifty safety and us
 ![bypass activation lock](https://images.wondershare.com/drfone/article/2020/11/bypass-activation-lock.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1. What is Activation Lock on Apple iPhone X or iPad?
 
 This theft deterrent feature is cool for the sole reason that it helps keep your data safe, in case of misplacement or thievery. Without access to the owner’s Apple ID and/or password, accessing the Apple iPhone X device becomes impossible. Unfortunately for used purchases, you may have procured a used item legitimately, but have no access to said device.
@@ -145,12 +149,15 @@ This feature is enabled by default when the Find My Apple iPhone X option is sel
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lKERrs5S_uU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-
 ## Part 2. How to Bypass Activation Lock on Apple iPhone X or iPad with Previous Owner's Account?
 
 Using a valid Apple ID and password is the easiest way to bypass the activation lock on Apple iPhone X or iPad Mini. In any case, if you legitimately purchased the Apple iPhone X device from the previous owner, they should have no qualms giving you these details. If it’s a new device, and you are the original owner, you will have this information ready to use for activation. Whatever the case, follow the steps below to remove the activation lock to Apple iPhone X or iPad Mini.
 
 ![add apple id password](https://images.wondershare.com/drfone/article/2020/11/add-apple-id-password.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 1.** Have the previous owner enter their details on the Apple iPhone X or iPad Mini, or request them to send the same to you.
 - **Step 2.** Fire up the Apple iPhone X device and when prompted on the Activation Lock Screen, enter the Apple ID and password.
@@ -167,13 +174,12 @@ Users on iOS 12 or earlier can locate this option on settings, navigating to iCl
 There are a few web-based resources and tricks that facilitate this procedure. Suffice to say, these methods, known as Jailbreaking, do not work when activation lock is enabled. Stick to using credible methods like the one listed above. Alternatively, you can use iCloud to bypass the Apple iPhone X or iPad Mini activation lock. It does, however, require the original owner’s iCloud information. Assuming they are in contact with you, have them use the following steps to bypass the activation lock.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3. How to Remove iCloud Activation Lock on Apple iPhone X or iPad Without Password Using Dr.Fone?
 
 This cool software program is available for use with every iOS device out there. It offers utility for all matters security, revamping or repairing as well as unlocking of iOS devices. On removing Apple ID and activation lock without a password, [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is one of the few recommended programs.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -196,17 +202,15 @@ Follow the guide to remove activation lock on Apple iPhone X or iPad without a p
 
 - **Step 3.** Start the Remove process, and connect your Apple iPhone X or iPad to your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock icloud activation - jailbreak iOS](https://images.wondershare.com/drfone/guide/bypass-activation-lock-2.png)
 
 - **Step 6.** Wait a moment for the removal process.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock icloud activation - start to unlock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. How to Bypass Apple iPhone X or iPad Mini Activation Lock Using iCloud.com?
 
@@ -226,8 +230,6 @@ A popular query regarding the activation lock on an Apple iPhone X or iPad Mini 
 
 Having an iOS device is a unique and satisfying experience, one that many smart device users wish they could have. On that note, activation locks on Apple iPhone X or iPads and other iOS devices are meant to protect user information and ensure privacy. Furthermore, using shady programs downloaded from the web may lead to the destruction of a device. Use the handy methods suggested above to fully enjoy the features on your iOS device.
 
-
-
 ## How to Factory Reset iPad or Apple iPhone X without iCloud Password or Apple ID?
 
 If you are an iPad or Apple iPhone X owner and are looking to reset your iPad or Apple iPhone X without knowing the passcode, you do not need to worry anymore. Most gadget owners already know how to factory reset their phones. But in cases where you have forgotten your Apple ID password or passcode and want to reset your iPad or Apple iPhone X, it can be done via various ways and techniques. Here, we shall discuss a few of them.
@@ -246,6 +248,10 @@ The Dr.Fone program is a highly useful and recommended tool for unlocking phone 
 - It is relatively easy to use, with a user-friendly interface.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To factory reset the iPad or Apple iPhone X without Apple ID using Dr.Fone, install the program on your computer, and proceed as mentioned below.
 
@@ -274,6 +280,10 @@ Now, tap the “Trust” button on your iPad or Apple iPhone X to establish a tr
 Then, on your computer screen, click on "Unlock Now." Confirm the action on the appearing dialogue box. Next, follow the instructions visible on the screen to reset your iPad or Apple iPhone X.
 
 ![attention](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6: Remove Apple ID**
 
@@ -309,6 +319,14 @@ The screen displays an option of ‘Restore’ or ‘Update’ for the iPad or A
 
 ![factory reset ipad without icloud password or apple id](https://images.wondershare.com/drfone/article/2021/04/factory-reset-ipad-without-icloud-password-or-apple-id-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 3: How to Reset iPad or Apple iPhone X without Apple ID via the Settings App?**
 
 Another way of resetting your iPad or Apple iPhone X is via the Settings app present on your device. You can unlock a disabled iPad or Apple iPhone X or remove all data by executing a total wipe of the iPad or Apple iPhone X using Settings. However, before starting, please ensure that your iPad or Apple iPhone X is connected to the internet and the “Find My iPhone” feature is disabled on it. You will also need to know the passcode of your iPad or Apple iPhone X to proceed with this method.
@@ -331,7 +349,6 @@ There can be multiple reasons for resetting your iPad or Apple iPhone X. Now you
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -344,9 +361,22 @@ There can be multiple reasons for resetting your iPad or Apple iPhone X. Now you
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-unzip-excitement-funimate-pros-apk-unwrapped/"><u>[New] In 2024, Unzip Excitement - Funimate Pro's APK Unwrapped</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-soundscapes-startups-the-best-10-music-pieces-for-podcast-intros/"><u>[New] Soundscapes Startups The Best 10 Music Pieces for Podcast Intros</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-crafting-powerful-hashtags-for-fb-brand-identity/"><u>[Updated] In 2024, Crafting Powerful Hashtags for FB Brand Identity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-your-safari-full-page-screenshot-woes-tips-and-tricks-for-a-smooth-experience/"><u>Fixing Your Safari Full Page Screenshot Woes: Tips & Tricks for a Smooth Experience</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-apple-iphone-8-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the Apple iPhone 8 Without Previous Owner?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-camstudio-reimagined-the-complete-screen-recorder-review/"><u>In 2024, CamStudio Reimagined The Complete Screen Recorder Review</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-iphone-14-plus-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to iPhone 14 Plus iCloud Bypass</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-6windowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your Apple iPhone 6/Windows/Mac</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 15 Pro Max</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-yuva-3-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 3 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-12-pro-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-mirroring-mac-displays-to-televisions-using-airplay-technology/"><u>Step-by-Step Tutorial on Mirroring Mac Displays to Televisions Using AirPlay Technology</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/the-art-of-music-laced-tiktok-production-for-2024/"><u>The Art of Music-Laced TikTok Production for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/things-you-must-know-for-screen-mirroring-apple-iphone-6s-drfone-by-drfone-ios/"><u>Things You Must Know for Screen Mirroring Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-iphone-se-2022-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on iPhone SE (2022) iCloud Activation Lock Bypass</u></a></li>
+</ul></div>
 

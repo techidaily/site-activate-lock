@@ -1,7 +1,7 @@
 ---
 title: Effective Ways To Fix Checkra1n Error 31 From iPhone 15 Pro Max
-date: 2025-01-26T16:33:46.301Z
-updated: 2025-02-01T00:58:29.084Z
+date: 2025-02-12T04:01:13.453Z
+updated: 2025-02-14T19:48:10.923Z
 tags: 
   - unlock
   - bypass activation lock
@@ -97,7 +97,11 @@ Removing the Activation Lock will start as soon as your device is jailbroken. Yo
 ![icloud activation lock bypassed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2. Try Restarting iOS or Computer Device
@@ -121,6 +125,10 @@ Sometimes, temporary glitches or bugs within your iOS device or computer can cau
 **Instructions.** Press the "Side" and any "Volume" buttons to access the Power Slider screen. Now, move the slider to the right to turn off your device. After waiting some time, press the "Side" button to turn on your iOS device.
 
 ![switch off and restart iphone](https://images.wondershare.com/drfone/article/2024/01/best-fixes-for-checkra1n-error-31-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3. Download New Checkra1n Version
 
@@ -152,6 +160,10 @@ If the reason behind **Checkra1n error 31** is the Apple iPhone 15 Pro Max devic
 
 ![enable safe mode and untested versions](https://images.wondershare.com/drfone/article/2024/01/best-fixes-for-checkra1n-error-31-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6. Try a Special Method While Using Checkra1n
 
 At times, the solutions you are looking for can be found among the experiences of fellow users. We found a Reddit post in our search to find solutions to **Checkra1n Error 31**. In this post, a Reddit user explained a hack he had found to solve error 31 when jailbreaking using Checkra1n.
@@ -174,10 +186,6 @@ Looking for a tool to jailbreak an iOS device on a Mac? Wondershare Dr.Fone has 
 
 ![access checkra1n on mac](https://images.wondershare.com/drfone/drfone/jailbreak-ios-on-mac-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2.** Tap "macOS" and go to "Checkra1n\_gui Terminal file" to detect the Apple iPhone 15 Pro Max device. Now, move ahead by tapping "Start," you will be led to the screen with instructions for putting the Apple iPhone 15 Pro Max device into DFU Mode.
 
 ![use checkra1n to detect device](https://images.wondershare.com/drfone/drfone/jailbreak-ios-on-mac-3.jpg)
@@ -199,10 +207,6 @@ The Apple iPhone 15 Pro Max's iCloud unlock is an absolute need for each client 
 You want to **bypass Apple iPhone 15 Pro Max** Activation Lock as quickly as possible. Furthermore, there are numerous ways for **Apple iPhone 15 Pro Max iCloud bypass**! Typically, a user enters the credentials of the iCloud account to which the Apple iPhone 15 Pro Max is connected and becomes unlocked immediately.
 
 However, this fast strategy is good just for the first owner. If you don't know about the iCloud account connected to your account, keep following this guide to **bypass Apple iPhone 15 Pro Max**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1:3 Useful Ways to bypass Apple iPhone 15 Pro Max iCloud activation lock
 
@@ -271,6 +275,10 @@ USA: 104.154.51.7
 
 **Step 7.** Set up your apps and use your Apple iPhone 15 Pro Max/7 as you like.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Dr.Fone - Screen Unlock (iOS)
 
 The easiest way is to use an expert activation lock bypass tool to stop the issue. This method doesn't require you to be technical or learn new concepts. You only need to search for the best available tool in the market and download it. You can do the rest of the job by just following the guidelines given by the software company.
@@ -294,10 +302,6 @@ Step 1: Launch Wondershare Dr.Fone and go to Toolbox>Screen Unlock>IOS.
 
 ![launch Wondershare Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Connect your device to the computer and select “iCloud Activation Lock Removal”.
 
 ![connect your Apple iPhone 15 Pro Max](https://images.wondershare.com/drfone/guide/bypass-activation-lock-1.png)
@@ -306,10 +310,6 @@ Step 3: Click Unlock Now button on the pop-up window.
 
 ![click unlock button](https://images.wondershare.com/drfone/guide/bypass-activation-lock-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: You will see a prompt show up. Read the details carefully and checkmark “I have read and agree the agreement”. Tapping “Got it!” button.
 
 ![confirm prompt](https://images.wondershare.com/drfone/guide/bypass-activation-lock-11.png)
@@ -317,6 +317,10 @@ Step 4: You will see a prompt show up. Read the details carefully and checkmark 
 Step 5: Put iDevice in DFU Mode for the first time: the program will send a command to the Apple iPhone 15 Pro Max device and it will restart.
 
 ![put in DFU mode](https://images.wondershare.com/drfone/guide/bypass-activation-lock-12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 6: Then you need to put the Apple iPhone 15 Pro Max device in DFU mode for the second time. When it’s done, the program will activate the Apple iPhone 15 Pro Max device.
 
@@ -330,16 +334,12 @@ Step 8: Once the Apple iPhone 15 Pro Max device has been processed under the DFU
 
 ![process done](https://images.wondershare.com/drfone/guide/bypass-activation-lock-16.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Your iPhone will start like a default phone without any activation lock. You can access and utilize the Apple iPhone 15 Pro Max now. Possibly, remember that you can't utilize your new Apple ID's phone call, cellular, and iCloud feature after that process.
 
 ## Part 2: FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. What is Find My?
@@ -365,6 +365,10 @@ The best way to switch off the Find My feature is very direct. The following ste
 ### 3\. Can I bypass iOS Devices like iPad or iPods?
 
 Yes, you can bypass the activation lock on iPhones like iPad and iPods. However, the method is a bit different regarding Apple Watches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -424,6 +428,10 @@ Once you have entered your email address, a new interface requesting you to choo
 
 ![fix icloud activation lock](https://images.wondershare.com/drfone/article/2016/08/14719797331077.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 4: How to Fix iCloud with Efficient Tool
 
 If you aren’t able to fix iCloud lock with the provided methods above, we would like to recommend you Dr.Fone – [Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) – one of its kind tools that work when you wish to unlock screen locks effortlessly. It shows great compatibility with the latest iPhones and iOS versions. In addition, you don’t need to be tech-savvy to play with this tool. Let us know how it works to fix iCloud lock.
@@ -447,19 +455,11 @@ After you download and install Dr.Fone – [Screen Unlock (iOS)](https://tools.t
 
 ![drfone-home-interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### **Step 2:** Select Unlock Apple ID
 
 When the next screen appears, you are required to hit on the “Remove Apple ID”.
 
 ![new-interface](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### **Step 3:** Key in the Password
 
@@ -467,15 +467,15 @@ As the next step, make sure to enter the screen password. Move ahead to trust th
 
 ![trust computer](https://images.wondershare.com/drfone/drfone/trust-computer-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **Step 4:** Enter Recovery mode
 
 You will be given some instructions on the following screen. Ensure to follow them carefully and put your device into recovery mode.
 
 ![interface](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### **Step 5:** Get iCloud Lock Fixed
 
@@ -505,24 +505,18 @@ As we have seen, different methods of how to fix iCloud lock are available to ch
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-top-5-virtual-reality-vr-treadmills-review-for-2024/"><u>[New] Top 5 Virtual Reality (VR) Treadmills Review for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-navigating-the-best-mobile-asmr-worldwide-for-2024/"><u>[Updated] Navigating the Best Mobile ASMR Worldwide for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-precision-cinematography-ideal-lenses-for-digital-storytellers/"><u>[Updated] Precision Cinematography Ideal Lenses for Digital Storytellers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-revolutionizing-gaming-analyzing-kinemasters-android-version-for-2024/"><u>[Updated] Revolutionizing Gaming Analyzing KineMaster's Android Version for 2024</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-best-narrator-voice-generators/"><u>2024 Approved Best Narrator Voice Generators</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-experience-ultimate-quality-leading-4k-converters/"><u>2024 Approved Experience Ultimate Quality Leading 4K Converters</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/bridging-twitter-and-fb-with-shared-vids-for-2024/"><u>Bridging Twitter and FB with Shared Vids for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discovering-best-steadicams-for-enhanced-dslr-shooting-experience/"><u>Discovering Best Steadicams for Enhanced DSLR Shooting Experience</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/efficiently-enhance-vr-experience-update-intel-3000-on-windows-11/"><u>Efficiently Enhance VR Experience - Update Intel 3000 on Windows 11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-iphone-11-pro-max-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your iPhone 11 Pro Max and iPad</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-iphone-12-pro-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix iPhone 12 Pro Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-11-pro-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and Apple iPhone 11 Pro without Apple Account</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-iphone-14-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to iPhone 14 iCloud Bypass</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-8-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For Apple iPhone 8?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked iPhone XS Max</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-12-pro-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 12 Pro</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-apple-iphone-14-pro-max-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your Apple iPhone 14 Pro Max</u></a></li>
-<li><a href="https://win-data.techidaily.com/topo-6-herramientas-de-respaldo-sin-costo-para-dispositivos-ios-en-pc-con-windows-2024/"><u>Topo 6 Herramientas De Respaldo Sin Costo Para Dispositivos iOS en PC Con Windows - 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-expert-strategies-for-exceptional-live-thumbnail-appeal/"><u>[New] Expert Strategies for Exceptional Live Thumbnail Appeal</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-elevate-your-content-game-with-these-instagram-story-tips/"><u>[Updated] Elevate Your Content Game with These Instagram Story Tips</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-iphone-xr-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On iPhone XR - 4 Easy Ways</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor Phones with/without a PC</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-iphone-12-pro-max-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and iPhone 12 Pro Max without Apple Account</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-strategies-for-srt-creation-and-enhancement/"><u>In 2024, Innovative Strategies for SRT Creation and Enhancement</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-11-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-linkedin-premium-a-smart-move-for-professionals-heres-why/"><u>Is LinkedIn Premium a Smart Move for Professionals? Here’s Why</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-iphone-11-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and iPhone 11 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-honor-magic5-ultimate-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Honor Magic5 Ultimate? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/synthesis-of-ai-and-human-emotion-chatgpts-creative-impact/"><u>Synthesis of AI and Human Emotion: ChatGPT's Creative Impact</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-12-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 12 You Should Try Out</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-of-pairing-b-clips-with-main-shots/"><u>The Art of Pairing B-Clips with Main Shots</u></a></li>
 </ul></div>
 

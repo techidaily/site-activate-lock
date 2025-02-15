@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Factory Reset iPad or iPhone 15 Pro without iCloud Password or Apple ID?
-date: 2024-11-09T21:52:46.164Z
-updated: 2024-11-17T01:43:05.994Z
+date: 2025-02-09T03:51:35.439Z
+updated: 2025-02-14T18:13:08.043Z
 tags: 
   - unlock
   - bypass activation lock
@@ -95,13 +95,6 @@ The screen displays an option of ‘Restore’ or ‘Update’ for the iPad or A
 
 ![factory reset ipad without icloud password or apple id](https://images.wondershare.com/drfone/article/2021/04/factory-reset-ipad-without-icloud-password-or-apple-id-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part 3: How to Reset iPad or Apple iPhone 15 Pro without Apple ID via the Settings App?**
 
 Another way of resetting your iPad or Apple iPhone 15 Pro is via the Settings app present on your device. You can unlock a disabled iPad or Apple iPhone 15 Pro or remove all data by executing a total wipe of the iPad or Apple iPhone 15 Pro using Settings. However, before starting, please ensure that your iPad or Apple iPhone 15 Pro is connected to the internet and the “Find My iPhone” feature is disabled on it. You will also need to know the passcode of your iPad or Apple iPhone 15 Pro to proceed with this method.
@@ -115,13 +108,6 @@ Once you have done all of that, follow the steps given below.
 5. Type in your passcode to confirm and proceed. This will wipe all the data on your iPad or Apple iPhone 15 Pro.
 
 ![factory reset ipad without icloud password or apple id](https://images.wondershare.com/drfone/article/2021/04/factory-reset-ipad-without-icloud-password-or-apple-id-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Based on the version of your iOS, you might be asked to enter your Apple ID password too. It will also ask for the Apple ID password if the "Find My iPhone" feature is enabled on your device. Hence, the process will not be successful without it, and your iPad or Apple iPhone 15 Pro will go to Activation Lock. Therefore, Dr.Fone is a simple, recommended, and reliable way of resetting the iPad or Apple iPhone 15 Pro without an Apple ID, saving much of the troubles.
 
@@ -154,6 +140,10 @@ Admittedly, it has a good side to follow, but it does have drawbacks to specific
 - Locate and play a sound by Find My iPhone on missing Apple devices, like iPhone, iPad, Mac, etc
 - Protect data if a device is stolen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Cons
 
 - Make the first using process more troublesome if you cannot acquire the iCloud login information from the previous owner, after buying a second hand iPhone
@@ -167,10 +157,7 @@ Without the credential, or iCloud login information from the previous owner, [Dr
 Dr.Fone will access your iOS devices with a couple of clicks. Follow the video instructions below to remove find my iPhone/ iPad activation lock without a previous owner:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock
@@ -209,10 +196,7 @@ Remove Remove Activation Lock without Password in Minutes
 ![completed unlocking process](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 2: Remove Activation Lock Without Previous Owner by Apple Official Support
@@ -225,13 +209,6 @@ There are two ways to ask for Apple support:
 - **Online method:** Call Apple Support or visit its [official website](https://al-support.apple.com/#/kbase/en_GB) for remote assistance in removing the Activation Lock.
 
 Their representatives will provide you with the necessary support and assistance during the process.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Remove Activation Lock Without Previous Owner via DNS
 
@@ -251,6 +228,10 @@ DNS method is an effective technique to remove find my iPhone activation lock wi
 - **Step 4**: Choose the “_**Manual**_” option from the page as below.
 
 ![configure dns manually and add server](https://images.wondershare.com/drfone/article/2022/02/configure-dns-manually.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5**: Tap “**+** _**Add Server”**_, and try one of the following DNS values:
 
@@ -309,13 +290,6 @@ We hope this post will help you figure out the right way to remove **the Find My
 It is always better to purchase a second-hand iDevice over a brand-new one. A second-hand iPhone or iPad may seem appealing to people on a tight budget. However, the Apple iPhone 15 Pro device may already be linked to an iCloud account after it's brought. Therefore, the absence of the correct password makes it impossible to unlock the Apple iPhone 15 Pro device.
 
 The new owner needs to contact the original owner to unlock the Apple iPhone 15 Pro device. However, if the person has forgotten the password, this issue may cause serious problems. This article will offer insight into **Apple iPhone 15 Pro activation lock removal** and the mechanisms necessary to unlock it in the absence or presence of the original owner.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: What is Apple iPhone 15 Pro Activation Lock? A Quick Look
 
@@ -379,20 +353,21 @@ Remove iPhone Activation Lock without Any Hassle.
 
 ![bypass apple activation lock 5](https://images.wondershare.com/drfone/guide/bypass-activation-lock-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7:** When the process is over, you will see a message notifying the successful process.
 
 ![bypass apple activation lock 6](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Note: The process will delete all your data, so make sure to use this method if you have a backup of your device or if you don't want the data on your device.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\. Online Activation Lock Bypassing Service
 
@@ -404,16 +379,13 @@ There is no need to download any additional tools and programs or hardware for t
 
 ![bypass apple activation lock 7](https://images.wondershare.com/drfone/article/2021/12/online-activation-lock-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Fill out the contact information and device details like the user's country and the IMEI number. The service underuse may take a minute to verify the elements as well.
 
 ![bypass apple activation lock 8](https://images.wondershare.com/drfone/article/2021/12/online-activation-lock-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Upon confirming the information details, click on "Confirm Order". If the service is free, no order payment page will show up. Instead, a pop-up window may show. This solution is pretty permanent and allows users to set new credentials like a new device.
 
@@ -428,6 +400,10 @@ Listed below are the steps to be followed to remove the "Find My iPhone" activat
 **Step 2:** On opening the Wi-Fi screen, connect to a strong Wi-Fi network. Next to the chosen network name, tap on the "I" icon available on the right-hand side.
 
 ![bypass apple activation lock 9](https://images.wondershare.com/drfone/article/2021/12/dns-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** From the following screen, tap on the shown "Configure DNS" option.
 
@@ -483,6 +459,10 @@ At times, the previous owner may not be physically resent near the new iPhone ow
 
 Before buying a used phone, check whether you can erase and disable the Find my feature of the Apple iPhone 15 Pro device. If you can do so, you are good to go.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Can I remove the activation lock by erasing data?
 
 To erase the Apple iPhone 15 Pro device, you should have the password if it has the activation lock. So technically, you can't remove the activation lock by simply erasing your device.
@@ -490,6 +470,10 @@ To erase the Apple iPhone 15 Pro device, you should have the password if it has 
 ### 3\. Can Apple support help me to remove the activation lock?
 
 You can start a request (application) on the Apple support website. After assessing your case, they might help you remove the **activation lock iPhone.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -509,21 +493,17 @@ By now, users may be accustomed to the possible options to remove activation loc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-effortless-video-segmentation-techniques/"><u>[Updated] 2024 Approved Effortless Video Segmentation Techniques</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-iphone-15-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the iPhone 15 Without Previous Owner?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-iphone-se-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On iPhone SE?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/ideas-for-customizing-your-tiktok-video-scene-for-2024/"><u>Ideas for Customizing Your TikTok Video Scene for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-13-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 13</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-apple-iphone-8-plus-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the Apple iPhone 8 Plus Without Previous Owner?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-poco-x5-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Poco X5 to iPod | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-13-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone 13?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-15-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 15 Pro Max iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-easiest-way-to-convert-4k-videos-to-mp4-for-offline-viewing/"><u>New 2024 Approved The Easiest Way to Convert 4K Videos to MP4 for Offline Viewing</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-minitool-movie-maker-vs-the-competition-which-one-reigns-supreme/"><u>New In 2024, Minitool Movie Maker Vs. The Competition Which One Reigns Supreme?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-xs-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone XS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-ultimate-trick-to-recover-any-missing-window-from-the-edge-of-sight/"><u>The Ultimate Trick to Recover Any Missing Window From the Edge of Sight</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/unleashing-potential-learning-steams-switch-controller/"><u>Unleashing Potential Learning Steam's Switch Controller</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/1728509132625-windows-11pc/"><u>Windows 11が利用可能にならないPC対策ガイド</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-secure-your-screen-content-mastering-the-ezvide-technique/"><u>[New] In 2024, Secure Your Screen Content - Mastering the EZvide Technique</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-decoding-the-science-of-hash-optimization-for-game-streaming/"><u>[Updated] Decoding the Science of Hash Optimization for Game Streaming</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-chart-topping-ideas-to-invigorate-your-youtube-channel/"><u>2024 Approved Chart-Topping Ideas to Invigorate Your YouTube Channel</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/desktop-vs-website-why-the-chatgpt-app-delivers-a-better-user-experience/"><u>Desktop Vs. Website: Why the ChatGPT App Delivers a Better User Experience</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/economical-action-filmmaking-gear-for-the-aspiring-pro-for-2024/"><u>Economical Action Filmmaking Gear for the Aspiring Pro for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-hogwarts-legacys-boot-problems-discover-8-key-strategies-that-work/"><u>Fixing Hogwarts Legacy's Boot Problems: Discover 8 Key Strategies That Work</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-apple-iphone-13-pro-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About Apple iPhone 13 Pro Activation Lock</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-apple-iphone-xs-max-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to Apple iPhone XS Max iCloud Bypass</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-apple-iphone-14-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On Apple iPhone 14 Smoothly</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-iphone-13-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from iPhone 13</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-whats-trending-on-tiktok-and-twittersphere/"><u>In 2024, What's Trending on TikTok and Twittersphere</u></a></li>
+<li><a href="https://article-helps.techidaily.com/pixels-musical-ensemble-unveiled-online/"><u>Pixel's Musical Ensemble Unveiled Online</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Remove Apple iPhone 8 Plus Activation Lock
-date: 2024-07-14T20:45:55.813Z
-updated: 2024-07-15T20:45:55.813Z
+date: 2025-02-08T19:03:51.647Z
+updated: 2025-02-15T02:36:35.690Z
 tags: 
   - unlock
   - bypass activation lock
@@ -20,9 +20,6 @@ It is always better to purchase a second-hand iDevice over a brand-new one. A se
 
 The new owner needs to contact the original owner to unlock the Apple iPhone 8 Plus device. However, if the person has forgotten the password, this issue may cause serious problems. This article will offer insight into **Apple iPhone 8 Plus activation lock removal** and the mechanisms necessary to unlock it in the absence or presence of the original owner.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Part 1: What is Apple iPhone 8 Plus Activation Lock? A Quick Look
 
 iPhone activation lock is one of the prominent features of Apple's "Find My iPhone." Once the "Find My iPhone" feature is activated, this feature gets automatically switched on. This activation lock guarantees device data and information safety at all times.
@@ -43,8 +40,6 @@ The user may also reset the Apple iPhone 8 Plus password via iCloud when the **a
 An iCloud lock activation bypass tool is highly recommended to remove the activation lock screen without any password on iPhone. It allows the user to reactivate the locked device without entering the iCloud username and password.
 
 Using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is recommended for this scenario. This tool removes the screen passcodes in minutes. Follow the steps shown below to bypass the **Apple activation lock**.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -75,15 +70,16 @@ Remove iPhone Activation Lock without Any Hassle.
 
 ![start bypass apple activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 (But, if your Apple iPhone 8 Plus is a GSM device, you can only this iPhone as an iPad that cannot call or use cellular as you will see as follow.)
 
 ![start bypass apple activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-6.png)
 
 **Step 5:** Now, you need to jailbreak the Apple iPhone 8 Plus before removing the activation lock. If your Apple iPhone 8 Plus hasn't been jailbroken, you can follow the "[Jailbreak Guide](https://drfone.wondershare.com/guide/how-to-jailbreak-ios-on-windows.html)" for it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![bypass apple activation lock 3](https://images.wondershare.com/drfone/guide/bypass-activation-lock-7.png)
 
 **Step 6:** After jailbreaking the iPhone, you can start the **iPhone activation lock removal** process.
@@ -106,10 +102,11 @@ There is no need to download any additional tools and programs or hardware for t
 
 **Step 1:** Begin by entering the details of the Apple iPhone 8 Plus model.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bypass apple activation lock 7](https://images.wondershare.com/drfone/article/2021/12/online-activation-lock-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Fill out the contact information and device details like the user's country and the IMEI number. The service underuse may take a minute to verify the elements as well.
 
@@ -131,9 +128,6 @@ Listed below are the steps to be followed to remove the "Find My iPhone" activat
 
 **Step 3:** From the following screen, tap on the shown "Configure DNS" option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![bypass apple activation lock 10](https://images.wondershare.com/drfone/article/2021/12/dns-2.jpg)
 
 **Step 4:** The next step is to choose the manual option available at the top of the page and use one of the DNS values mentioned below.
@@ -198,6 +192,10 @@ You can start a request (application) on the Apple support website. After assess
 
 By now, users may be accustomed to the possible options to remove activation locks from their iPhone devices. The possibilities are available based on whether or not the original owner and passcode are in the vicinity. In addition, users can now altogether [remove the apple activation lock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) and get restarted on their device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Ways to Bypass iCloud Activation Lock on Apple iPhone 8 Plus/iPad/iPod
 
 Apple puts importance on making sure that all the Apple iPhone 8 Plus users’ data and records are kept in tight and secured storage. Make sure that the only person that can access it is the owner of the mobile. However, there will be challenges if you have bought a used iPhone and if the owner has not logged out of his account on that phone. If you are in this situation, then you will need to either contact the previous owner or be locked out of your phone. The first one is a tedious option, and the latter would be the least one that we would want to happen.
@@ -221,7 +219,6 @@ Learn about all the solutions to unlock iPhone quickly through the video below:
 
 _If you forget the Activation Lock on your iDevice and fail to access it, you must bypass iCloud Activation Lock. This can be executed with the help of Dr.Fone - Screen Unlock (iOS), an exceptional iCloud unlock tool. Read on for detailed steps on various ways to bypass iCloud Activation Lock or click the Download button below to try it free!_
 
-
 ## Part 2: 3 Ways to Bypass iCloud Activation Lock on iPhone/iPad with iOS 16
 
 Now you know how an iCloud Activation Lock works and how to remotely lock your phone in case of theft. However, what if you still want to be able the bypass the iCloud Activation Lock but are unable to contact the first owner for their credentials? There are multiple ways that you can do that, and we will share the ways with you below:
@@ -230,11 +227,19 @@ Now you know how an iCloud Activation Lock works and how to remotely lock your p
 
 Probably one of the easiest and fastest ways to bypass the activation lock is by contacting the owner to remove the Apple iPhone 8 Plus device that you have from their iCloud. If you can still make contact with them, you can try this option and reach out to them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Contact Apple to Remove The Activation Lock
 
 If you cannot contact the previous owner, you can then [reach out to Apple directly](https://al-support.apple.com/#/kbase) and provide proof that you have inherited or purchased the Apple iPhone 8 Plus device. Documents such as receipts and death certificates if inherited, then you can reach out to their support team to unlock your device.
 
 ![contact apple to bypass icloud activation lock screen](https://images.wondershare.com/drfone/article/2023/05/contact-apple.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Unlock your device using DNS
 
@@ -248,6 +253,10 @@ Instead of bypassing Apple directly, you can try to bypass the DNS server, and y
 
 ![bypass icloud activation lock screen using dns](https://images.wondershare.com/drfone/article/2023/05/bypass-activation-lock.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. USA: 104.154.51.7
 2. Europe: 104.155.28.90
 3. Asia: 104.155.220.58
@@ -260,8 +269,6 @@ Instead of bypassing Apple directly, you can try to bypass the DNS server, and y
 
 Now, if you want to bypass the activation lock on your own and without the need for a password, you can try [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). This program helps unlock activation locks on iPhone (5S-X), iPad (3-7), and iPod touch (6-7) running iOS 12.0-16.6. Now you can remove iCloud activation lock on iPhone/iPad/iPod Touch without jailbreak by using Dr.Fone.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Bypass iCloud Activation Lock on iPhone/iPad/iPod Without Hassle.
@@ -270,6 +277,10 @@ Bypass iCloud Activation Lock on iPhone/iPad/iPod Without Hassle.
 - Simple, click-through, no tech knowledge is required, everybody can handle it.
 - Compatible with iPhone, iPad, and iPod touch.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Expert team with over 17 years of expertise & has helped over 50 million users.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,395,218** people have downloaded it
 
@@ -290,7 +301,6 @@ Bypass iCloud Activation Lock on iPhone/iPad/iPod Without Hassle.
 **Step 5:** Once the Apple iPhone 8 Plus device has been processed under the DFU Mode, the computer’s screen will start displaying the removal of the iCloud Activation Lock. When it’s done, click Done in the next window.
 
 ![process done](https://images.wondershare.com/drfone/guide/bypass-activation-lock-16.png)
-
 
 For detailed guide: please check our [official guide](https://drfone.wondershare.com/guide/unlock-activation-lock.html).
 
@@ -345,11 +355,19 @@ Then, on your computer screen, click on "Unlock Now." Confirm the action on the 
 
 ![attention](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6: Remove Apple ID**
 
 Dr.Fone will begin the process of unlocking your iPad or Apple iPhone 8 Plus. Do not disconnect the iPad or Apple iPhone 8 Plus during this process. Once the process is completed, reboot your iPad or Apple iPhone 8 Plus, and you shall be able to sign in with a new Apple ID.
 
 ![process of unlocking](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
@@ -377,9 +395,6 @@ Open iTunes and access your iPad or Apple iPhone 8 Plus through the iPad or Appl
 
 The screen displays an option of ‘Restore’ or ‘Update’ for the iPad or Apple iPhone 8 Plus. Tap on the option of ‘Restore’ to let the platform download the software into the iPad or Apple iPhone 8 Plus within the recovery mode. Then set it up as a new device.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![factory reset ipad without icloud password or apple id](https://images.wondershare.com/drfone/article/2021/04/factory-reset-ipad-without-icloud-password-or-apple-id-1.jpg)
 
 ## **Part 3: How to Reset iPad or Apple iPhone 8 Plus without Apple ID via the Settings App?**
@@ -396,6 +411,10 @@ Once you have done all of that, follow the steps given below.
 
 ![factory reset ipad without icloud password or apple id](https://images.wondershare.com/drfone/article/2021/04/factory-reset-ipad-without-icloud-password-or-apple-id-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Based on the version of your iOS, you might be asked to enter your Apple ID password too. It will also ask for the Apple ID password if the "Find My iPhone" feature is enabled on your device. Hence, the process will not be successful without it, and your iPad or Apple iPhone 8 Plus will go to Activation Lock. Therefore, Dr.Fone is a simple, recommended, and reliable way of resetting the iPad or Apple iPhone 8 Plus without an Apple ID, saving much of the troubles.
 
 ## Conclusion
@@ -403,9 +422,6 @@ Based on the version of your iOS, you might be asked to enter your Apple ID pass
 There can be multiple reasons for resetting your iPad or Apple iPhone 8 Plus. Now you know how to factory reset the iPad or Apple iPhone 8 Plus without Apple ID. You can follow any of the above-mentioned methods to get the desired results as best suited to your needs. Some might work, and some might not. The [Dr.Fone – Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool is recommended, as it is the most efficient among all the other methods. Try it to get proficient outcomes.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -419,9 +435,26 @@ There can be multiple reasons for resetting your iPad or Apple iPhone 8 Plus. No
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-affordable-free-screen-capture/"><u>[Updated] 2024 Approved The Ultimate Guide to Affordable, Free Screen Capture</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-invisible-footage-methods-to-obfuscate-private-elements-for-2024/"><u>[Updated] Invisible Footage Methods to Obfuscate Private Elements for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-enhancing-tiktok-video-viewership-through-zoom/"><u>2024 Approved Enhancing TikTok Video Viewership Through Zoom</u></a></li>
+<li><a href="https://win-premium.techidaily.com/56gs56kf5bsp6kej6yg6zu36yed77ya5aac5l2v5lplusd6k236yen6kab6loh5paz5lin6kkr5rai5asx/"><u>硬碟崩解避雷針：如何保護重要資料不被消失</u></a></li>
+<li><a href="https://win-able.techidaily.com/convert-m4a-audios-effortlessly-with-these-5-best-free-software-options-to-wav/"><u>Convert M4A Audios Effortlessly with These 5 Best Free Software Options to WAV</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/downloading-fb-videos-made-easy-our-top-5-selection/"><u>Downloading FB Videos Made Easy Our Top 5 Selection</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/harnessing-the-hype-how-to-hike-your-youtube-horde/"><u>Harnessing the Hype How to Hike Your Youtube Horde</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/harnessing-youtubes-power-for-profit-mastering-short-video-earnings/"><u>Harnessing YouTube's Power for Profit Mastering Short Video Earnings</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-iphone-6s-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from iPhone 6s or iPad?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-apple-iphone-14-pro-max-smoothly-by-drfone-ios/"><u>How To Remove iCloud From Apple iPhone 14 Pro Max Smoothly</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-apple-iphone-8-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to Apple iPhone 8 iCloud Bypass</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-iphone-7-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For iPhone 7?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-apple-iphone-6-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked Apple iPhone 6</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-iphone-14-pro-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the iPhone 14 Pro Without Previous Owner?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-apple-iphone-15-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and Apple iPhone 15 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-6s-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On iPhone 6s</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/transform-your-gaming-setup-with-the-incredible-34-alienware-curved-monitor-now-just-749-on-bestbuy/"><u>Transform Your Gaming Setup with The Incredible 34 Alienware Curved Monitor – Now Just $749 on BestBuy</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-14-plus-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 14 Plus</u></a></li>
+</ul></div>
 
