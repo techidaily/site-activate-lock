@@ -1,7 +1,7 @@
 ---
 title: "Unstuck the QR Code Scanner on Your iPhone: 10 Effective Remedies"
-date: 2025-02-12T00:11:13.055Z
-updated: 2025-02-14T17:36:12.476Z
+date: 2025-02-24T20:07:48.460Z
+updated: 2025-03-04T13:19:10.355Z
 tags:
   - iphone
   - apple
@@ -28,17 +28,9 @@ thumbnail: https://thmb.techidaily.com/3376b29faa2d3197bcfcb2a2edc1961849ab55544
 
 ![iPhone Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1208.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![IPhone Camera Settings with Scan QR Codes Toggled On](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1209.jpeg)
 
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Ensure Your Camera Is in Photo Mode
 
@@ -62,10 +54,6 @@ Close
 
  Sometimes, software glitches can cause your QR code scanner to malfunction. The quickest fix for this is to simply close the Camera app and relaunch it. To do this, swipe up from the bottom of the screen, then swipe up on the Camera app to close it. Wait for a few seconds, then reopen the**Camera** app and try to scan the QR code again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Add Code Scanner to Control Center
 
  If you're still having trouble using the Camera app to scan the QR code, you can add Apple's built-in Code Scanner directly to the Control Center for easy access. This built-in feature works separately from the Camera app and can sometimes bypass issues that you might encounter while using the Camera app.
@@ -84,23 +72,11 @@ Here's how to add the Code Scanner to the Control Center:
 
 ![iPhone Control Center Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1212.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![iPhone Control Center With Code Scanner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1213.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![iPhone QR Code Scanner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/img_1221.jpeg)
 
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Restart Your iPhone
 
@@ -121,10 +97,6 @@ Close
  If your iPhone's built-in QR code scanner still doesn't work after trying all these fixes, you should consider downloading a third-party QR code reader from the App Store. Many options, both free and paid, offer a wider range of capabilities compared to the built-in QR scanner.
 
  Popular iOS third-party QR code reader apps include [QR Code & Barcode Scanner](https://apps.apple.com/us/app/qr-code-barcode-scanner/id1048473097) by TeaCapps,[Scan Shot](https://apps.apple.com/us/app/scan-shot-document-scanner-pdf/id1575194801) by Scanner App PDF Tool, and [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) by INSTIG.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Decode QR Codes on Your iPhone Without Issues
 
@@ -147,21 +119,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/expose-the-faux-wizardry-avoiding-googles-bard-downloads/"><u>Expose the Faux Wizardry: Avoiding Google's Bard Downloads</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratis-online-mxf-to-mpeg-omzetter-tool-zoek-de-beste-waarderende-codec-conversie-met-movavi/"><u>Gratis Online MXF-to-MPEG Omzetter Tool - Zoek De Beste Waarderende Codec-Conversie Met Movavi</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-apple-iphone-11-pro-max-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from Apple iPhone 11 Pro Max or iPad?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-15-plus-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your Apple iPhone 15 Plus?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Lava Blaze Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-iphone-11-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from iPhone 11 Pro</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on iPhone 13 Pro Max</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-6s-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On Apple iPhone 6s</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-iphone-12-mini-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or iPhone 12 mini Stuck On Activation Lock?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-iphone-7-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, iPhone 7 Plus iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-samsung-galaxy-m54-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Samsung Galaxy M54 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/meta-quest-3-news-price-release-date-and-specs/"><u>Meta Quest 3: News, Price, Release Date, and Specs</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-avi-file-cutting-made-easy-the-ultimate-tutorial/"><u>New In 2024, AVI File Cutting Made Easy The Ultimate Tutorial</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/simple-steps-seamlessly-move-your-apple-id-contacts-to-a-new-account/"><u>Simple Steps: Seamlessly Move Your Apple ID Contacts to a New Account</u></a></li>
-<li><a href="https://article-posts.techidaily.com/toontown-full-analysis-and-tutorial-24-edition-for-2024/"><u>ToonTown Full Analysis & Tutorial '24 Edition for 2024</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/win32-disk-imagersd/"><u>Win32 Disk Imagerを使ったSDカードの完璧なバックアップ方法:ステップごとの詳しいマニュアル</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-metaverse-vs-multimetaverse-key-distinctions-and-comparison/"><u>[New] 2024 Approved Metaverse Vs. Multimetaverse Key Distinctions and Comparison</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-bringing-text-to-life-3d-creation-in-photo/"><u>[Updated] In 2024, Bringing Text to Life 3D Creation in PHOTO</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-excellence-in-networking-comprehensive-tp-link-archer-a9-router-review-under-1n/"><u>Affordable Excellence in Networking: Comprehensive TP-Link Archer A9 Router Review Under $1N</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-up-that-persistent-green-tint-in-youtube-videos-on-mac/"><u>Clearing Up that Persistent Green Tint in YouTube Videos on Mac</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-apple-iphone-8-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and Apple iPhone 8 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-apple-iphone-13-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and Apple iPhone 13 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-12-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone 12</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/step-by-step-on-vlc-screen-recording/"><u>Step-by-Step on VLC Screen Recording</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-from-apple-iphone-13-mini-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock from Apple iPhone 13 mini</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-from-apple-iphone-15-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock from Apple iPhone 15</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/understanding-wi-fi-protected-setup-a-comprehensive-guide-on-functionality-and-usage/"><u>Understanding Wi-Fi Protected Setup: A Comprehensive Guide on Functionality & Usage</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-complete-voice-free-auditory-experience-premium-sound-processor-applications-reviewed/"><u>Updated 2024 Approved The Complete Voice-Free Auditory Experience Premium Sound Processor Applications Reviewed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/windows-1011dvdmp46/"><u>Windows 10/11用DVDからMP4への上質な変換手順：6つの方法</u></a></li>
 </ul></div>
 
